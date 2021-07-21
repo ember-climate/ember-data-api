@@ -61,6 +61,18 @@ chardet = "*"
 django = ">=1.7"
 
 [[package]]
+name = "django-debug-toolbar"
+version = "3.2.1"
+description = "A configurable set of panels that display various debug information about the current request/response."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+Django = ">=2.2"
+sqlparse = ">=0.2.0"
+
+[[package]]
 name = "django-environ"
 version = "0.4.5"
 description = "Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application."
@@ -196,7 +208,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "f6d346482557e07abb9c5594db8d196e2d934a44ebe27b1cb6203f994909a973"
+content-hash = "0a0d90544e08a0eef380025ac25cc243150efcca41712174f4ac477f66a6abe2"
 
 [metadata.files]
 asgiref = [
@@ -217,6 +229,10 @@ django = [
 ]
 django-csvimport = [
     {file = "django-csvimport-2.16.tar.gz", hash = "sha256:ef3c5784df37574743ae7a1c458bab512ef0bc8753866b09c56cb970f7ade623"},
+]
+django-debug-toolbar = [
+    {file = "django-debug-toolbar-3.2.1.tar.gz", hash = "sha256:a5ff2a54f24bf88286f9872836081078f4baa843dc3735ee88524e89f8821e33"},
+    {file = "django_debug_toolbar-3.2.1-py3-none-any.whl", hash = "sha256:e759e63e3fe2d3110e0e519639c166816368701eab4a47fed75d7de7018467b9"},
 ]
 django-environ = [
     {file = "django-environ-0.4.5.tar.gz", hash = "sha256:6c9d87660142608f63ec7d5ce5564c49b603ea8ff25da595fd6098f6dc82afde"},

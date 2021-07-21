@@ -13,14 +13,13 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+import debug_toolbar
 from django.contrib import admin
 from django.contrib.auth.models import User
-from django.urls import include, path
+from django.urls import include, path, re_path
 from rest_framework import routers, serializers, viewsets
-from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from drf_spectacular.views import SpectacularAPIView, SpectacularRedocView, SpectacularSwaggerView
-from .models import GlobalGenerationAnnual
-
+from .views import GlobalGenerationAnnualList
 
 class UserSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
@@ -33,25 +32,13 @@ class UserViewSet(viewsets.ModelViewSet):
     serializer_class = UserSerializer
 
 
-class GlobalGenerationAnnualSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = GlobalGenerationAnnual
-        fields = ('year', 'area', 'fueltype', 'source', 'generation_twh', 'created_at', 'updated_at')
-
-
-class GlobalGenerationAnnualViewSet(viewsets.ModelViewSet):
-    serializer_class = GlobalGenerationAnnualSerializer
-    permission_classes = [IsAuthenticatedOrReadOnly]
-
-    queryset = GlobalGenerationAnnual.objects.all()
-
-
 # Routers provide a way of automatically determining the URL conf.
 router = routers.DefaultRouter()
 router.register(r'users', UserViewSet)
-router.register(r'globalgeneration', GlobalGenerationAnnualViewSet)
+# router.register(r'globalgeneration', GlobalGenerationAnnualViewSet)
 
 urlpatterns = [
+    path('__debug__/', include(debug_toolbar.urls)),
     path('', include(router.urls)),
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
@@ -61,4 +48,7 @@ urlpatterns = [
     # Optional UI:
     path('api/schema/swagger-ui/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),
     path('api/schema/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
+
+    # API
+    re_path('global$', GlobalGenerationAnnualList.as_view(), name='global-generation-annual-list'),
 ]
