@@ -24,3 +24,8 @@ class GlobalGenerationAnnual(models.Model):
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
+
+
+    # year,area,fueltype,source,generation_twh
+    # column1=year,column2=area,column3=fueltype,column4=source,column5=generation_twh
