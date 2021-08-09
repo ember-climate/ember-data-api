@@ -1,1 +1,1 @@
-web: gunicorn app.app.wsgi
+web: datasette . -h 0.0.0.0 -p $PORT --cors
