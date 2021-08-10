@@ -1,0 +1,26 @@
+{
+    "title": "Ember - Global Electricity Generation Dataset",
+    "description": "Data on the global electricity transition from coal to clean",
+    "about": "Ember's Global Electricity Generation Data",
+    "about_url": "https://ember-climate.org/about/",
+    "databases": {
+        "ember": {
+            "source": "See our reports for the full methodology and sources",
+            "source_url": "https://ember-climate.org/data/global-electricity/",
+            "tables": {
+                "annual": {
+                    "description_html": "Annual Global Electricity Generation by Country and Fuel type",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": 100
+                },
+                "monthly": {
+                    "description_html": "Monthly Global Electricity Generation by Country and Fuel type",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": 100
+                }
+            }
+        }
+    }
+}
