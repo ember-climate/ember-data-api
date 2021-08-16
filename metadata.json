@@ -12,13 +12,13 @@
                     "description_html": "Annual Global Electricity Generation by Country and Fuel type",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
-                    "size": 100
+                    "size": 1000
                 },
                 "monthly": {
                     "description_html": "Monthly Global Electricity Generation by Country and Fuel type",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
-                    "size": 100
+                    "size": 1000
                 }
             }
         }
