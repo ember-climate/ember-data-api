@@ -108,3 +108,4 @@ ENV/
 env.bak/
 venv.bak/
 .Rproj.user
+.Rproj
