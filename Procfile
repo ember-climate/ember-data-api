@@ -1,1 +1,1 @@
-web: datasette . -h 0.0.0.0 -p $PORT --config max_returned_rows: 2000 --metadata metadata.json --cors
+web: datasette . -h 0.0.0.0 -p $PORT --metadata metadata.json --cors --setting max_returned_rows: 2000
