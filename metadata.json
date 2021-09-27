@@ -8,17 +8,29 @@
             "source": "See our reports for the full methodology and sources",
             "source_url": "https://ember-climate.org/data/global-electricity/",
             "tables": {
-                "annual": {
+                "generation_annual": {
                     "description_html": "Annual Global Electricity Generation by Country and Fuel type",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
-                    "size": 1000
+                    "size": 2000
                 },
-                "monthly": {
+                "capacity_annual": {
+                    "description_html": "Annual Global Electricity Capacity by Country and Fuel type",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": 2000
+                },
+                "intensity_annual": {
+                    "description_html": "Annual Global Emissions intensity by Country",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": 2000
+                },
+                "generation_monthly": {
                     "description_html": "Monthly Global Electricity Generation by Country and Fuel type",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
-                    "size": 1000
+                    "size": 2000
                 }
             }
         }
