@@ -70,5 +70,5 @@ LEFT JOIN global_fuel_rank
     ON generation.country_or_region = global_fuel_rank.country_name
 LEFT JOIN dim_country country
     ON generation.country_or_region = country.country_name
-WHERE "year" <= {api_year}
+WHERE "year" BETWEEN 2000 AND {api_year}
 ORDER BY country_or_region, "year", variable
