@@ -6,6 +6,7 @@
     demand_mwh_per_capita DECIMAL(14,3),
     emissions_intensity_gco2_per_kwh DECIMAL(14,3),
     continent VARCHAR(20),
+    ember_region VARCHAR(100),
     eu_member_flag TINYINT,
     g20_flag TINYINT,
     oecd_flag TINYINT,

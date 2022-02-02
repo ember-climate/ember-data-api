@@ -1,5 +1,5 @@
 INSERT IGNORE INTO published.api_country_overview_yearly (country_or_region, country_code, "year", 
-    demand_twh, demand_mwh_per_capita, emissions_intensity_gco2_per_kwh, continent, eu_member_flag, g20_flag, 
+    demand_twh, demand_mwh_per_capita, emissions_intensity_gco2_per_kwh, continent, ember_region, eu_member_flag, g20_flag, 
     oecd_flag, region_demand_rank, latest_year, coal_deadline, clean_deadline)
 WITH latest_year as(
     SELECT country_code, MAX("year") as max_year 
@@ -27,6 +27,7 @@ SELECT
     demand_mwh_per_capita,
     emissions_intensity_estimate_gco2_per_kwh as emissions_intensity_gco2_per_kwh,
     continent,
+    ember_region,
     eu_member_flag,
     g20_flag,
     oecd_flag,
@@ -41,4 +42,4 @@ LEFT JOIN region_demand_rank
     ON overview.country_name = region_demand_rank.country_name
 LEFT JOIN deadlines
     ON overview.country_name = deadlines.country_name
-WHERE "year" <= {api_year}
+WHERE "year" BETWEEN 2000 AND {api_year}
