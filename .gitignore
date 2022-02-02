@@ -109,3 +109,4 @@ env.bak/
 venv.bak/
 .Rproj.user
 .Rproj
+config.ini
