@@ -1,0 +1,19 @@
+(
+    country_or_region VARCHAR(100),
+    country_code VARCHAR(3),
+    "year" INT,
+    variable VARCHAR(100),
+    generation_twh DECIMAL(14,2),
+    capacity_gw DECIMAL(14,2),
+    share_of_generation_pct DECIMAL(14,2),
+    emissions_mtco2 DECIMAL(14,2),
+    continent VARCHAR(20),
+    eu_member_flag TINYINT,
+    g20_flag TINYINT,
+    oecd_flag TINYINT,
+    region_demand_rank INT,
+    latest_year INT,
+    coal_deadline INT,
+    clean_deadline INT,
+    PRIMARY KEY(country_or_region, "year", variable)
+)

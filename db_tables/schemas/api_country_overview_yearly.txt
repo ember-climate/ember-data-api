@@ -1,0 +1,17 @@
+(
+    country_or_region VARCHAR(100),
+    country_code VARCHAR(3),
+    "year" INT,
+    demand_twh DECIMAL(14,2),
+    demand_mwh_per_capita DECIMAL(14,3),
+    emissions_intensity_gco2_per_kwh DECIMAL(14,3),
+    continent VARCHAR(20),
+    eu_member_flag TINYINT,
+    g20_flag TINYINT,
+    oecd_flag TINYINT,
+    region_demand_rank INT,
+    latest_year INT,
+    coal_deadline INT,
+    clean_deadline INT,
+    PRIMARY KEY(country_or_region, "year")
+)
