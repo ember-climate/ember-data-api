@@ -1,5 +1,5 @@
 INSERT INTO published.api_country_overview_yearly (country_or_region, country_code, "year", 
-    demand_twh, demand_mwh_per_capita, emissions_intensity_gco2_per_kwh, continent, ember_region, eu_member_flag, g20_flag, 
+    demand_twh, demand_mwh_per_capita, emissions_intensity_gco2_per_kwh, continent, ember_region, eu_flag, g20_flag, 
     g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, latest_year, coal_deadline, clean_deadline)
 WITH region_demand_rank as(
     SELECT

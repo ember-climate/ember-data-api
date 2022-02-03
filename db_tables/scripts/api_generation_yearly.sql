@@ -1,5 +1,5 @@
 INSERT INTO published.api_generation_yearly (country_or_region, country_code, "year", variable,
-    generation_twh, share_of_generation_pct, capacity_gw, emissions_mtco2, continent, ember_region, eu_member_flag, 
+    generation_twh, share_of_generation_pct, capacity_gw, emissions_mtco2, continent, ember_region, eu_flag, 
     g20_flag, g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, global_fuel_rank, 
     latest_year, coal_deadline, clean_deadline)
 WITH region_demand_rank as(
@@ -104,7 +104,7 @@ SELECT
     generation.emissions_mtco2 as emissions_mtco2,
     country.continent as continent,
     country.ember_region as ember_region,
-    country.eu_member_flag as eu_member_flag,
+    country.eu_member_flag as eu_flag,
     country.g20_flag as g20_flag,
     country.g7_flag as g7_flag,
     country.oecd_flag as oecd_flag,
