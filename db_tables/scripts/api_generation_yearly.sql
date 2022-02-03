@@ -1,12 +1,25 @@
 INSERT INTO published.api_generation_yearly (country_or_region, country_code, "year", variable,
     generation_twh, share_of_generation_pct, capacity_gw, emissions_mtco2, continent, ember_region, eu_member_flag, 
-    g20_flag, g7_flag, oecd_flag, region_demand_rank, global_fuel_rank, latest_year, coal_deadline, clean_deadline)
+    g20_flag, g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, global_fuel_rank, 
+    latest_year, coal_deadline, clean_deadline)
 WITH region_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(PARTITION BY ember_region ORDER BY demand_twh DESC) as region_demand_rank
     FROM mart_country_overview_yearly_global
     WHERE "year" = {api_year} - 1
+), oecd_demand_rank as(
+    SELECT
+        country_name,
+        row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
+    FROM mart_country_overview_yearly_global
+    WHERE oecd_flag = 1 and year = {api_year} - 1
+), eu_demand_rank as(
+    SELECT
+        country_name,
+        row_number() OVER(ORDER BY demand_twh  DESC) as eu_demand_rank
+    FROM mart_country_overview_yearly_global
+    WHERE eu_member_flag = 1 and year = {api_year} - 1
 ), global_fuel_rank as(
     SELECT
         country_name,
@@ -96,6 +109,8 @@ SELECT
     country.g7_flag as g7_flag,
     country.oecd_flag as oecd_flag,
     region_demand_rank.region_demand_rank as region_demand_rank,
+    oecd_demand_rank.oecd_demand_rank as oecd_demand_rank,
+    eu_demand_rank.eu_demand_rank as eu_demand_rank,
     global_fuel_rank.global_fuel_rank as global_fuel_rank,
     latest_year.max_year as latest_year,
     deadlines.coal_deadline as coal_deadline,
@@ -112,6 +127,10 @@ LEFT JOIN deadlines
     ON generation.country_or_region = deadlines.country_or_region
 LEFT JOIN dim_country country
     ON generation.country_or_region = country.country_name
+LEFT JOIN oecd_demand_rank
+    ON generation.country_or_region = oecd_demand_rank.country_name
+LEFT JOIN eu_demand_rank
+    ON generation.country_or_region = eu_demand_rank.country_name
 WHERE "year" BETWEEN 2000 AND {api_year}
 AND generation.country_or_region IS NOT NULL
 ORDER BY country_or_region, "year", variable
