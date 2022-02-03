@@ -12,6 +12,8 @@
     g7_flag TINYINT,
     oecd_flag TINYINT,
     region_demand_rank INT,
+    oecd_demand_rank INT,
+    eu_demand_rank INT,
     latest_year INT,
     coal_deadline INT,
     clean_deadline INT,
