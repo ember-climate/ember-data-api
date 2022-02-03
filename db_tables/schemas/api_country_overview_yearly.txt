@@ -9,6 +9,7 @@
     ember_region VARCHAR(100),
     eu_member_flag TINYINT,
     g20_flag TINYINT,
+    g7_flag TINYINT,
     oecd_flag TINYINT,
     region_demand_rank INT,
     latest_year INT,
