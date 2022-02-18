@@ -21,7 +21,8 @@ def update_api():
 
     published_con = connect_to_db('ember-published')
 
-    dataset_list = ['api_generation_yearly', 'api_country_overview_yearly']
+    dataset_list = ['api_generation_monthly',
+                    'api_generation_yearly', 'api_country_overview_yearly']
 
     for table_name in dataset_list:
 
