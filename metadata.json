@@ -32,6 +32,12 @@
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
+                "generation_monthly": {
+                    "description_html": "Monthly Global Electricity Generation by Country and Fuel type",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
                 "country_overview_yearly": {
                     "description_html": "Yearly Global Electricity by Country",
                     "license": "CC BY 4.0",

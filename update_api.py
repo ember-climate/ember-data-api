@@ -9,7 +9,7 @@ from create_table import *
 
 def update_api():
 
-    # Set the max year for the api
+    # Set the max year for the api. Needs to be changed once new year data will be read in
     api_year = 2021
 
     # Delete old ember.db file
