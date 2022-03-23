@@ -88,4 +88,7 @@ LEFT JOIN oecd_demand_rank
 LEFT JOIN eu_demand_rank
     ON overview.country_or_region = eu_demand_rank.country_name
 WHERE "year" BETWEEN 2000 AND {api_year}
+    AND overview.country_or_region IS NOT NULL 
+	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
+	AND (overview.country_or_region, "year") != ('Indonesia', 2021)  
 AND overview.country_or_region IS NOT NULL
