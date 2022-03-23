@@ -133,4 +133,6 @@ LEFT JOIN eu_demand_rank
     ON generation.country_or_region = eu_demand_rank.country_name
 WHERE "year" BETWEEN 2000 AND {api_year}
 AND generation.country_or_region IS NOT NULL
-ORDER BY country_or_region, "year", variable
+AND generation.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
+	AND (generation.country_or_region, generation."year") != ('Indonesia', 2021)
+ORDER BY generation.country_or_region, generation."year", generation.variable
