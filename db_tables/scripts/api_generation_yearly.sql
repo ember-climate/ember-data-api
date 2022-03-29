@@ -1,6 +1,6 @@
 INSERT INTO published.api_generation_yearly (country_or_region, country_code, "year", variable,
     generation_twh, share_of_generation_pct, capacity_gw, emissions_mtco2, continent, ember_region, eu_flag, 
-    g20_flag, g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, global_fuel_rank, 
+    g20_flag, g7_flag, oecd_flag, region_demand_rank, world_demand_rank, oecd_demand_rank, eu_demand_rank, global_fuel_rank, 
     latest_year, coal_deadline, clean_deadline)
 WITH region_demand_rank as(
     SELECT
@@ -8,6 +8,12 @@ WITH region_demand_rank as(
         row_number() OVER(PARTITION BY ember_region ORDER BY demand_twh DESC) as region_demand_rank
     FROM mart_country_overview_yearly_global
     WHERE "year" = {api_year} - 1
+), world_demand_rank as(
+    SELECT
+        country_name,
+        row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
+    FROM mart_country_overview_yearly_global
+    WHERE year = {api_year} - 1
 ), oecd_demand_rank as(
     SELECT
         country_name,
@@ -109,6 +115,7 @@ SELECT
     country.g7_flag as g7_flag,
     country.oecd_flag as oecd_flag,
     region_demand_rank.region_demand_rank as region_demand_rank,
+    world_demand_rank.oecd_demand_rank as world_demand_rank,
     oecd_demand_rank.oecd_demand_rank as oecd_demand_rank,
     eu_demand_rank.eu_demand_rank as eu_demand_rank,
     global_fuel_rank.global_fuel_rank as global_fuel_rank,
@@ -127,6 +134,8 @@ LEFT JOIN deadlines
     ON generation.country_or_region = deadlines.country_or_region
 LEFT JOIN dim_country country
     ON generation.country_or_region = country.country_name
+LEFT JOIN world_demand_rank
+    ON generation.country_or_region = world_demand_rank.country_name
 LEFT JOIN oecd_demand_rank
     ON generation.country_or_region = oecd_demand_rank.country_name
 LEFT JOIN eu_demand_rank
@@ -135,4 +144,5 @@ WHERE "year" BETWEEN 2000 AND {api_year}
 AND generation.country_or_region IS NOT NULL
 AND generation.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
 	AND (generation.country_or_region, generation."year") != ('Indonesia', 2021)
+    AND (generation.country_or_region, generation."year") != ('Middle East', 2021)
 ORDER BY generation.country_or_region, generation."year", generation.variable

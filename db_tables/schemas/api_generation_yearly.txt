@@ -13,6 +13,7 @@
     g20_flag TINYINT,
     g7_flag TINYINT,
     oecd_flag TINYINT,
+    world_demand_rank INT,
     region_demand_rank INT,
     oecd_demand_rank INT,
     eu_demand_rank INT,
