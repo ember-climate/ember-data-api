@@ -1,12 +1,18 @@
 INSERT INTO published.api_country_overview_yearly (country_or_region, country_code, "year", 
     demand_twh, demand_mwh_per_capita, emissions_intensity_gco2_per_kwh, continent, ember_region, eu_flag, g20_flag, 
-    g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, latest_year, coal_deadline, clean_deadline)
+    g7_flag, oecd_flag, region_demand_rank, world_demand_rank, oecd_demand_rank, eu_demand_rank, latest_year, coal_deadline, clean_deadline)
 WITH region_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(PARTITION BY ember_region ORDER BY demand_twh DESC) as region_demand_rank
     FROM mart_country_overview_yearly_global
     WHERE "year" = {api_year} - 1
+), world_demand_rank as(
+    SELECT
+        country_name,
+        row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
+    FROM mart_country_overview_yearly_global
+    WHERE year = {api_year} - 1
 ), oecd_demand_rank as(
     SELECT
         country_name,
@@ -69,6 +75,7 @@ SELECT
     country.g7_flag,
     country.oecd_flag,
     region_demand_rank.region_demand_rank as region_demand_rank,
+    world_demand_rank.oecd_demand_rank as world_demand_rank,
     oecd_demand_rank.oecd_demand_rank as oecd_demand_rank,
     eu_demand_rank.eu_demand_rank as eu_demand_rank,
     latest_year.max_year as latest_year,
@@ -83,6 +90,8 @@ LEFT JOIN deadlines
     ON overview.country_or_region = deadlines.country_or_region
 LEFT JOIN published.dim_country as country
     ON overview.country_or_region = country.country_name
+LEFT JOIN world_demand_rank
+    ON overview.country_or_region = world_demand_rank.country_name
 LEFT JOIN oecd_demand_rank
     ON overview.country_or_region = oecd_demand_rank.country_name
 LEFT JOIN eu_demand_rank
@@ -91,4 +100,5 @@ WHERE "year" BETWEEN 2000 AND {api_year}
     AND overview.country_or_region IS NOT NULL 
 	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
 	AND (overview.country_or_region, "year") != ('Indonesia', 2021)  
+	AND (overview.country_or_region, "year") != ('Middle East', 2021)  
 AND overview.country_or_region IS NOT NULL
