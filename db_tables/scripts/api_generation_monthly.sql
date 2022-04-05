@@ -48,8 +48,20 @@ WITH region_demand_rank as(
         generation_twh,
         share_of_generation_pct,
         emissions_estimate_mtco2 as emissions_mtco2,
-        fossil_flag
+        fossil_flag,
+        projected_estimate_flag
     FROM published.mart_generation_monthly_global generation
+), latest_actual_month as (
+    SELECT 
+	country_or_region
+	, MAX(CASE WHEN NOT projected_estimate_flag THEN generation_date ELSE NULL END) as max_monthly_actual_generation_date
+    FROM combined_gen
+    GROUP BY country_or_region
+), latest_selected_month as(
+    SELECT 
+        country_or_region
+        , CASE WHEN year(max_monthly_actual_generation_date) <= {api_year} THEN str_to_date(concat('01-12-', '{api_year}'), '%%d-%%m-%%Y') ELSE max_monthly_actual_generation_date END as max_selected_generation_date
+    FROM latest_actual_month
 ), expanded_table as(
 	SELECT
         country_or_region,
@@ -114,6 +126,8 @@ LEFT JOIN oecd_demand_rank
     ON generation.country_or_region = oecd_demand_rank.country_name
 LEFT JOIN eu_demand_rank
     ON generation.country_or_region = eu_demand_rank.country_name
-WHERE year(generation_date) BETWEEN 2000 AND {api_year}
+LEFT JOIN latest_selected_month
+    ON generation.country_or_region = latest_selected_month.country_or_region
+WHERE generation_date BETWEEN '2000-01-01' AND latest_selected_month.max_selected_generation_date
 AND generation.country_or_region IS NOT NULL
 ORDER BY country_or_region, generation_date, variable
