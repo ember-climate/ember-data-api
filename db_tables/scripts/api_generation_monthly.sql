@@ -51,6 +51,17 @@ WITH region_demand_rank as(
         fossil_flag,
         projected_estimate_flag
     FROM published.mart_generation_monthly_global generation
+    UNION
+    SELECT region as country_or_region,
+        NULL as country_code,
+        generation_date,
+        global_fuel_desc as variable,
+        generation_twh,
+        share_of_generation_pct,
+        emissions_estimate_mtco2 as emissions_mtco2,
+        fossil_flag,
+        0 as projected_estimate_flag
+    FROM published.mart_generation_monthly_region
 ), latest_actual_month as (
     SELECT 
 	country_or_region
