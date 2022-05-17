@@ -6,19 +6,19 @@ WITH region_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(PARTITION BY ember_region ORDER BY demand_twh DESC) as region_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE "year" = {api_year} - 1
 ), oecd_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE oecd_flag = 1 and year = {api_year} - 1
 ), eu_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(ORDER BY demand_twh  DESC) as eu_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE eu_member_flag = 1 and year = {api_year} - 1
 ), global_fuel_rank as(
     SELECT
@@ -47,7 +47,7 @@ WITH region_demand_rank as(
         global_fuel_desc as variable,
         generation_twh,
         share_of_generation_pct,
-        emissions_estimate_mtco2 as emissions_mtco2,
+        emissions_mtco2,
         fossil_flag,
         projected_estimate_flag
     FROM published.mart_generation_monthly_global generation
@@ -58,7 +58,7 @@ WITH region_demand_rank as(
         global_fuel_desc as variable,
         generation_twh,
         share_of_generation_pct,
-        emissions_estimate_mtco2 as emissions_mtco2,
+        emissions_mtco2,
         fossil_flag,
         0 as projected_estimate_flag
     FROM published.mart_generation_monthly_region

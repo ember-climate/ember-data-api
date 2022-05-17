@@ -5,25 +5,25 @@ WITH region_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(PARTITION BY ember_region ORDER BY demand_twh DESC) as region_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE "year" = {api_year} - 1
 ), world_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE year = {api_year} - 1
 ), oecd_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(ORDER BY demand_twh  DESC) as oecd_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE oecd_flag = 1 and year = {api_year} - 1
 ), eu_demand_rank as(
     SELECT
         country_name,
         row_number() OVER(ORDER BY demand_twh  DESC) as eu_demand_rank
-    FROM mart_country_overview_yearly_global
+    FROM mart_overview_yearly_global
     WHERE eu_member_flag = 1 and year = {api_year} - 1
 ), deadlines as(
     SELECT
@@ -44,8 +44,8 @@ WITH region_demand_rank as(
         "year",
         demand_twh,
         demand_mwh_per_capita,
-        emissions_intensity_estimate_gco2_per_kwh as emissions_intensity_gco2_per_kwh
-    FROM published.mart_country_overview_yearly_global
+        emissions_intensity_gco2_per_kwh
+    FROM published.mart_overview_yearly_global
     UNION
     SELECT 
         region as country_or_region,
@@ -53,7 +53,7 @@ WITH region_demand_rank as(
         "year",
         demand_twh,
         demand_mwh_per_capita,
-        emissions_intensity_gco2_per_kwh as emissions_intensity_gco2_per_kwh
+        emissions_intensity_gco2_per_kwh
     FROM published.mart_overview_yearly_region
 ), latest_year as(
     SELECT country_or_region, MAX("year") as max_year 
