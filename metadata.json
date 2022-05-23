@@ -25,6 +25,12 @@
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
+                },
+                "price_monthly": {
+                    "description_html": "Monthly Electricity Prices by Country",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
                 }
             }
         }

@@ -1,0 +1,13 @@
+(
+    country_or_region VARCHAR(100),
+    country_code VARCHAR(3),
+    date DATE,
+    day_ahead_price_eur_per_mwh DECIMAL(14,2),
+    continent VARCHAR(20),
+    ember_region VARCHAR(100),
+    eu_flag TINYINT,
+    g20_flag TINYINT,
+    g7_flag TINYINT,
+    oecd_flag TINYINT,
+    PRIMARY KEY(country_or_region, date)
+)
