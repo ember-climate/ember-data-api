@@ -1,4 +1,4 @@
-INSERT INTO published.api_generation_monthly (country_or_region, country_code, generation_date, variable,
+INSERT INTO published.api_generation_monthly (country_or_region, country_code, "date", variable,
     generation_twh, share_of_generation_pct, emissions_mtco2, continent, ember_region, eu_flag, 
     g20_flag, g7_flag, oecd_flag, region_demand_rank, oecd_demand_rank, eu_demand_rank, global_fuel_rank, 
     latest_year, coal_deadline, clean_deadline)
@@ -103,7 +103,7 @@ WITH region_demand_rank as(
 SELECT
     generation.country_or_region as country_or_region,
     generation.country_code,
-    generation.generation_date,
+    generation.generation_date as "date",
     generation.variable as variable,
     generation.generation_twh as generation_twh,
     generation.share_of_generation_pct as share_of_generation_pct,
