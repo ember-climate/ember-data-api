@@ -53,6 +53,17 @@ def update_api():
 
         print(f"{table_name} added to sqlite db as {api_table_name}")
 
+    # for datasets without a database table
+
+    no_db_table_list = ['euromod_2022']
+
+    for table_name in no_db_table_list:
+        subprocess.call(
+            f"sqlite-utils insert ember.db {table_name} ./data/{table_name}.csv --csv --detect-types",
+            shell=True)
+
+        print(f"{table_name} added to sqlite db as {table_name}")
+
 
 def main():
     update_api()
