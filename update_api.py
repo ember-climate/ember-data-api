@@ -1,10 +1,11 @@
 from asyncio import subprocess
 import os
+from pydoc import apropos
 import pandas as pd
 import subprocess
 import os
-from connect_to_db import *
-from create_table import *
+from utils.connect_to_db import connect_to_db
+from utils.create_table import create_table
 
 
 def update_api():
@@ -21,24 +22,29 @@ def update_api():
 
     published_con = connect_to_db('ember-published')
 
-    dataset_list = ['api_price_monthly',
-                    'api_generation_monthly',
-                    'api_generation_yearly',
-                    'api_country_overview_yearly']
+    sql_dataset_list = ['api_price_monthly', 'api_generation_monthly',
+                        'api_generation_yearly',
+                        'api_country_overview_yearly']
 
-    for table_name in dataset_list:
+    db_table_list = sql_dataset_list + ['api_day_ahead_price_monthly']
+
+    for table_name in db_table_list:
 
         print(f"Updating table {table_name}")
 
-        # Create or update the api data tables
-        table_structure = open(
-            f"db_tables/schemas/{table_name}.txt", 'r').read()
-        create_table(published_con, table_name, table_structure)
+        if table_name in sql_dataset_list:
 
-        sql_file = open(f"db_tables/scripts/{table_name}.sql", 'r')
-        print("Executing sql script:", f"{table_name}.sql")
-        published_con.execute(sql_file.read().format(api_year=2021))
-        sql_file.close()
+            print(f"Creating api table: {table_name}")
+
+            # Create or update the api data tables
+            table_structure = open(
+                f"db_tables/schemas/{table_name}.txt", 'r').read()
+            create_table(published_con, table_name, table_structure)
+
+            file = open(f"db_tables/scripts/{table_name}.sql", 'r')
+            print("Executing sql script:", f"{table_name}.sql")
+            published_con.execute(file.read().format(api_year=2021))
+            file.close()
 
         # Read table from db
         db_table_df = pd.read_sql_table(
@@ -53,8 +59,7 @@ def update_api():
 
         print(f"{table_name} added to sqlite db as {api_table_name}")
 
-    # for datasets without a database table
-
+    # Tables without db table
     no_db_table_list = ['euromod_2022']
 
     for table_name in no_db_table_list:
