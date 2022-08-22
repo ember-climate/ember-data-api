@@ -7,11 +7,11 @@ import os
 from utils.connect_to_db import connect_to_db
 from utils.create_table import create_table
 
+# Set the max year for the api. Needs to be changed once new year data will be read in
+API_YEAR = 2021
+
 
 def update_api():
-
-    # Set the max year for the api. Needs to be changed once new year data will be read in
-    api_year = 2021
 
     # Delete old ember.db file
     try:
@@ -43,7 +43,7 @@ def update_api():
 
             file = open(f"db_tables/scripts/{table_name}.sql", 'r')
             print("Executing sql script:", f"{table_name}.sql")
-            published_con.execute(file.read().format(api_year=2021))
+            published_con.execute(file.read().format(api_year=API_YEAR))
             file.close()
 
         # Read table from db
