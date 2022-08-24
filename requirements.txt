@@ -1,3 +1,5 @@
 datasette
 sqlite-utils
 SQLAlchemy
+pandas
+pymysql
