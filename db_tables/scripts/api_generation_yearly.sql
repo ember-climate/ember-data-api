@@ -219,7 +219,6 @@ WHERE
         'Saint Helena, Ascension and Tristan da Cunha',
         'Timor-Leste'
     )
-    AND (generation.country_or_region, generation."year") != ('Indonesia', 2021)
     AND (generation.country_or_region, generation."year") != ('Middle East', 2021)
 ORDER BY
     generation.country_or_region,
