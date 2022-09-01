@@ -101,6 +101,5 @@ LEFT JOIN eu_demand_rank
 WHERE "year" BETWEEN 2000 AND {api_year}
     AND overview.country_or_region IS NOT NULL 
 	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
-	AND (overview.country_or_region, "year") != ('Indonesia', 2021)  
 	AND (overview.country_or_region, "year") != ('Middle East', 2021)  
 AND overview.country_or_region IS NOT NULL
