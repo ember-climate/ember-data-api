@@ -62,7 +62,9 @@ WITH region_demand_rank as(
     GROUP BY country_or_region
 )
 SELECT
-    overview.country_or_region as country_or_region,
+    CASE
+        WHEN country.country_name IS NOT NULL THEN country.display_name
+        ELSE overview.country_or_region END as country_or_region,
     overview.country_code,
     "year",
     demand_twh,

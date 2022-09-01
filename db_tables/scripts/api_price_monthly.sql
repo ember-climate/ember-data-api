@@ -1,7 +1,7 @@
 INSERT INTO published.api_price_monthly (country_or_region, country_code, "date",
     day_ahead_price_eur_per_mwh, continent, ember_region, eu_flag, g20_flag, g7_flag, oecd_flag)
 SELECT
-    cou.country_name as country_or_region
+    cou.display_name as country_or_region
     , pr.country_code
     , pr.price_date as "date"
     , pr.price_eur_per_mwh as day_ahead_price_eur_per_mwh
