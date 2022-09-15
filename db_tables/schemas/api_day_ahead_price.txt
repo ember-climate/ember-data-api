@@ -30,5 +30,6 @@ Slovenia FLOAT,
 Spain FLOAT,
 Sweden FLOAT,
 Switzerland FLOAT,
+Grain VARCHAR(10),
 PRIMARY KEY(Date)
 )

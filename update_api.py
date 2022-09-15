@@ -14,7 +14,7 @@ API_YEAR = 2021
 
 def update_api():
 
-    # # Delete old ember.db file
+    # Delete old ember.db file
     try:
         os.remove("ember.db")
         print("Old sqlite db removed. Creating new file.")
@@ -29,7 +29,7 @@ def update_api():
         'api_generation_yearly',
         'api_country_overview_yearly'
     ]
-    py_dataset_list = ['api_day_ahead_price_monthly']
+    py_dataset_list = ['api_day_ahead_price']
     db_table_list = sql_dataset_list + py_dataset_list
 
     for table_name in db_table_list:
