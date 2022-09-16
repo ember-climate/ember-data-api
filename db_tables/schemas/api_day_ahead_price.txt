@@ -31,5 +31,6 @@ Spain FLOAT,
 Sweden FLOAT,
 Switzerland FLOAT,
 Grain VARCHAR(30),
+popup_date VARCHAR(30),
 PRIMARY KEY(Date, Grain)
 )
