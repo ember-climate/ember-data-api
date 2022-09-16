@@ -7,7 +7,12 @@ from utils.handle_db_connections import handle_db_connections
 
 MAX_DATES = {
     'monthly': "'2018-01-01'",
-    'daily': 'DATE_SUB((SELECT MAX(price_date) FROM fact_day_ahead_price_daily), INTERVAL 3 MONTH)'
+    'daily (1 year)': 'DATE_ADD('
+                      'DATE_SUB((SELECT MAX(price_date) FROM published.fact_day_ahead_price_daily), INTERVAL 1 YEAR), '
+                      'INTERVAL 1 DAY)',  # Gets the most recent year's worth of data
+    'daily (3 months)': 'DATE_ADD('
+                        'DATE_SUB((SELECT MAX(price_date) FROM published.fact_day_ahead_price_daily), INTERVAL 3 MONTH), '
+                        'INTERVAL 1 DAY)',
 }
 
 
@@ -18,7 +23,7 @@ def _read_prices_countries(published_con: Connection, grain: str) -> pd.DataFram
                     dap.price_date AS "Date", 
                     cou.country_name,
                     dap.price_eur_per_mwh
-                FROM fact_day_ahead_price_{grain} dap
+                FROM fact_day_ahead_price_{grain.split(' ')[0]} dap
                 LEFT JOIN dim_country cou
                         ON dap.country_code = cou.country_code
                 WHERE price_date >= {MAX_DATES[grain]}
@@ -32,7 +37,7 @@ def _read_prices_maxmin(published_con: Connection, grain: str) -> pd.DataFrame:
                     price_date AS "Date", 
                     MAX(price_eur_per_mwh) AS "Max EU price", 
                     MIN(price_eur_per_mwh) AS "Min EU price"
-                FROM fact_day_ahead_price_{grain}
+                FROM fact_day_ahead_price_{grain.split(' ')[0]}
                 WHERE price_date >= {MAX_DATES[grain]}
                 GROUP BY 1
                 """, published_con)
@@ -60,8 +65,9 @@ def _get_prices(grain: str):
 
 def create_api_day_ahead_price() -> pd.DataFrame:
     monthly_prices = _get_prices(grain='monthly')
-    daily_prices = _get_prices(grain='daily')
-    return pd.concat([monthly_prices, daily_prices])
+    daily_prices_year_months = _get_prices(grain='daily (3 months)')
+    daily_prices_year = _get_prices(grain='daily (1 year)')
+    return pd.concat([monthly_prices, daily_prices_year_months, daily_prices_year])
 
 
 def main() -> pd.DataFrame:
