@@ -69,8 +69,7 @@ def _get_prices(grain: str):
     prices_maxmin = _read_prices_maxmin(grain=grain)
     combined_prices = _combine_prices(transformed_prices_countries, prices_maxmin)
     combined_prices['Grain'] = grain.capitalize()
-    popup_prices = _add_popup_date_column(combined_prices, grain)
-    return popup_prices
+    return _add_popup_date_column(combined_prices, grain)
 
 
 def create_api_day_ahead_price() -> pd.DataFrame:
