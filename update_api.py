@@ -3,7 +3,6 @@ import subprocess
 import os
 
 from importlib import import_module
-from asyncio import subprocess
 from sqlalchemy.engine.base import Connection
 
 from utils.create_table import create_table
