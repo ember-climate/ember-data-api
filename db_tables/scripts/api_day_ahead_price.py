@@ -63,7 +63,7 @@ def _add_popup_date_column(source_df: pd.DataFrame, grain: str) -> pd.DataFrame:
     return source_df
 
 
-def _get_prices(grain: str):
+def _get_prices(grain: str) -> pd.DataFrame:
     prices_countries = _read_prices_countries(grain=grain)
     transformed_prices_countries = _transform_prices_country(prices_countries)
     prices_maxmin = _read_prices_maxmin(grain=grain)
