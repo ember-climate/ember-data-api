@@ -174,7 +174,9 @@ INSERT INTO
             country_or_region
     )
 SELECT
-    generation.country_or_region as country_or_region,
+    CASE
+        WHEN country.country_name IS NOT NULL THEN country.display_name
+        ELSE generation.country_or_region END as country_or_region,
     generation.country_code,
     generation."year",
     generation.variable as variable,
@@ -219,7 +221,6 @@ WHERE
         'Saint Helena, Ascension and Tristan da Cunha',
         'Timor-Leste'
     )
-    AND (generation.country_or_region, generation."year") != ('Indonesia', 2021)
     AND (generation.country_or_region, generation."year") != ('Middle East', 2021)
 ORDER BY
     generation.country_or_region,

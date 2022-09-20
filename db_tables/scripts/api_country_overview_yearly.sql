@@ -62,7 +62,9 @@ WITH region_demand_rank as(
     GROUP BY country_or_region
 )
 SELECT
-    overview.country_or_region as country_or_region,
+    CASE
+        WHEN country.country_name IS NOT NULL THEN country.display_name
+        ELSE overview.country_or_region END as country_or_region,
     overview.country_code,
     "year",
     demand_twh,
@@ -99,6 +101,5 @@ LEFT JOIN eu_demand_rank
 WHERE "year" BETWEEN 2000 AND {api_year}
     AND overview.country_or_region IS NOT NULL 
 	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
-	AND (overview.country_or_region, "year") != ('Indonesia', 2021)  
 	AND (overview.country_or_region, "year") != ('Middle East', 2021)  
 AND overview.country_or_region IS NOT NULL
