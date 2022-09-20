@@ -20,7 +20,7 @@ SQL_DATASET_LIST = [
     'api_generation_yearly',
     'api_country_overview_yearly'
 ]
-PY_DATASET_LIST = ['api_day_ahead_price_monthly']
+PY_DATASET_LIST = ['api_day_ahead_price']
 NO_DB_TABLE_LIST = ['euromod_2022']
 
 
