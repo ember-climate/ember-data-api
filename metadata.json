@@ -43,6 +43,12 @@
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
+                },
+                "subnational_generation_monthly": {
+                    "description_html": "Subnational monthly electricity generation",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
                 }
             }
         }
