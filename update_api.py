@@ -17,7 +17,8 @@ SQL_DATASET_LIST = [
     'api_price_monthly',
     'api_generation_monthly',
     'api_generation_yearly',
-    'api_country_overview_yearly'
+    'api_country_overview_yearly',
+    'api_subnational_generation_monthly'
 ]
 PY_DATASET_LIST = ['api_day_ahead_price']
 NO_DB_TABLE_LIST = ['euromod_2022']
@@ -69,7 +70,8 @@ def update_api() -> None:
 
     # Add csvs into ember.db
     for table_name in all_table_list:
-        api_table_name = table_name.split("_", 1)[1] if table_name in db_table_list else table_name
+        api_table_name = table_name.split(
+            "_", 1)[1] if table_name in db_table_list else table_name
         subprocess.call(
             f"sqlite-utils insert ember.db {api_table_name} ./data/{table_name}.csv --csv --detect-types",
             shell=True)
