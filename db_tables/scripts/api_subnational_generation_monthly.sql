@@ -15,7 +15,7 @@ SELECT
     states.generation_date as "date",
     fuel.global_fuel_desc as variable,
     states.generation_gwh as generation_gwh,
-    states.capacity_gw as capacity_gw
+    states.capacity_gw as capacity_gw,
     states.emissions_mtco2 as emissions_mtco2
 FROM transformed.mart_generation_monthly_states states
 LEFT JOIN published.dim_country country
