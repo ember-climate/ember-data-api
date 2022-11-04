@@ -14,7 +14,7 @@ API_YEAR = 2021
 
 # Lay out the tables we use and how we process them
 SQL_DATASET_LIST = [
-    # 'api_subnational_generation_monthly',
+    'api_subnational_generation_monthly',
     'api_price_monthly',
     'api_generation_monthly',
     'api_generation_yearly',
