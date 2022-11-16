@@ -1,0 +1,1210 @@
+country,state,year,demand_gwh,emissions_ktco2,emissions_intensity_gco2_per_kwh
+India,Andaman and Nicobar,2019,110.35,63.11,571.91
+India,Andaman and Nicobar,2020,161.25,89.69,556.22
+India,Andaman and Nicobar,2021,130.86,68.19,521.09
+India,Andhra Pradesh,2019,76527.64,48429.72,632.84
+India,Andhra Pradesh,2020,64560.37,38549.88,597.11
+India,Andhra Pradesh,2021,75339.81,46032.85,611.0
+India,Arunachal Pradesh,2019,1649.85,39.63,24.02
+India,Arunachal Pradesh,2020,3200.6,76.86,24.01
+India,Arunachal Pradesh,2021,4064.31,97.58,24.01
+India,Assam,2019,7954.13,4424.69,556.28
+India,Assam,2020,6035.06,3853.22,638.47
+India,Assam,2021,8052.1,4883.91,606.54
+India,Bihar,2019,35451.97,28764.23,811.36
+India,Bihar,2020,32780.68,26651.68,813.03
+India,Bihar,2021,41386.36,33796.45,816.61
+India,Chandigarh,2019,11.99,0.58,48.37
+India,Chandigarh,2020,9.86,0.47,47.67
+India,Chandigarh,2021,14.81,0.71,47.94
+India,Chhattisgarh,2019,114857.06,93338.48,812.65
+India,Chhattisgarh,2020,132504.24,107403.18,810.56
+India,Chhattisgarh,2021,141481.27,114441.14,808.88
+India,Dadra and Nagar Haveli and Daman and Diu,2019,27.68,1.33,48.05
+India,Dadra and Nagar Haveli and Daman and Diu,2020,38.6,3.17,82.12
+India,Dadra and Nagar Haveli and Daman and Diu,2021,134.39,9.73,72.4
+India,Delhi,2019,6082.54,2799.72,460.29
+India,Delhi,2020,5809.1,2659.45,457.81
+India,Delhi,2021,5550.78,2522.83,454.5
+India,Goa,2019,0.4,0.02,50.0
+India,Goa,2020,1.48,0.07,47.3
+India,Goa,2021,2.59,0.12,46.33
+India,Gujarat,2019,123634.74,78023.87,631.08
+India,Gujarat,2020,122497.23,73073.26,596.53
+India,Gujarat,2021,97564.43,52969.89,542.92
+India,Haryana,2019,20093.04,15755.53,784.13
+India,Haryana,2020,13347.43,10152.74,760.65
+India,Haryana,2021,23298.47,18259.48,783.72
+India,Himachal Pradesh,2019,42917.65,1030.14,24.0
+India,Himachal Pradesh,2020,40733.18,978.43,24.02
+India,Himachal Pradesh,2021,37719.72,906.29,24.03
+India,India Total,2019,4135529.51,2560122.03,619.06
+India,India Total,2020,4027887.17,2441847.74,606.24
+India,India Total,2021,4410525.97,2733317.62,619.73
+India,Jammu and Kashmir,2019,18489.59,443.75,24.0
+India,Jammu and Kashmir,2020,18123.79,435.1,24.01
+India,Jammu and Kashmir,2021,17317.95,415.77,24.01
+India,Jharkhand,2019,26351.56,21492.5,815.61
+India,Jharkhand,2020,26918.69,21873.28,812.57
+India,Jharkhand,2021,28545.14,22972.71,804.79
+India,Karnataka,2019,69127.19,21593.15,312.37
+India,Karnataka,2020,67118.43,16882.38,251.53
+India,Karnataka,2021,78848.08,26852.91,340.57
+India,Kerala,2019,6350.35,166.15,26.16
+India,Kerala,2020,7107.53,183.62,25.84
+India,Kerala,2021,10710.98,326.07,30.44
+India,Ladakh,2019,18.99,0.46,24.22
+India,Ladakh,2020,387.47,9.3,24.0
+India,Ladakh,2021,400.87,9.62,24.0
+India,Lakshadweep,2019,0.65,0.03,46.15
+India,Lakshadweep,2020,0.55,0.03,54.55
+India,Lakshadweep,2021,0.35,0.02,57.14
+India,Madhya Pradesh,2019,128620.24,94428.38,734.16
+India,Madhya Pradesh,2020,134943.69,98801.37,732.17
+India,Madhya Pradesh,2021,141572.95,105271.68,743.59
+India,Maharashtra,2019,145819.71,92503.92,634.37
+India,Maharashtra,2020,127575.7,81279.8,637.11
+India,Maharashtra,2021,153628.75,100866.57,656.56
+India,Manipur,2019,370.25,8.95,24.17
+India,Manipur,2020,578.31,14.05,24.3
+India,Manipur,2021,497.57,12.11,24.34
+India,Meghalaya,2019,1077.54,25.86,24.0
+India,Meghalaya,2020,1183.95,28.41,24.0
+India,Meghalaya,2021,926.22,22.24,24.01
+India,Mizoram,2019,216.77,5.21,24.04
+India,Mizoram,2020,190.39,4.58,24.06
+India,Mizoram,2021,151.82,3.73,24.57
+India,Nagaland,2019,244.74,5.87,23.99
+India,Nagaland,2020,267.04,6.39,23.93
+India,Nagaland,2021,182.15,4.37,23.99
+India,Odisha,2019,46895.52,32598.79,695.14
+India,Odisha,2020,61492.21,44206.74,718.9
+India,Odisha,2021,64922.31,48057.4,740.23
+India,Puducherry,2019,241.84,116.85,483.17
+India,Puducherry,2020,252.14,121.58,482.19
+India,Puducherry,2021,253.77,118.94,468.69
+India,Punjab,2019,31520.05,19752.1,626.65
+India,Punjab,2020,23076.88,12775.56,553.61
+India,Punjab,2021,30023.77,19247.9,641.09
+India,Rajasthan,2019,70421.71,39521.33,561.21
+India,Rajasthan,2020,69126.65,36886.62,533.61
+India,Rajasthan,2021,77687.56,40685.92,523.71
+India,Sikkim,2019,11099.39,266.39,24.0
+India,Sikkim,2020,10964.49,263.15,24.0
+India,Sikkim,2021,11372.08,273.18,24.02
+India,Tamil Nadu,2019,101416.04,54055.58,533.01
+India,Tamil Nadu,2020,94606.2,44473.06,470.09
+India,Tamil Nadu,2021,103126.14,50134.71,486.15
+India,Telangana,2019,59700.71,40352.44,675.91
+India,Telangana,2020,53734.14,35970.97,669.43
+India,Telangana,2021,63878.35,42223.91,661.01
+India,Tripura,2019,6704.99,3269.66,487.65
+India,Tripura,2020,6461.67,3157.91,488.71
+India,Tripura,2021,6399.38,3130.24,489.15
+India,Uttar Pradesh,2019,129281.1,98293.86,760.31
+India,Uttar Pradesh,2020,127926.62,96082.65,751.08
+India,Uttar Pradesh,2021,141082.85,107365.67,761.01
+India,Uttarakhand,2019,17502.77,1319.56,75.39
+India,Uttarakhand,2020,16047.92,706.65,44.03
+India,Uttarakhand,2021,16213.89,1191.68,73.5
+India,West Bengal,2019,77719.11,60482.18,778.22
+India,West Bengal,2020,72865.54,56293.97,772.57
+India,West Bengal,2021,87692.52,67929.42,774.63
+United States,Alabama,2001,125358.87,65883.63,525.56
+United States,Alabama,2002,132939.07,68706.6,516.83
+United States,Alabama,2003,137507.52,70792.79,514.83
+United States,Alabama,2004,137372.54,71048.66,517.2
+United States,Alabama,2005,137961.41,72649.97,526.6
+United States,Alabama,2006,140910.96,75242.19,533.97
+United States,Alabama,2007,143839.49,76961.47,535.05
+United States,Alabama,2008,145903.6,73813.64,505.91
+United States,Alabama,2009,143270.03,63080.8,440.29
+United States,Alabama,2010,152162.04,72727.95,477.96
+United States,Alabama,2011,156349.1,71835.52,459.46
+United States,Alabama,2012,152886.47,66360.22,434.05
+United States,Alabama,2013,150582.26,63111.43,419.12
+United States,Alabama,2014,149345.26,63996.15,428.51
+United States,Alabama,2015,152480.63,62901.17,412.52
+United States,Alabama,2016,142392.74,57880.03,406.48
+United States,Alabama,2017,139972.26,53304.78,380.82
+United States,Alabama,2018,145068.86,56470.43,389.27
+United States,Alabama,2019,142693.61,51488.62,360.83
+United States,Alabama,2020,137557.55,46509.59,338.11
+United States,Alabama,2021,142971.05,50046.97,350.05
+United States,Alaska,2001,6743.77,3059.99,453.75
+United States,Alaska,2002,6778.44,3034.45,447.66
+United States,Alaska,2003,6343.75,2726.31,429.76
+United States,Alaska,2004,6535.55,2869.0,438.98
+United States,Alaska,2005,6581.54,2904.31,441.28
+United States,Alaska,2006,6680.35,3063.3,458.55
+United States,Alaska,2007,6831.59,3161.78,462.82
+United States,Alaska,2008,6779.51,3181.81,469.33
+United States,Alaska,2009,6708.66,3113.43,464.09
+United States,Alaska,2010,6765.87,3038.44,449.08
+United States,Alaska,2011,6874.34,3149.11,458.1
+United States,Alaska,2012,6949.0,3095.82,445.51
+United States,Alaska,2013,6503.32,2809.63,432.03
+United States,Alaska,2014,6049.18,2432.47,402.12
+United States,Alaska,2015,6289.69,2634.47,418.86
+United States,Alaska,2016,6336.74,2608.94,411.72
+United States,Alaska,2017,6500.67,2706.52,416.35
+United States,Alaska,2018,6252.86,2576.57,412.06
+United States,Alaska,2019,6075.56,2554.22,420.41
+United States,Alaska,2020,6283.28,2626.53,418.02
+United States,Alaska,2021,5955.26,2528.76,424.63
+United States,Arizona,2001,89916.14,39921.2,443.98
+United States,Arizona,2002,94134.95,40485.01,430.07
+United States,Arizona,2003,94400.05,42013.11,445.05
+United States,Arizona,2004,104564.14,47993.86,458.99
+United States,Arizona,2005,101482.33,47586.33,468.91
+United States,Arizona,2006,104396.79,49785.18,476.88
+United States,Arizona,2007,113345.45,53221.14,469.55
+United States,Arizona,2008,119463.11,55560.08,465.08
+United States,Arizona,2009,111974.96,50190.66,448.23
+United States,Arizona,2010,111755.0,50965.4,456.05
+United States,Arizona,2011,108130.13,47926.52,443.23
+United States,Arizona,2012,110908.27,48432.43,436.69
+United States,Arizona,2013,113325.99,50907.08,449.21
+United States,Arizona,2014,113358.49,49170.53,433.76
+United States,Arizona,2015,114512.14,47020.43,410.62
+United States,Arizona,2016,110366.87,42591.42,385.91
+United States,Arizona,2017,107744.28,41207.82,382.46
+United States,Arizona,2018,114190.35,44408.55,388.9
+United States,Arizona,2019,116123.57,42629.54,367.11
+United States,Arizona,2020,112217.09,37192.63,331.44
+United States,Arizona,2021,111964.26,36444.15,325.5
+United States,Arkansas,2001,47199.34,22835.56,483.81
+United States,Arkansas,2002,47616.31,22049.31,463.06
+United States,Arkansas,2003,50495.88,23797.4,471.27
+United States,Arkansas,2004,51960.23,24368.5,468.98
+United States,Arkansas,2005,47817.34,22625.17,473.16
+United States,Arkansas,2006,52193.51,25123.04,481.34
+United States,Arkansas,2007,54605.73,25924.87,474.77
+United States,Arkansas,2008,55061.53,26251.52,476.77
+United States,Arkansas,2009,57480.42,26789.55,466.06
+United States,Arkansas,2010,61018.83,29888.67,489.83
+United States,Arkansas,2011,61331.53,31155.2,507.98
+United States,Arkansas,2012,65022.32,32367.18,497.79
+United States,Arkansas,2013,60366.99,32718.72,542.0
+United States,Arkansas,2014,61632.72,32573.63,528.51
+United States,Arkansas,2015,55584.45,25747.04,463.21
+United States,Arkansas,2016,60500.19,29019.68,479.66
+United States,Arkansas,2017,60824.31,30632.53,503.62
+United States,Arkansas,2018,68047.0,35282.57,518.5
+United States,Arkansas,2019,64505.98,30404.85,471.35
+United States,Arkansas,2020,54744.47,22173.31,405.03
+United States,Arkansas,2021,60389.65,27607.66,457.16
+United States,California,2001,196343.03,61030.43,310.84
+United States,California,2002,182234.42,50145.82,275.17
+United States,California,2003,191503.11,51692.75,269.93
+United States,California,2004,193286.38,55946.32,289.45
+United States,California,2005,198635.03,52884.26,266.24
+United States,California,2006,215312.24,58994.3,273.99
+United States,California,2007,209439.62,63353.21,302.49
+United States,California,2008,207049.63,65284.46,315.31
+United States,California,2009,203995.69,62124.14,304.54
+United States,California,2010,203758.74,59391.15,291.48
+United States,California,2011,200679.89,50542.91,251.86
+United States,California,2012,200110.39,64477.45,322.21
+United States,California,2013,200933.4,63971.0,318.37
+United States,California,2014,204345.18,64748.95,316.86
+United States,California,2015,203559.59,62525.69,307.16
+United States,California,2016,205966.5,53552.17,260.0
+United States,California,2017,217529.21,49998.14,229.85
+United States,California,2018,209194.08,50639.86,242.07
+United States,California,2019,217789.92,49029.35,225.12
+United States,California,2020,211245.78,51838.0,245.39
+United States,California,2021,217270.24,54090.23,248.95
+United States,Colorado,2001,46940.2,34252.79,729.71
+United States,Colorado,2002,45630.21,33493.82,734.03
+United States,Colorado,2003,46648.25,34197.62,733.1
+United States,Colorado,2004,47904.38,34708.76,724.54
+United States,Colorado,2005,49650.58,35072.33,706.38
+United States,Colorado,2006,50729.05,35653.34,702.82
+United States,Colorado,2007,53938.59,36934.34,684.75
+United States,Colorado,2008,53478.33,35294.87,659.99
+United States,Colorado,2009,50604.65,32863.11,649.41
+United States,Colorado,2010,50759.1,33910.47,668.07
+United States,Colorado,2011,51471.56,33016.14,641.44
+United States,Colorado,2012,52592.94,33629.1,639.42
+United States,Colorado,2013,52973.53,33057.88,624.05
+United States,Colorado,2014,54235.68,32761.39,604.06
+United States,Colorado,2015,52819.65,31775.82,601.59
+United States,Colorado,2016,54909.91,31041.78,565.32
+United States,Colorado,2017,54404.2,30414.9,559.05
+United States,Colorado,2018,56008.31,29981.4,535.3
+United States,Colorado,2019,57003.78,29473.88,517.05
+United States,Colorado,2020,54848.7,25129.44,458.16
+United States,Colorado,2021,57808.08,26887.9,465.12
+United States,Connecticut,2001,30490.64,9698.12,318.07
+United States,Connecticut,2002,31311.22,9573.31,305.75
+United States,Connecticut,2003,29545.05,8310.03,281.27
+United States,Connecticut,2004,32633.42,9598.35,294.13
+United States,Connecticut,2005,33549.74,10720.04,319.53
+United States,Connecticut,2006,34681.74,10449.29,301.29
+United States,Connecticut,2007,33171.21,9731.4,293.37
+United States,Connecticut,2008,30409.47,8775.18,288.57
+United States,Connecticut,2009,31206.22,7913.84,253.6
+United States,Connecticut,2010,33349.62,9054.61,271.51
+United States,Connecticut,2011,33745.24,8839.44,261.95
+United States,Connecticut,2012,36117.55,9612.12,266.13
+United States,Connecticut,2013,35610.79,9367.13,263.04
+United States,Connecticut,2014,33804.51,9035.6,267.29
+United States,Connecticut,2015,37670.46,10102.84,268.19
+United States,Connecticut,2016,36817.56,9828.1,266.94
+United States,Connecticut,2017,34970.81,8900.6,254.52
+United States,Connecticut,2018,39954.17,11055.1,276.7
+United States,Connecticut,2019,40650.73,11333.97,278.81
+United States,Connecticut,2020,41926.44,12375.48,295.17
+United States,Connecticut,2021,44983.48,13153.69,292.41
+United States,Delaware,2001,6783.35,4821.72,710.82
+United States,Delaware,2002,5950.81,4278.19,718.93
+United States,Delaware,2003,7324.76,5303.12,724.0
+United States,Delaware,2004,7855.56,5707.29,726.53
+United States,Delaware,2005,8136.57,5941.47,730.22
+United States,Delaware,2006,7182.18,5377.73,748.76
+United States,Delaware,2007,8534.16,6226.5,729.6
+United States,Delaware,2008,7523.84,5530.66,735.09
+United States,Delaware,2009,4841.56,3382.8,698.7
+United States,Delaware,2010,5627.64,3580.39,636.22
+United States,Delaware,2011,6590.19,3717.4,564.08
+United States,Delaware,2012,8633.69,4716.72,546.32
+United States,Delaware,2013,7760.87,4313.21,555.76
+United States,Delaware,2014,7775.03,4105.6,528.05
+United States,Delaware,2015,7889.36,4066.88,515.49
+United States,Delaware,2016,8798.69,4468.36,507.84
+United States,Delaware,2017,7588.34,3817.08,503.02
+United States,Delaware,2018,6350.35,3208.66,505.27
+United States,Delaware,2019,5383.03,2624.38,487.53
+United States,Delaware,2020,5333.8,2577.65,483.27
+United States,Delaware,2021,4180.23,2063.46,493.62
+United States,Florida,2001,188212.73,107062.56,568.84
+United States,Florida,2002,198790.12,108567.69,546.14
+United States,Florida,2003,207110.66,114872.25,554.64
+United States,Florida,2004,212052.91,116024.93,547.15
+United States,Florida,2005,212742.66,116516.28,547.69
+United States,Florida,2006,217249.17,115583.38,532.03
+United States,Florida,2007,221424.27,119420.71,539.33
+United States,Florida,2008,216950.09,113265.82,522.08
+United States,Florida,2009,215575.66,109969.01,510.12
+United States,Florida,2010,226437.44,119610.68,528.23
+United States,Florida,2011,220489.85,114131.27,517.63
+United States,Florida,2012,220962.31,113654.45,514.36
+United States,Florida,2013,220893.87,109985.22,497.91
+United States,Florida,2014,229423.07,115190.43,502.09
+United States,Florida,2015,236744.78,115581.54,488.21
+United States,Florida,2016,237270.32,114220.79,481.4
+United States,Florida,2017,238601.79,113813.61,477.0
+United States,Florida,2018,243724.01,113217.03,464.53
+United States,Florida,2019,245472.49,110654.6,450.78
+United States,Florida,2020,250796.32,110296.04,439.78
+United States,Florida,2021,245591.84,107552.9,437.93
+United States,Georgia,2001,117910.72,64716.17,548.86
+United States,Georgia,2002,126117.61,70404.24,558.24
+United States,Georgia,2003,123673.22,68295.69,552.23
+United States,Georgia,2004,126334.38,70075.22,554.68
+United States,Georgia,2005,136155.76,77869.12,571.91
+United States,Georgia,2006,137459.64,78766.46,573.02
+United States,Georgia,2007,144636.52,83389.69,576.55
+United States,Georgia,2008,135794.08,77980.39,574.26
+United States,Georgia,2009,128245.2,68270.85,532.35
+United States,Georgia,2010,137135.35,73137.22,533.32
+United States,Georgia,2011,124373.05,63622.17,511.54
+United States,Georgia,2012,122055.01,55517.28,454.86
+United States,Georgia,2013,121006.83,54225.31,448.12
+United States,Georgia,2014,125968.26,58807.79,466.85
+United States,Georgia,2015,128955.86,56904.78,441.27
+United States,Georgia,2016,133543.09,58700.5,439.56
+United States,Georgia,2017,127581.98,54328.67,425.83
+United States,Georgia,2018,129387.0,53859.04,416.26
+United States,Georgia,2019,128895.18,51405.74,398.82
+United States,Georgia,2020,120351.74,42552.35,353.57
+United States,Georgia,2021,126747.55,46558.98,367.34
+United States,Hawaii,2001,10688.75,7296.29,682.61
+United States,Hawaii,2002,11790.29,8101.56,687.14
+United States,Hawaii,2003,11139.94,7543.51,677.16
+United States,Hawaii,2004,11561.08,7821.07,676.5
+United States,Hawaii,2005,11669.54,7905.38,677.44
+United States,Hawaii,2006,11695.71,7852.77,671.42
+United States,Hawaii,2007,11649.17,7754.42,665.66
+United States,Hawaii,2008,11494.79,7646.0,665.17
+United States,Hawaii,2009,11114.9,7396.45,665.45
+United States,Hawaii,2010,10945.05,7280.12,665.15
+United States,Hawaii,2011,10874.54,7087.69,651.77
+United States,Hawaii,2012,10597.37,6871.94,648.46
+United States,Hawaii,2013,10413.85,6611.81,634.91
+United States,Hawaii,2014,10895.16,6543.12,600.55
+United States,Hawaii,2015,10883.48,6436.6,591.41
+United States,Hawaii,2016,10863.36,6285.62,578.61
+United States,Hawaii,2017,10887.81,6208.19,570.2
+United States,Hawaii,2018,10929.74,6251.64,571.98
+United States,Hawaii,2019,10970.7,6298.28,574.1
+United States,Hawaii,2020,10383.27,5639.54,543.14
+United States,Hawaii,2021,10585.3,5506.47,520.2
+United States,Idaho,2001,9346.95,1122.93,120.14
+United States,Idaho,2002,9786.93,625.69,63.93
+United States,Idaho,2003,10422.93,1116.61,107.13
+United States,Idaho,2004,10863.04,1274.81,117.35
+United States,Idaho,2005,10824.98,1215.98,112.33
+United States,Idaho,2006,13386.08,1146.21,85.63
+United States,Idaho,2007,11484.08,1257.62,109.51
+United States,Idaho,2008,11970.55,1290.67,107.82
+United States,Idaho,2009,13100.14,1290.44,98.51
+United States,Idaho,2010,12048.14,1298.78,107.8
+United States,Idaho,2011,16592.7,1126.49,67.89
+United States,Idaho,2012,15557.3,1456.28,93.61
+United States,Idaho,2013,15353.26,2179.44,141.95
+United States,Idaho,2014,15332.43,1758.7,114.71
+United States,Idaho,2015,15806.54,2366.77,149.73
+United States,Idaho,2016,15744.88,2072.0,131.6
+United States,Idaho,2017,17484.5,1996.32,114.18
+United States,Idaho,2018,18270.1,2108.59,115.41
+United States,Idaho,2019,18532.3,2584.83,139.48
+United States,Idaho,2020,17815.61,2505.35,140.63
+United States,Idaho,2021,17101.91,2611.12,152.68
+United States,Illinois,2001,179275.83,70085.56,390.94
+United States,Illinois,2002,188186.14,77199.93,410.23
+United States,Illinois,2003,189186.22,76423.1,403.96
+United States,Illinois,2004,191991.44,81082.89,422.33
+United States,Illinois,2005,194068.0,80742.34,416.05
+United States,Illinois,2006,192422.95,79227.27,411.74
+United States,Illinois,2007,200277.79,83316.5,416.01
+United States,Illinois,2008,199475.37,82839.1,415.29
+United States,Illinois,2009,193864.97,77502.49,399.78
+United States,Illinois,2010,201351.96,81326.27,403.9
+United States,Illinois,2011,199499.78,78589.45,393.93
+United States,Illinois,2012,197571.23,73613.32,372.59
+United States,Illinois,2013,203009.86,77361.82,381.07
+United States,Illinois,2014,202170.1,76166.42,376.74
+United States,Illinois,2015,193984.49,67640.44,348.69
+United States,Illinois,2016,187332.91,59023.32,315.07
+United States,Illinois,2017,183658.27,56660.05,308.51
+United States,Illinois,2018,188108.46,59108.99,314.23
+United States,Illinois,2019,184668.58,52300.02,283.21
+United States,Illinois,2020,173830.03,39521.68,227.36
+United States,Illinois,2021,182784.08,47913.9,262.13
+United States,Indiana,2001,122406.89,98680.7,806.17
+United States,Indiana,2002,125311.94,100705.75,803.64
+United States,Indiana,2003,124664.6,100408.03,805.43
+United States,Indiana,2004,127515.96,102865.14,806.68
+United States,Indiana,2005,130272.29,104843.32,804.8
+United States,Indiana,2006,130489.79,105182.71,806.06
+United States,Indiana,2007,130638.0,104927.62,803.19
+United States,Indiana,2008,129510.3,103950.09,802.64
+United States,Indiana,2009,116660.78,92406.33,792.09
+United States,Indiana,2010,125180.74,97271.36,777.05
+United States,Indiana,2011,120975.66,92366.68,763.52
+United States,Indiana,2012,113881.02,85099.27,747.27
+United States,Indiana,2013,108995.53,82647.16,758.26
+United States,Indiana,2014,114264.88,86726.07,758.99
+United States,Indiana,2015,102912.75,74283.21,721.81
+United States,Indiana,2016,101353.28,71377.44,704.24
+United States,Indiana,2017,99045.03,70049.81,707.25
+United States,Indiana,2018,113626.9,78789.78,693.41
+United States,Indiana,2019,102696.81,67441.23,656.7
+United States,Indiana,2020,90304.42,57097.17,632.27
+United States,Indiana,2021,94847.41,60624.4,639.18
+United States,Iowa,2001,40669.35,28887.22,710.3
+United States,Iowa,2002,42542.92,29428.8,691.74
+United States,Iowa,2003,42134.57,29702.68,704.95
+United States,Iowa,2004,43246.41,29507.32,682.31
+United States,Iowa,2005,44184.24,29534.41,668.44
+United States,Iowa,2006,45418.45,29611.58,651.97
+United States,Iowa,2007,49684.7,32939.79,662.98
+United States,Iowa,2008,53075.02,34421.6,648.55
+United States,Iowa,2009,51904.75,31450.18,605.92
+United States,Iowa,2010,57533.33,34775.24,604.44
+United States,Iowa,2011,56372.53,32124.21,569.86
+United States,Iowa,2012,56722.42,30247.12,533.25
+United States,Iowa,2013,56671.66,28349.25,500.24
+United States,Iowa,2014,56943.71,28693.26,503.89
+United States,Iowa,2015,56787.92,26017.65,458.16
+United States,Iowa,2016,54541.02,22654.02,415.36
+United States,Iowa,2017,58049.28,23484.94,404.57
+United States,Iowa,2018,63561.28,27431.48,431.58
+United States,Iowa,2019,62832.76,22460.97,357.47
+United States,Iowa,2020,59865.29,15572.1,260.12
+United States,Iowa,2021,66437.45,21594.99,325.04
+United States,Kansas,2001,44748.52,27563.14,615.96
+United States,Kansas,2002,47188.45,30349.67,643.16
+United States,Kansas,2003,46567.57,30176.42,648.01
+United States,Kansas,2004,46782.66,29497.51,630.52
+United States,Kansas,2005,45862.7,29632.84,646.12
+United States,Kansas,2006,45523.74,28351.18,622.78
+United States,Kansas,2007,49958.44,30937.92,619.27
+United States,Kansas,2008,46542.96,29126.79,625.8
+United States,Kansas,2009,46595.82,27911.57,599.01
+United States,Kansas,2010,47865.32,27971.15,584.37
+United States,Kansas,2011,45340.85,27368.88,603.63
+United States,Kansas,2012,44424.83,24541.15,552.42
+United States,Kansas,2013,48472.68,25618.7,528.52
+United States,Kansas,2014,49727.02,24556.0,493.82
+United States,Kansas,2015,45531.73,21015.25,461.55
+United States,Kansas,2016,47608.43,20220.86,424.73
+United States,Kansas,2017,50946.8,17340.05,340.36
+United States,Kansas,2018,51734.29,18636.19,360.23
+United States,Kansas,2019,50926.34,16098.79,316.12
+United States,Kansas,2020,54589.7,15747.1,288.46
+United States,Kansas,2021,56807.99,17798.32,313.31
+United States,Kentucky,2001,95417.63,74944.97,785.44
+United States,Kentucky,2002,89211.67,69260.11,776.36
+United States,Kentucky,2003,88924.99,69431.41,780.79
+United States,Kentucky,2004,91034.36,71184.9,781.96
+United States,Kentucky,2005,94260.6,74124.4,786.38
+United States,Kentucky,2006,95548.69,75612.04,791.35
+United States,Kentucky,2007,94554.57,75320.82,796.59
+United States,Kentucky,2008,95123.96,75860.97,797.5
+United States,Kentucky,2009,88745.32,69605.21,784.33
+United States,Kentucky,2010,96057.58,75827.9,789.4
+United States,Kentucky,2011,96755.42,76190.41,787.45
+United States,Kentucky,2012,88521.28,69523.33,785.39
+United States,Kentucky,2013,88438.78,69237.98,782.89
+United States,Kentucky,2014,89876.06,70076.73,779.7
+United States,Kentucky,2015,82593.09,62763.05,759.91
+United States,Kentucky,2016,79163.48,59114.62,746.74
+United States,Kentucky,2017,72776.73,52324.77,718.98
+United States,Kentucky,2018,78836.45,55981.34,710.1
+United States,Kentucky,2019,71844.16,50183.25,698.5
+United States,Kentucky,2020,63590.72,43121.3,678.11
+United States,Kentucky,2021,70620.22,48497.37,686.74
+United States,Louisiana,2001,86293.79,40828.17,473.13
+United States,Louisiana,2002,93281.5,44013.61,471.84
+United States,Louisiana,2003,93096.59,45185.61,485.36
+United States,Louisiana,2004,96376.5,46668.15,484.23
+United States,Louisiana,2005,91058.44,44492.6,488.62
+United States,Louisiana,2006,89391.48,43253.12,483.86
+United States,Louisiana,2007,90691.54,43265.39,477.06
+United States,Louisiana,2008,90486.41,44094.92,487.31
+United States,Louisiana,2009,89305.44,42503.78,475.94
+United States,Louisiana,2010,99784.07,47154.94,472.57
+United States,Louisiana,2011,100903.45,48848.1,484.11
+United States,Louisiana,2012,100479.59,48190.5,479.61
+United States,Louisiana,2013,97201.6,45780.27,470.98
+United States,Louisiana,2014,99243.61,45908.6,462.59
+United States,Louisiana,2015,103897.04,48006.22,462.06
+United States,Louisiana,2016,102741.93,45320.36,441.11
+United States,Louisiana,2017,93455.99,41815.18,447.43
+United States,Louisiana,2018,98079.41,43069.7,439.13
+United States,Louisiana,2019,97338.65,42615.48,437.81
+United States,Louisiana,2020,97665.45,40271.7,412.34
+United States,Louisiana,2021,94497.02,39778.0,420.94
+United States,Maine,2001,19632.45,8064.05,410.75
+United States,Maine,2002,22626.12,9243.1,408.52
+United States,Maine,2003,19045.11,7515.86,394.64
+United States,Maine,2004,19289.89,7344.93,380.77
+United States,Maine,2005,18900.41,6790.16,359.26
+United States,Maine,2006,16864.46,5522.35,327.46
+United States,Maine,2007,16180.83,5409.43,334.31
+United States,Maine,2008,17147.11,5511.64,321.43
+United States,Maine,2009,16390.47,5146.98,314.02
+United States,Maine,2010,17045.66,5529.39,324.39
+United States,Maine,2011,16032.84,4789.27,298.72
+United States,Maine,2012,15107.51,4362.15,288.74
+United States,Maine,2013,14081.39,3870.91,274.9
+United States,Maine,2014,13296.68,3572.49,268.68
+United States,Maine,2015,11782.23,2965.42,251.69
+United States,Maine,2016,11564.55,2849.16,246.37
+United States,Maine,2017,11318.21,2253.46,199.1
+United States,Maine,2018,11348.51,2312.53,203.77
+United States,Maine,2019,10578.4,1833.38,173.31
+United States,Maine,2020,10103.01,1825.42,180.68
+United States,Maine,2021,11101.38,2210.84,199.15
+United States,Maryland,2001,49062.35,27008.51,550.49
+United States,Maryland,2002,48279.08,27063.71,560.57
+United States,Maryland,2003,52244.23,28423.85,544.06
+United States,Maryland,2004,52052.77,27688.67,531.94
+United States,Maryland,2005,52661.61,28422.75,539.72
+United States,Maryland,2006,48956.87,26194.92,535.06
+United States,Maryland,2007,50197.93,26956.35,537.0
+United States,Maryland,2008,47360.97,24309.46,513.28
+United States,Maryland,2009,43774.83,21624.46,493.99
+United States,Maryland,2010,43607.43,21731.96,498.36
+United States,Maryland,2011,41818.29,19241.2,460.11
+United States,Maryland,2012,37809.74,16411.54,434.06
+United States,Maryland,2013,35857.27,14848.4,414.1
+United States,Maryland,2014,38092.7,16568.28,434.95
+United States,Maryland,2015,36707.87,14396.18,392.18
+United States,Maryland,2016,37690.15,14710.25,390.29
+United States,Maryland,2017,34843.22,10981.65,315.17
+United States,Maryland,2018,44664.15,15885.51,355.67
+United States,Maryland,2019,40292.74,12521.5,310.76
+United States,Maryland,2020,37025.43,10311.33,278.49
+United States,Maryland,2021,40755.19,12740.93,312.62
+United States,Massachusets,2001,38502.41,21655.47,562.45
+United States,Massachusets,2002,42053.47,22879.67,544.06
+United States,Massachusets,2003,48409.62,26073.77,538.61
+United States,Massachusets,2004,47516.02,25108.25,528.42
+United States,Massachusets,2005,47539.98,25677.65,540.13
+United States,Massachusets,2006,45625.22,23118.61,506.71
+United States,Massachusets,2007,47102.62,25079.9,532.45
+United States,Massachusets,2008,42507.0,21641.22,509.12
+United States,Massachusets,2009,38970.54,19210.02,492.94
+United States,Massachusets,2010,42805.45,20467.14,478.14
+United States,Massachusets,2011,38058.2,17119.23,449.82
+United States,Massachusets,2012,35579.3,14914.67,419.2
+United States,Massachusets,2013,32885.56,14884.67,452.62
+United States,Massachusets,2014,31743.74,13076.51,411.94
+United States,Massachusets,2015,32948.92,13694.47,415.63
+United States,Massachusets,2016,33235.63,13233.95,398.19
+United States,Massachusets,2017,33748.44,13006.97,385.41
+United States,Massachusets,2018,29286.35,10412.89,355.55
+United States,Massachusets,2019,23657.5,8689.71,367.31
+United States,Massachusets,2020,20560.91,8034.25,390.75
+United States,Massachusets,2021,21921.56,8474.82,386.6
+United States,Michigan,2001,111864.94,63935.96,571.55
+United States,Michigan,2002,117854.18,64312.63,545.7
+United States,Michigan,2003,111164.79,62901.98,565.84
+United States,Michigan,2004,118334.56,65492.6,553.45
+United States,Michigan,2005,121548.42,66601.56,547.94
+United States,Michigan,2006,112467.9,62992.65,560.09
+United States,Michigan,2007,119068.63,66170.07,555.73
+United States,Michigan,2008,114819.77,63525.66,553.26
+United States,Michigan,2009,101024.45,60287.02,596.76
+United States,Michigan,2010,111366.73,61305.68,550.49
+United States,Michigan,2011,109013.8,56253.15,516.02
+United States,Michigan,2012,107975.57,55791.65,516.71
+United States,Michigan,2013,105031.6,54201.6,516.05
+United States,Michigan,2014,105969.28,51766.11,488.5
+United States,Michigan,2015,112343.75,55398.4,493.12
+United States,Michigan,2016,111491.97,50039.42,448.82
+United States,Michigan,2017,111381.25,49725.73,446.45
+United States,Michigan,2018,114837.98,52311.03,455.52
+United States,Michigan,2019,116010.02,49891.83,430.07
+United States,Michigan,2020,105959.31,42572.26,401.78
+United States,Michigan,2021,115235.82,47565.76,412.77
+United States,Minnesota,2001,48026.05,27381.25,570.13
+United States,Minnesota,2002,52179.05,29259.33,560.75
+United States,Minnesota,2003,54317.26,30920.65,569.26
+United States,Minnesota,2004,51698.73,29291.47,566.58
+United States,Minnesota,2005,52411.3,29123.09,555.66
+United States,Minnesota,2006,52832.46,29067.18,550.18
+United States,Minnesota,2007,54459.96,29200.22,536.18
+United States,Minnesota,2008,54995.71,28322.62,515.0
+United States,Minnesota,2009,52996.1,26339.3,497.0
+United States,Minnesota,2010,54245.84,26038.34,480.01
+United States,Minnesota,2011,53701.48,25737.86,479.28
+United States,Minnesota,2012,53343.13,23094.62,432.95
+United States,Minnesota,2013,51465.75,23252.13,451.8
+United States,Minnesota,2014,57207.19,25828.29,451.49
+United States,Minnesota,2015,57219.32,24862.27,434.51
+United States,Minnesota,2016,59755.36,24462.67,409.38
+United States,Minnesota,2017,59023.05,23073.26,390.92
+United States,Minnesota,2018,61716.29,24496.69,396.92
+United States,Minnesota,2019,59550.82,21717.0,364.68
+United States,Minnesota,2020,56711.47,18234.29,321.53
+United States,Minnesota,2021,59883.97,19962.05,333.35
+United States,Mississippi,2001,53446.45,28487.71,533.01
+United States,Mississippi,2002,42888.81,20879.44,486.83
+United States,Mississippi,2003,40155.35,20182.44,502.61
+United States,Mississippi,2004,43665.72,22469.45,514.58
+United States,Mississippi,2005,45072.8,22669.34,502.95
+United States,Mississippi,2006,46235.33,23342.56,504.86
+United States,Mississippi,2007,50048.69,25498.53,509.47
+United States,Mississippi,2008,48210.77,24299.73,504.03
+United States,Mississippi,2009,48708.44,22523.69,462.42
+United States,Mississippi,2010,54488.25,26215.07,481.11
+United States,Mississippi,2011,51574.25,23154.22,448.95
+United States,Mississippi,2012,54598.07,25250.43,462.48
+United States,Mississippi,2013,52813.07,23182.78,438.96
+United States,Mississippi,2014,55134.05,25268.89,458.32
+United States,Mississippi,2015,64760.08,27856.3,430.15
+United States,Mississippi,2016,62888.85,29364.72,466.93
+United States,Mississippi,2017,59741.27,26854.97,449.52
+United States,Mississippi,2018,63488.65,29025.22,457.17
+United States,Mississippi,2019,65976.62,28001.41,424.41
+United States,Mississippi,2020,66601.25,30491.89,457.83
+United States,Mississippi,2021,68731.74,29307.55,426.41
+United States,Missouri,2001,79041.66,56060.55,709.25
+United States,Missouri,2002,80738.0,57272.97,709.37
+United States,Missouri,2003,87183.5,62430.58,716.08
+United States,Missouri,2004,87512.59,63183.35,721.99
+United States,Missouri,2005,90770.73,65643.5,723.18
+United States,Missouri,2006,91695.02,65553.19,714.91
+United States,Missouri,2007,91160.7,64237.09,704.66
+United States,Missouri,2008,91038.84,63087.45,692.97
+United States,Missouri,2009,88347.62,60662.97,686.64
+United States,Missouri,2010,92309.3,64137.57,694.81
+United States,Missouri,2011,94880.31,66689.52,702.88
+United States,Missouri,2012,91809.04,62938.5,685.54
+United States,Missouri,2013,91629.81,64783.71,707.02
+United States,Missouri,2014,87950.79,61623.84,700.66
+United States,Missouri,2015,83787.88,56149.46,670.14
+United States,Missouri,2016,78781.83,52682.16,668.71
+United States,Missouri,2017,84814.26,58159.75,685.73
+United States,Missouri,2018,85330.91,55702.56,652.78
+United States,Missouri,2019,78574.41,49741.05,633.04
+United States,Missouri,2020,72930.61,46426.37,636.58
+United States,Missouri,2021,78245.73,51116.8,653.29
+United States,Montana,2001,23735.72,14153.63,596.3
+United States,Montana,2002,25017.89,12852.5,513.73
+United States,Montana,2003,25881.11,14241.42,550.26
+United States,Montana,2004,26371.88,14524.04,550.74
+United States,Montana,2005,27540.98,14897.13,540.91
+United States,Montana,2006,27846.71,14335.97,514.82
+United States,Montana,2007,28468.62,15384.57,540.4
+United States,Montana,2008,29233.53,15428.93,527.78
+United States,Montana,2009,26234.82,13185.29,502.59
+United States,Montana,2010,29395.71,15746.28,535.67
+United States,Montana,2011,29685.62,13112.28,441.71
+United States,Montana,2012,27350.65,12229.54,447.14
+United States,Montana,2013,27239.61,12997.56,477.16
+United States,Montana,2014,29866.47,13531.98,453.08
+United States,Montana,2015,28827.73,13921.99,482.94
+United States,Montana,2016,27351.88,12451.66,455.24
+United States,Montana,2017,27790.8,12116.54,435.99
+United States,Montana,2018,27802.97,11727.08,421.79
+United States,Montana,2019,27372.5,12303.43,449.48
+United States,Montana,2020,22939.81,7583.89,330.6
+United States,Montana,2021,24067.9,9394.31,390.33
+United States,Nebraska,2001,30501.87,16922.58,554.81
+United States,Nebraska,2002,31631.49,16722.28,528.66
+United States,Nebraska,2003,30485.33,17537.49,575.28
+United States,Nebraska,2004,32021.49,17090.75,533.73
+United States,Nebraska,2005,31482.81,17624.17,559.8
+United States,Nebraska,2006,31684.59,17489.88,552.0
+United States,Nebraska,2007,32457.77,16823.36,518.32
+United States,Nebraska,2008,32389.89,18148.39,560.31
+United States,Nebraska,2009,34020.64,19459.28,571.99
+United States,Nebraska,2010,36648.03,19548.8,533.42
+United States,Nebraska,2011,36108.92,21675.39,600.28
+United States,Nebraska,2012,34234.33,21037.99,614.53
+United States,Nebraska,2013,37122.79,22338.1,601.74
+United States,Nebraska,2014,39449.46,20859.43,528.76
+United States,Nebraska,2015,39900.96,20263.72,507.85
+United States,Nebraska,2016,36545.43,18405.18,503.63
+United States,Nebraska,2017,35429.75,17873.29,504.47
+United States,Nebraska,2018,36991.79,19777.39,534.64
+United States,Nebraska,2019,37325.98,17570.12,470.72
+United States,Nebraska,2020,36881.02,16241.3,440.37
+United States,Nebraska,2021,38661.77,16607.68,429.56
+United States,Nevada,2001,33875.96,20930.14,617.85
+United States,Nevada,2002,32088.94,19588.43,610.44
+United States,Nevada,2003,33194.88,20610.62,620.9
+United States,Nevada,2004,37667.43,23167.35,615.05
+United States,Nevada,2005,40213.75,24413.53,607.09
+United States,Nevada,2006,31860.02,16443.27,516.11
+United States,Nevada,2007,32669.74,16832.34,515.23
+United States,Nevada,2008,35089.97,18265.8,520.54
+United States,Nevada,2009,37705.13,19005.46,504.06
+United States,Nevada,2010,35146.25,17497.61,497.85
+United States,Nevada,2011,31935.91,15325.88,479.9
+United States,Nevada,2012,35173.27,16114.95,458.16
+United States,Nevada,2013,36443.86,16689.74,457.96
+United States,Nevada,2014,36104.07,16868.54,467.22
+United States,Nevada,2015,39233.01,16674.85,425.02
+United States,Nevada,2016,40159.15,16326.0,406.53
+United States,Nevada,2017,38613.28,15009.3,388.71
+United States,Nevada,2018,40136.33,15585.16,388.31
+United States,Nevada,2019,40570.15,15378.54,379.06
+United States,Nevada,2020,41297.08,15270.9,369.78
+United States,Nevada,2021,42949.43,15686.25,365.23
+United States,New Hampshire,2001,15074.63,3839.83,254.72
+United States,New Hampshire,2002,15953.08,3995.07,250.43
+United States,New Hampshire,2003,21597.11,7057.94,326.8
+United States,New Hampshire,2004,23875.78,7761.48,325.08
+United States,New Hampshire,2005,24470.01,8028.58,328.1
+United States,New Hampshire,2006,22063.7,6799.38,308.17
+United States,New Hampshire,2007,23277.17,6768.18,290.77
+United States,New Hampshire,2008,22876.98,6851.0,299.47
+United States,New Hampshire,2009,20164.13,5560.69,275.77
+United States,New Hampshire,2010,22196.04,5679.75,255.89
+United States,New Hampshire,2011,20066.18,5547.25,276.45
+United States,New Hampshire,2012,19222.92,4955.11,257.77
+United States,New Hampshire,2013,19779.12,3795.11,191.88
+United States,New Hampshire,2014,19553.58,3976.05,203.34
+United States,New Hampshire,2015,20040.57,4414.83,220.3
+United States,New Hampshire,2016,19335.12,3284.75,169.89
+United States,New Hampshire,2017,17535.11,2630.24,150.0
+United States,New Hampshire,2018,17195.36,2647.08,153.94
+United States,New Hampshire,2019,18156.42,2552.2,140.57
+United States,New Hampshire,2020,16507.49,2316.27,140.32
+United States,New Hampshire,2021,17627.84,2907.72,164.95
+United States,New Jersey,2001,59434.0,17929.23,301.67
+United States,New Jersey,2002,61585.22,18703.88,303.71
+United States,New Jersey,2003,57524.93,17444.83,303.26
+United States,New Jersey,2004,55886.52,18162.4,324.99
+United States,New Jersey,2005,60552.02,18714.34,309.06
+United States,New Jersey,2006,60797.68,17843.67,293.49
+United States,New Jersey,2007,62671.96,18900.76,301.58
+United States,New Jersey,2008,63677.8,18885.82,296.58
+United States,New Jersey,2009,61814.78,15588.13,252.18
+United States,New Jersey,2010,65682.49,18684.37,284.47
+United States,New Jersey,2011,64635.85,16982.84,262.75
+United States,New Jersey,2012,65227.11,16609.5,254.64
+United States,New Jersey,2013,64699.98,16241.05,251.02
+United States,New Jersey,2014,69398.4,19038.32,274.33
+United States,New Jersey,2015,75977.0,21047.29,277.02
+United States,New Jersey,2016,78936.37,23856.97,302.23
+United States,New Jersey,2017,77234.64,20835.13,269.76
+United States,New Jersey,2018,76891.09,21504.56,279.68
+United States,New Jersey,2019,73146.84,21969.59,300.35
+United States,New Jersey,2020,63573.46,16999.87,267.41
+United States,New Jersey,2021,64084.48,16427.08,256.34
+United States,New Mexico,2001,33630.29,25741.61,765.43
+United States,New Mexico,2002,30681.12,23781.52,775.12
+United States,New Mexico,2003,32735.66,25392.28,775.68
+United States,New Mexico,2004,32940.37,25493.76,773.94
+United States,New Mexico,2005,35140.29,26648.27,758.34
+United States,New Mexico,2006,37287.51,27423.76,735.47
+United States,New Mexico,2007,36001.32,25955.57,720.96
+United States,New Mexico,2008,37028.72,26124.58,705.52
+United States,New Mexico,2009,39707.99,28183.87,709.78
+United States,New Mexico,2010,36265.22,25241.88,696.04
+United States,New Mexico,2011,38190.57,26515.78,694.3
+United States,New Mexico,2012,36650.19,24888.63,679.09
+United States,New Mexico,2013,35889.48,24287.91,676.74
+United States,New Mexico,2014,32440.08,21196.34,653.4
+United States,New Mexico,2015,32863.38,21460.94,653.04
+United States,New Mexico,2016,33085.84,20067.2,606.52
+United States,New Mexico,2017,33818.68,19729.98,583.41
+United States,New Mexico,2018,32940.33,16854.4,511.67
+United States,New Mexico,2019,35482.07,18125.95,510.85
+United States,New Mexico,2020,34446.84,16583.27,481.42
+United States,New Mexico,2021,35741.04,15450.35,432.29
+United States,New York,2001,143897.83,51795.42,359.95
+United States,New York,2002,139493.31,47925.32,343.57
+United States,New York,2003,137553.6,48603.18,353.34
+United States,New York,2004,137768.07,48882.48,354.82
+United States,New York,2005,145646.98,50662.96,347.85
+United States,New York,2006,141820.86,44548.44,314.12
+United States,New York,2007,145633.33,47678.32,327.39
+United States,New York,2008,140164.41,42031.68,299.87
+United States,New York,2009,132991.24,34994.9,263.14
+United States,New York,2010,136446.53,38371.52,281.22
+United States,New York,2011,137217.12,35585.18,259.34
+United States,New York,2012,135768.25,35552.8,261.86
+United States,New York,2013,136126.43,33502.19,246.11
+United States,New York,2014,137435.08,34277.48,249.41
+United States,New York,2015,139176.02,33521.59,240.86
+United States,New York,2016,135253.87,32072.42,237.13
+United States,New York,2017,129211.96,26688.61,206.55
+United States,New York,2018,134020.36,29026.56,216.58
+United States,New York,2019,133455.81,26583.56,199.19
+United States,New York,2020,131720.69,28827.13,218.85
+United States,New York,2021,127915.79,30998.02,242.33
+United States,North Carolina,2001,117504.74,62113.14,528.6
+United States,North Carolina,2002,124483.53,64922.5,521.54
+United States,North Carolina,2003,127603.85,63928.72,500.99
+United States,North Carolina,2004,126348.45,64836.03,513.15
+United States,North Carolina,2005,129760.02,67469.38,519.96
+United States,North Carolina,2006,125218.41,64999.93,519.09
+United States,North Carolina,2007,130116.39,69296.22,532.57
+United States,North Carolina,2008,125257.59,65649.83,524.12
+United States,North Carolina,2009,118418.7,57157.8,482.68
+United States,North Carolina,2010,128738.15,64712.06,502.66
+United States,North Carolina,2011,118540.23,56087.07,473.15
+United States,North Carolina,2012,116700.29,52822.78,452.64
+United States,North Carolina,2013,125974.32,54126.6,429.66
+United States,North Carolina,2014,128231.74,56452.78,440.24
+United States,North Carolina,2015,128494.41,52712.29,410.23
+United States,North Carolina,2016,130991.99,51945.73,396.56
+United States,North Carolina,2017,128763.39,49257.14,382.54
+United States,North Carolina,2018,134577.86,49669.84,369.08
+United States,North Carolina,2019,131582.78,47443.47,360.56
+United States,North Carolina,2020,124832.02,39447.71,316.01
+United States,North Carolina,2021,131855.96,41844.82,317.35
+United States,North Dakota,2001,30339.74,23793.38,784.23
+United States,North Dakota,2002,31306.72,24389.32,779.04
+United States,North Dakota,2003,31322.73,24248.59,774.15
+United States,North Dakota,2004,29941.69,23125.85,772.36
+United States,North Dakota,2005,31942.61,24918.98,780.12
+United States,North Dakota,2006,30884.66,23796.44,770.49
+United States,North Dakota,2007,31237.61,24037.03,769.49
+United States,North Dakota,2008,32747.52,24455.63,746.79
+United States,North Dakota,2009,34208.03,24419.31,713.85
+United States,North Dakota,2010,34751.93,23521.96,676.85
+United States,North Dakota,2011,35089.76,22449.13,639.76
+United States,North Dakota,2012,36130.7,23357.63,646.48
+United States,North Dakota,2013,35027.15,22743.96,649.32
+United States,North Dakota,2014,36465.49,22776.06,624.59
+United States,North Dakota,2015,37160.47,23288.81,626.71
+United States,North Dakota,2016,37862.36,22538.84,595.28
+United States,North Dakota,2017,41507.39,22549.5,543.27
+United States,North Dakota,2018,42616.72,23376.37,548.53
+United States,North Dakota,2019,41148.21,21637.44,525.84
+United States,North Dakota,2020,42177.77,21100.16,500.27
+United States,North Dakota,2021,42707.79,20997.7,491.66
+United States,Ohio,2001,142261.81,103107.83,724.78
+United States,Ohio,2002,147071.04,110655.36,752.39
+United States,Ohio,2003,146644.25,112059.29,764.16
+United States,Ohio,2004,147314.25,106536.1,723.19
+United States,Ohio,2005,155950.43,114270.23,732.73
+United States,Ohio,2006,154397.62,111343.24,721.15
+United States,Ohio,2007,154330.98,111835.1,724.65
+United States,Ohio,2008,152272.29,109140.17,716.74
+United States,Ohio,2009,135052.32,96078.55,711.42
+United States,Ohio,2010,142466.45,100863.12,707.98
+United States,Ohio,2011,134527.37,93218.21,692.93
+United States,Ohio,2012,128737.9,82542.16,641.16
+United States,Ohio,2013,136141.38,89413.75,656.77
+United States,Ohio,2014,133645.57,86561.29,647.69
+United States,Ohio,2015,120920.13,73776.26,610.12
+United States,Ohio,2016,118087.4,71602.59,606.35
+United States,Ohio,2017,118665.88,71262.13,600.53
+United States,Ohio,2018,125255.78,70949.96,566.44
+United States,Ohio,2019,119532.6,64570.71,540.19
+United States,Ohio,2020,120184.36,63579.54,529.02
+United States,Ohio,2021,122782.29,65088.82,530.12
+United States,Oklahoma,2001,55249.46,37453.73,677.9
+United States,Oklahoma,2002,59183.42,39987.98,675.66
+United States,Oklahoma,2003,60626.85,41017.76,676.56
+United States,Oklahoma,2004,60729.57,39310.7,647.31
+United States,Oklahoma,2005,68607.82,43984.36,641.1
+United States,Oklahoma,2006,70614.88,45045.92,637.91
+United States,Oklahoma,2007,72819.09,44779.7,614.95
+United States,Oklahoma,2008,76493.1,46523.32,608.2
+United States,Oklahoma,2009,75229.82,45077.26,599.19
+United States,Oklahoma,2010,72343.24,42640.77,589.42
+United States,Oklahoma,2011,74691.37,44544.29,596.38
+United States,Oklahoma,2012,77980.23,43365.17,556.11
+United States,Oklahoma,2013,73779.18,39591.83,536.63
+United States,Oklahoma,2014,70236.11,37828.31,538.59
+United States,Oklahoma,2015,76205.5,37503.42,492.14
+United States,Oklahoma,2016,78757.85,34008.29,431.81
+United States,Oklahoma,2017,73785.11,29585.55,400.97
+United States,Oklahoma,2018,86287.33,33093.97,383.53
+United States,Oklahoma,2019,85285.48,28574.31,335.04
+United States,Oklahoma,2020,82381.01,26809.73,325.44
+United States,Oklahoma,2021,80678.99,25862.91,320.57
+United States,Oregon,2001,45051.9,9985.62,221.65
+United States,Oregon,2002,47099.36,7943.8,168.66
+United States,Oregon,2003,48982.74,9559.15,195.15
+United States,Oregon,2004,51396.45,10531.57,204.91
+United States,Oregon,2005,49352.36,10340.29,209.52
+United States,Oregon,2006,53368.47,8613.55,161.4
+United States,Oregon,2007,55116.13,11932.51,216.5
+United States,Oregon,2008,58718.42,12911.89,219.9
+United States,Oregon,2009,56690.84,11580.63,204.28
+United States,Oregon,2010,55127.01,12056.55,218.71
+United States,Oregon,2011,59695.16,8171.27,136.88
+United States,Oregon,2012,60932.72,9103.84,149.41
+United States,Oregon,2013,59934.95,11262.63,187.91
+United States,Oregon,2014,60272.46,10086.19,167.34
+United States,Oregon,2015,58037.44,11034.17,190.12
+United States,Oregon,2016,60390.07,10245.02,169.65
+United States,Oregon,2017,62963.88,10074.64,160.01
+United States,Oregon,2018,64389.57,11237.88,174.53
+United States,Oregon,2019,62540.24,13466.91,215.33
+United States,Oregon,2020,63923.33,11845.39,185.31
+United States,Oregon,2021,61417.18,11117.11,181.01
+United States,Pennsylvania,2001,196386.63,97939.91,498.71
+United States,Pennsylvania,2002,203864.42,100579.05,493.36
+United States,Pennsylvania,2003,205785.52,102873.88,499.91
+United States,Pennsylvania,2004,214068.29,105743.84,493.97
+United States,Pennsylvania,2005,217694.21,109952.11,505.08
+United States,Pennsylvania,2006,218561.47,110347.64,504.88
+United States,Pennsylvania,2007,225926.95,113272.57,501.37
+United States,Pennsylvania,2008,222145.18,108598.53,488.86
+United States,Pennsylvania,2009,219317.46,103709.51,472.87
+United States,Pennsylvania,2010,229750.79,109940.76,478.52
+United States,Pennsylvania,2011,227294.04,105846.73,465.68
+United States,Pennsylvania,2012,223386.82,100180.35,448.46
+United States,Pennsylvania,2013,226632.23,99818.18,440.44
+United States,Pennsylvania,2014,221172.99,93769.35,423.96
+United States,Pennsylvania,2015,214678.71,85062.56,396.23
+United States,Pennsylvania,2016,215272.29,80906.82,375.84
+United States,Pennsylvania,2017,213884.85,77344.31,361.62
+United States,Pennsylvania,2018,215766.53,76562.79,354.84
+United States,Pennsylvania,2019,229489.68,81788.7,356.39
+United States,Pennsylvania,2020,230762.82,80960.44,350.84
+United States,Pennsylvania,2021,242369.15,88985.19,367.15
+United States,Puerto Rico,2016,0.0,0.0,
+United States,Puerto Rico,2017,13549.07,8509.8,628.07
+United States,Puerto Rico,2018,14668.58,9177.16,625.63
+United States,Puerto Rico,2019,18166.19,11309.51,622.56
+United States,Puerto Rico,2020,18215.88,11652.35,639.68
+United States,Puerto Rico,2021,18383.23,11326.08,616.11
+United States,Rhode Island,2001,7501.89,3662.22,488.17
+United States,Rhode Island,2002,7056.76,3566.12,505.35
+United States,Rhode Island,2003,5621.15,2737.35,486.97
+United States,Rhode Island,2004,4939.43,2401.57,486.2
+United States,Rhode Island,2005,6053.29,2974.98,491.47
+United States,Rhode Island,2006,5967.73,2889.58,484.2
+United States,Rhode Island,2007,7049.84,3419.28,485.02
+United States,Rhode Island,2008,7387.27,3581.78,484.86
+United States,Rhode Island,2009,7696.83,3735.24,485.3
+United States,Rhode Island,2010,7738.72,3755.59,485.3
+United States,Rhode Island,2011,8722.26,4238.8,485.98
+United States,Rhode Island,2012,8309.03,4046.4,486.99
+United States,Rhode Island,2013,6246.81,3054.84,489.02
+United States,Rhode Island,2014,6292.98,3032.5,481.89
+United States,Rhode Island,2015,6952.25,3357.2,482.89
+United States,Rhode Island,2016,6594.48,3150.31,477.72
+United States,Rhode Island,2017,7669.98,3614.81,471.29
+United States,Rhode Island,2018,8470.58,3978.84,469.73
+United States,Rhode Island,2019,7804.33,3568.23,457.21
+United States,Rhode Island,2020,9191.63,4129.84,449.3
+United States,Rhode Island,2021,8409.94,3664.31,435.71
+United States,South Carolina,2001,89158.98,31709.11,355.65
+United States,South Carolina,2002,96563.51,33643.81,348.41
+United States,South Carolina,2003,93724.82,32791.55,349.87
+United States,South Carolina,2004,97449.1,35155.43,360.76
+United States,South Carolina,2005,102235.37,36603.91,358.04
+United States,South Carolina,2006,99251.4,36627.49,369.04
+United States,South Carolina,2007,103402.14,38345.77,370.84
+United States,South Carolina,2008,100926.12,38060.59,377.11
+United States,South Carolina,2009,99742.4,34286.22,343.75
+United States,South Carolina,2010,104125.2,37490.7,360.05
+United States,South Carolina,2011,102972.56,35617.82,345.9
+United States,South Carolina,2012,96755.67,31577.02,326.36
+United States,South Carolina,2013,95249.89,27148.05,285.02
+United States,South Carolina,2014,97162.45,30733.81,316.31
+United States,South Carolina,2015,96539.39,28040.83,290.46
+United States,South Carolina,2016,97021.7,26602.07,274.19
+United States,South Carolina,2017,93218.74,24622.18,264.13
+United States,South Carolina,2018,99613.02,28119.65,282.29
+United States,South Carolina,2019,100436.08,25274.71,251.65
+United States,South Carolina,2020,98899.72,23476.18,237.37
+United States,South Carolina,2021,100351.95,25341.9,252.53
+United States,South Dakota,2001,7400.73,3229.36,436.36
+United States,South Dakota,2002,7721.95,2832.71,366.84
+United States,South Dakota,2003,7943.83,3014.19,379.44
+United States,South Dakota,2004,7510.21,3127.41,416.42
+United States,South Dakota,2005,6520.78,2679.88,410.98
+United States,South Dakota,2006,7132.24,2935.76,411.62
+United States,South Dakota,2007,6136.6,2465.09,401.7
+United States,South Dakota,2008,7084.33,3225.06,455.24
+United States,South Dakota,2009,8202.29,2817.9,343.55
+United States,South Dakota,2010,10049.64,2915.68,290.13
+United States,South Dakota,2011,11998.87,2376.75,198.08
+United States,South Dakota,2012,11473.4,2671.72,232.86
+United States,South Dakota,2013,10108.88,2714.52,268.53
+United States,South Dakota,2014,10995.65,2595.29,236.03
+United States,South Dakota,2015,9633.55,1760.57,182.75
+United States,South Dakota,2016,11524.9,2316.08,200.96
+United States,South Dakota,2017,10936.55,2172.78,198.67
+United States,South Dakota,2018,12617.35,2676.63,212.14
+United States,South Dakota,2019,14507.84,2949.45,203.3
+United States,South Dakota,2020,14148.16,2100.69,148.48
+United States,South Dakota,2021,17819.68,2334.64,131.02
+United States,Tennessee,2001,96221.98,50180.55,521.51
+United States,Tennessee,2002,96123.68,50078.76,520.98
+United States,Tennessee,2003,92252.62,46385.56,502.81
+United States,Tennessee,2004,97616.37,48663.58,498.52
+United States,Tennessee,2005,97158.1,49579.83,510.3
+United States,Tennessee,2006,93945.62,50700.57,539.68
+United States,Tennessee,2007,95146.67,50581.59,531.62
+United States,Tennessee,2008,90671.86,47835.05,527.56
+United States,Tennessee,2009,79724.3,35240.23,442.03
+United States,Tennessee,2010,82359.15,37830.32,459.33
+United States,Tennessee,2011,81112.21,35943.77,443.14
+United States,Tennessee,2012,77729.71,33788.01,434.69
+United States,Tennessee,2013,79658.04,30078.42,377.59
+United States,Tennessee,2014,79572.01,33386.69,419.58
+United States,Tennessee,2015,75279.89,30521.7,405.44
+United States,Tennessee,2016,79432.84,31936.98,402.06
+United States,Tennessee,2017,79146.33,28669.24,362.23
+United States,Tennessee,2018,81655.38,24767.94,303.32
+United States,Tennessee,2019,82430.99,24638.25,298.9
+United States,Tennessee,2020,80662.95,20385.4,252.72
+United States,Tennessee,2021,81578.59,23035.85,282.38
+United States,Texas,2001,371710.99,208104.21,559.86
+United States,Texas,2002,384531.48,217100.64,564.59
+United States,Texas,2003,378490.79,217606.87,574.93
+United States,Texas,2004,388907.89,219060.68,563.27
+United States,Texas,2005,395326.99,222355.28,562.46
+United States,Texas,2006,399019.38,221330.62,554.69
+United States,Texas,2007,404405.83,222730.05,550.76
+United States,Texas,2008,403908.92,219218.48,542.74
+United States,Texas,2009,395930.63,210569.32,531.83
+United States,Texas,2010,411203.92,218490.97,531.35
+United States,Texas,2011,434776.49,231613.58,532.72
+United States,Texas,2012,428530.37,221642.55,517.22
+United States,Texas,2013,432637.73,225582.18,521.41
+United States,Texas,2014,437730.42,225131.04,514.31
+United States,Texas,2015,450040.06,219912.2,488.65
+United States,Texas,2016,454450.53,214105.54,471.13
+United States,Texas,2017,453305.9,214495.85,473.18
+United States,Texas,2018,478130.85,213113.04,445.72
+United States,Texas,2019,484107.82,204996.65,423.45
+United States,Texas,2020,475131.59,189999.27,399.89
+United States,Texas,2021,485785.73,192621.05,396.51
+United States,US Total,2001,3727019.8,1995635.47,535.45
+United States,US Total,2002,3843676.63,2024917.8,526.82
+United States,US Total,2003,3868941.97,2058220.6,531.99
+United States,US Total,2004,3951942.15,2089910.01,528.83
+United States,US Total,2005,4034985.11,2140766.21,530.55
+United States,US Total,2006,4046939.86,2112196.46,521.92
+United States,US Total,2007,4142573.3,2174723.56,524.97
+United States,US Total,2008,4107543.23,2129423.05,518.42
+United States,US Total,2009,3939827.24,1955184.39,496.26
+United States,US Total,2010,4113948.69,2062476.94,501.34
+United States,US Total,2011,4088869.0,1979510.19,484.12
+United States,US Total,2012,4040678.7,1901011.15,470.47
+United States,US Total,2013,4055605.99,1908657.48,470.62
+United States,US Total,2014,4096016.94,1914096.66,467.31
+United States,US Total,2015,4083990.83,1828238.01,447.66
+United States,US Total,2016,4087556.22,1755354.3,429.44
+United States,US Total,2017,4052312.62,1688936.21,416.78
+United States,US Total,2018,4201559.9,1731307.58,412.06
+United States,US Total,2019,4158396.01,1633311.61,392.77
+United States,US Total,2020,4043179.15,1493517.14,369.39
+United States,US Total,2021,4159349.83,1574053.85,378.44
+United States,Utah,2001,35853.75,28388.08,791.77
+United States,Utah,2002,36608.0,29017.84,792.66
+United States,Utah,2003,38023.66,30224.94,794.9
+United States,Utah,2004,38211.99,30516.58,798.61
+United States,Utah,2005,38165.13,30130.29,789.47
+United States,Utah,2006,41263.32,31957.39,774.48
+United States,Utah,2007,45372.58,34174.9,753.21
+United States,Utah,2008,46578.77,34973.09,750.84
+United States,Utah,2009,43542.95,32508.12,746.58
+United States,Utah,2010,42249.36,31317.35,741.25
+United States,Utah,2011,40836.16,29985.95,734.3
+United States,Utah,2012,39403.5,28655.2,727.23
+United States,Utah,2013,42526.24,31529.81,741.42
+United States,Utah,2014,43830.55,31634.13,721.74
+United States,Utah,2015,42026.16,30144.99,717.29
+United States,Utah,2016,38285.56,25860.93,675.48
+United States,Utah,2017,37707.25,24873.89,659.66
+United States,Utah,2018,39771.2,25902.78,651.3
+United States,Utah,2019,39577.09,25645.49,647.99
+United States,Utah,2020,37634.55,23670.18,628.95
+United States,Utah,2021,43310.67,27217.38,628.42
+United States,Vermont,2001,5480.61,184.2,33.61
+United States,Vermont,2002,5456.2,164.41,30.13
+United States,Vermont,2003,6027.97,188.66,31.3
+United States,Vermont,2004,5470.37,179.27,32.77
+United States,Vermont,2005,5716.76,180.69,31.61
+United States,Vermont,2006,7084.34,204.95,28.93
+United States,Vermont,2007,5823.58,182.68,31.37
+United States,Vermont,2008,6820.21,194.44,28.51
+United States,Vermont,2009,7282.36,200.02,27.47
+United States,Vermont,2010,6619.99,202.62,30.61
+United States,Vermont,2011,6776.23,192.33,28.38
+United States,Vermont,2012,6611.79,173.79,26.29
+United States,Vermont,2013,6884.9,210.48,30.57
+United States,Vermont,2014,7064.37,204.23,28.91
+United States,Vermont,2015,2036.37,145.57,71.49
+United States,Vermont,2016,1986.88,149.13,75.06
+United States,Vermont,2017,2252.7,153.07,67.95
+United States,Vermont,2018,2309.29,146.78,63.56
+United States,Vermont,2019,2442.7,149.6,61.24
+United States,Vermont,2020,2330.3,154.48,66.29
+United States,Vermont,2021,2330.91,174.08,74.68
+United States,Virginia,2001,74106.69,37809.88,510.21
+United States,Virginia,2002,75006.83,37122.51,494.92
+United States,Virginia,2003,75336.64,37870.96,502.69
+United States,Virginia,2004,78924.78,37251.77,471.99
+United States,Virginia,2005,78964.24,37345.15,472.94
+United States,Virginia,2006,73086.12,33484.6,458.15
+United States,Virginia,2007,78380.82,37098.76,473.31
+United States,Virginia,2008,72699.38,32671.77,449.41
+United States,Virginia,2009,70096.46,28924.07,412.63
+United States,Virginia,2010,72980.05,31231.15,427.94
+United States,Virginia,2011,66678.53,26772.04,401.51
+United States,Virginia,2012,70745.89,25308.86,357.74
+United States,Virginia,2013,76908.12,30024.59,390.4
+United States,Virginia,2014,77166.25,29738.2,385.38
+United States,Virginia,2015,84451.28,32832.22,388.77
+United States,Virginia,2016,92608.65,35579.72,384.19
+United States,Virginia,2017,90502.37,32330.4,357.23
+United States,Virginia,2018,95608.99,34535.52,361.22
+United States,Virginia,2019,96974.85,33065.04,340.97
+United States,Virginia,2020,103287.99,35570.47,344.38
+United States,Virginia,2021,94636.76,31012.1,327.7
+United States,Washington,2001,83096.11,14006.74,168.56
+United States,Washington,2002,102785.58,12020.01,116.94
+United States,Washington,2003,100124.08,15034.04,150.15
+United States,Washington,2004,102186.75,15181.48,148.57
+United States,Washington,2005,101985.55,15333.23,150.35
+United States,Washington,2006,108221.67,11643.16,107.59
+United States,Washington,2007,107003.68,13205.57,123.41
+United States,Washington,2008,110840.36,14556.85,131.33
+United States,Washington,2009,104481.08,14457.42,138.37
+United States,Washington,2010,103483.88,14573.16,140.83
+United States,Washington,2011,115274.18,9744.37,84.53
+United States,Washington,2012,116848.95,8859.83,75.82
+United States,Washington,2013,114193.59,13992.46,122.53
+United States,Washington,2014,116404.53,13800.48,118.56
+United States,Washington,2015,109373.25,13296.82,121.57
+United States,Washington,2016,114205.05,12044.47,105.46
+United States,Washington,2017,116048.83,12711.25,109.53
+United States,Washington,2018,116929.35,12503.92,106.94
+United States,Washington,2019,106693.73,16004.41,150.0
+United States,Washington,2020,116389.37,13756.16,118.19
+United States,Washington,2021,109459.53,12742.41,116.41
+United States,"Washington, D.C.",2001,123.24,86.27,700.02
+United States,"Washington, D.C.",2002,261.98,183.39,700.02
+United States,"Washington, D.C.",2003,74.14,51.9,700.03
+United States,"Washington, D.C.",2004,36.49,25.54,699.92
+United States,"Washington, D.C.",2005,226.04,158.23,700.01
+United States,"Washington, D.C.",2006,81.47,57.03,700.01
+United States,"Washington, D.C.",2007,75.25,52.68,700.07
+United States,"Washington, D.C.",2008,72.32,50.62,699.95
+United States,"Washington, D.C.",2009,35.5,24.85,700.0
+United States,"Washington, D.C.",2010,199.86,139.9,699.99
+United States,"Washington, D.C.",2011,200.88,125.67,625.6
+United States,"Washington, D.C.",2012,71.79,37.15,517.48
+United States,"Washington, D.C.",2013,65.85,32.27,490.05
+United States,"Washington, D.C.",2014,98.13,34.59,352.49
+United States,"Washington, D.C.",2015,117.19,21.04,179.54
+United States,"Washington, D.C.",2016,161.0,27.49,170.75
+United States,"Washington, D.C.",2017,166.04,24.79,149.3
+United States,"Washington, D.C.",2018,207.2,29.74,143.53
+United States,"Washington, D.C.",2019,323.53,73.68,227.74
+United States,"Washington, D.C.",2020,374.47,86.44,230.83
+United States,"Washington, D.C.",2021,421.65,90.17,213.85
+United States,West Virginia,2001,81836.73,66202.7,808.96
+United States,West Virginia,2002,94767.27,76707.67,809.43
+United States,West Virginia,2003,94715.6,76300.54,805.58
+United States,West Virginia,2004,89751.07,72278.09,805.32
+United States,West Virginia,2005,93626.53,75363.22,804.93
+United States,West Virginia,2006,93816.11,75389.06,803.58
+United States,West Virginia,2007,93933.12,75732.05,806.23
+United States,West Virginia,2008,91123.1,73328.38,804.72
+United States,West Virginia,2009,70782.37,56070.58,792.16
+United States,West Virginia,2010,80788.94,64329.23,796.26
+United States,West Virginia,2011,78999.62,62616.26,792.62
+United States,West Virginia,2012,73413.4,57911.79,788.85
+United States,West Virginia,2013,75863.08,59589.05,785.48
+United States,West Virginia,2014,81063.22,64064.7,790.31
+United States,West Virginia,2015,72299.74,56613.02,783.03
+United States,West Virginia,2016,75948.63,59390.54,781.98
+United States,West Virginia,2017,73364.98,56951.34,776.27
+United States,West Virginia,2018,67258.56,51752.63,769.46
+United States,West Virginia,2019,63938.01,48982.14,766.09
+United States,West Virginia,2020,56676.91,42719.87,753.74
+United States,West Virginia,2021,65652.6,50388.94,767.51
+United States,Wisconsin,2001,58483.67,35573.02,608.26
+United States,Wisconsin,2002,58128.23,34271.52,589.59
+United States,Wisconsin,2003,59831.93,36094.32,603.26
+United States,Wisconsin,2004,59858.7,36358.14,607.4
+United States,Wisconsin,2005,61265.85,37959.0,619.58
+United States,Wisconsin,2006,60913.87,36149.72,593.46
+United States,Wisconsin,2007,62558.3,36661.44,586.04
+United States,Wisconsin,2008,62662.0,37369.46,596.37
+United States,Wisconsin,2009,59317.31,33825.48,570.25
+United States,Wisconsin,2010,63668.34,36242.65,569.24
+United States,Wisconsin,2011,62775.49,36438.39,580.46
+United States,Wisconsin,2012,63485.63,33209.63,523.11
+United States,Wisconsin,2013,65709.8,37947.1,577.5
+United States,Wisconsin,2014,60879.71,35305.92,579.93
+United States,Wisconsin,2015,66303.4,37676.11,568.24
+United States,Wisconsin,2016,64986.12,35542.15,546.92
+United States,Wisconsin,2017,65149.73,36672.85,562.9
+United States,Wisconsin,2018,66001.19,36147.26,547.68
+United States,Wisconsin,2019,62870.66,32146.33,511.31
+United States,Wisconsin,2020,61558.11,30776.96,499.97
+United States,Wisconsin,2021,65576.75,33915.81,517.19
+United States,Wyoming,2001,44776.94,35508.41,793.01
+United States,Wyoming,2002,43783.83,34826.99,795.43
+United States,Wyoming,2003,43626.6,34907.01,800.13
+United States,Wyoming,2004,44807.61,35722.82,797.25
+United States,Wyoming,2005,45567.31,35989.7,789.81
+United States,Wyoming,2006,45400.38,35728.94,786.97
+United States,Wyoming,2007,45633.49,35980.71,788.47
+United States,Wyoming,2008,46500.45,36475.55,784.41
+United States,Wyoming,2009,46029.21,34965.22,759.63
+United States,Wyoming,2010,48119.25,35816.28,744.32
+United States,Wyoming,2011,47638.47,34161.11,717.09
+United States,Wyoming,2012,49588.61,36199.43,730.0
+United States,Wyoming,2013,52483.07,38667.86,736.77
+United States,Wyoming,2014,49698.55,36256.66,729.53
+United States,Wyoming,2015,48969.25,36120.64,737.62
+United States,Wyoming,2016,46660.05,33615.18,720.43
+United States,Wyoming,2017,46746.54,33627.68,719.36
+United States,Wyoming,2018,46118.46,33396.64,724.15
+United States,Wyoming,2019,42154.87,29874.84,708.69
+United States,Wyoming,2020,42023.95,28482.77,677.78
+United States,Wyoming,2021,43668.47,27463.48,628.91
