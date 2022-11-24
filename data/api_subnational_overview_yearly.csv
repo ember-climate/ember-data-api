@@ -1,5 +1,5 @@
 country,state,year,demand_gwh,emissions_ktco2,emissions_intensity_gco2_per_kwh
-India,Andaman and Nicobar,2019,110.35,63.11,571.91
+India,Andaman and Nicobar,2019,110.35,62.89,569.91
 India,Andaman and Nicobar,2020,161.25,89.69,556.22
 India,Andaman and Nicobar,2021,130.86,68.19,521.09
 India,Andhra Pradesh,2019,76527.64,48429.72,632.84
@@ -22,7 +22,7 @@ India,Chhattisgarh,2020,132504.24,107403.18,810.56
 India,Chhattisgarh,2021,141481.27,114441.14,808.88
 India,Dadra and Nagar Haveli and Daman and Diu,2019,27.68,1.33,48.05
 India,Dadra and Nagar Haveli and Daman and Diu,2020,38.6,3.17,82.12
-India,Dadra and Nagar Haveli and Daman and Diu,2021,134.39,9.73,72.4
+India,Dadra and Nagar Haveli and Daman and Diu,2021,90.74,6.58,72.52
 India,Delhi,2019,6082.54,2799.72,460.29
 India,Delhi,2020,5809.1,2659.45,457.81
 India,Delhi,2021,5550.78,2522.83,454.5
@@ -38,24 +38,22 @@ India,Haryana,2021,23298.47,18259.48,783.72
 India,Himachal Pradesh,2019,42917.65,1030.14,24.0
 India,Himachal Pradesh,2020,40733.18,978.43,24.02
 India,Himachal Pradesh,2021,37719.72,906.29,24.03
-India,India Total,2019,1378509.83,853374.01,619.06
-India,India Total,2020,1342629.11,813949.31,606.24
-India,India Total,2021,1470175.39,911105.96,619.73
-India,Jammu and Kashmir,2019,18489.59,443.75,24.0
-India,Jammu and Kashmir,2020,18123.79,435.1,24.01
-India,Jammu and Kashmir,2021,17317.95,415.77,24.01
+India,India Total,2019,1397018.44,853818.7,611.17
+India,India Total,2020,1361140.37,814393.71,598.32
+India,India Total,2021,1478287.55,911298.43,616.46
+India,Jammu and Kashmir,2019,18508.58,444.21,24.0
+India,Jammu and Kashmir,2020,18511.26,444.4,24.01
+India,Jammu and Kashmir,2021,17460.43,419.19,24.01
 India,Jharkhand,2019,26351.56,21492.5,815.61
 India,Jharkhand,2020,26918.69,21873.28,812.57
 India,Jharkhand,2021,28545.14,22972.71,804.79
 India,Karnataka,2019,69127.19,21593.15,312.37
 India,Karnataka,2020,67118.43,16882.38,251.53
 India,Karnataka,2021,78848.08,26852.91,340.57
-India,Kerala,2019,6350.35,166.15,26.16
+India,Kerala,2019,6350.35,166.85,26.27
 India,Kerala,2020,7107.53,183.62,25.84
 India,Kerala,2021,10710.98,326.07,30.44
-India,Ladakh,2019,18.99,0.46,24.22
-India,Ladakh,2020,387.47,9.3,24.0
-India,Ladakh,2021,400.87,9.62,24.0
+India,Ladakh,2021,258.39,6.2,24.0
 India,Lakshadweep,2019,0.65,0.03,46.15
 India,Lakshadweep,2020,0.55,0.03,54.55
 India,Lakshadweep,2021,0.35,0.02,57.14
@@ -80,6 +78,9 @@ India,Nagaland,2021,182.15,4.37,23.99
 India,Odisha,2019,46895.52,32598.79,695.14
 India,Odisha,2020,61492.21,44206.74,718.9
 India,Odisha,2021,64922.31,48057.4,740.23
+India,Others,2019,0.0,0.0,
+India,Others,2020,0.0,0.0,
+India,Others,2021,0.0,0.0,
 India,Puducherry,2019,241.84,116.85,483.17
 India,Puducherry,2020,252.14,121.58,482.19
 India,Puducherry,2021,253.77,118.94,468.69
@@ -91,7 +92,7 @@ India,Rajasthan,2020,69126.65,36886.62,533.61
 India,Rajasthan,2021,77687.56,40685.92,523.71
 India,Sikkim,2019,11099.39,266.39,24.0
 India,Sikkim,2020,10964.49,263.15,24.0
-India,Sikkim,2021,11372.08,273.18,24.02
+India,Sikkim,2021,11361.92,272.69,24.0
 India,Tamil Nadu,2019,101416.04,54055.58,533.01
 India,Tamil Nadu,2020,94606.2,44473.06,470.09
 India,Tamil Nadu,2021,103126.14,50134.71,486.15
