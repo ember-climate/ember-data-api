@@ -14,14 +14,19 @@ API_YEAR = 2021
 
 # Lay out the tables we use and how we process them
 SQL_DATASET_LIST = [
-    'api_subnational_generation_monthly',
-    'api_subnational_generation_yearly',
-    'api_subnational_overview_monthly',
-    'api_subnational_overview_yearly',
+    'api_generation_ind_monthly',
+    'api_generation_usa_monthly',
+    'api_generation_ind_yearly',
+    'api_generation_usa_yearly',
+    'api_overview_ind_monthly',
+    'api_overview_usa_monthly',
+    'api_overview_ind_yearly',
+    'api_overview_usa_yearly',
     'api_price_monthly',
     'api_generation_monthly',
     'api_generation_yearly',
     'api_country_overview_yearly',
+
 ]
 PY_DATASET_LIST = ['api_day_ahead_price']
 NO_DB_TABLE_LIST = ['euromod_2022']

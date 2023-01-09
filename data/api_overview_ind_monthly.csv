@@ -1,0 +1,1754 @@
+country,state,date,demand_gwh,emissions_ktco2,emissions_intensity_gco2_per_kwh
+India,Andaman and Nicobar,2019-01-01,9.44,4.92,521.19
+India,Andaman and Nicobar,2019-02-01,9.65,4.96,513.99
+India,Andaman and Nicobar,2019-03-01,10.05,4.98,495.52
+India,Andaman and Nicobar,2019-04-01,11.3,6.22,550.44
+India,Andaman and Nicobar,2019-05-01,10.04,5.86,583.67
+India,Andaman and Nicobar,2019-06-01,8.21,4.96,604.14
+India,Andaman and Nicobar,2019-07-01,8.8,5.5,625.0
+India,Andaman and Nicobar,2019-08-01,7.5,4.95,660.0
+India,Andaman and Nicobar,2019-09-01,7.51,4.83,643.14
+India,Andaman and Nicobar,2019-10-01,9.03,5.16,571.43
+India,Andaman and Nicobar,2019-11-01,9.4,5.17,550.0
+India,Andaman and Nicobar,2019-12-01,9.42,5.4,573.25
+India,Andaman and Nicobar,2020-01-01,8.36,4.76,569.38
+India,Andaman and Nicobar,2020-02-01,12.04,7.37,612.13
+India,Andaman and Nicobar,2020-03-01,12.31,7.86,638.51
+India,Andaman and Nicobar,2020-04-01,11.95,7.61,636.82
+India,Andaman and Nicobar,2020-05-01,12.19,7.85,643.97
+India,Andaman and Nicobar,2020-06-01,12.49,7.63,610.89
+India,Andaman and Nicobar,2020-07-01,13.24,7.9,596.68
+India,Andaman and Nicobar,2020-08-01,14.17,7.92,558.93
+India,Andaman and Nicobar,2020-09-01,22.82,7.77,340.49
+India,Andaman and Nicobar,2020-10-01,8.9,4.14,465.17
+India,Andaman and Nicobar,2020-11-01,24.04,14.73,612.73
+India,Andaman and Nicobar,2020-12-01,8.74,4.16,475.97
+India,Andaman and Nicobar,2021-01-01,8.76,4.26,486.3
+India,Andaman and Nicobar,2021-02-01,8.97,4.57,509.48
+India,Andaman and Nicobar,2021-03-01,11.73,5.95,507.25
+India,Andaman and Nicobar,2021-04-01,9.8,4.97,507.14
+India,Andaman and Nicobar,2021-05-01,8.79,4.82,548.35
+India,Andaman and Nicobar,2021-06-01,9.34,4.72,505.35
+India,Andaman and Nicobar,2021-07-01,10.28,5.46,531.13
+India,Andaman and Nicobar,2021-08-01,10.14,5.08,500.99
+India,Andaman and Nicobar,2021-09-01,10.11,5.06,500.5
+India,Andaman and Nicobar,2021-10-01,18.6,10.69,574.73
+India,Andaman and Nicobar,2021-11-01,12.88,6.81,528.73
+India,Andaman and Nicobar,2021-12-01,11.46,5.81,506.98
+India,Andaman and Nicobar,2022-01-01,21.94,13.54,617.14
+India,Andaman and Nicobar,2022-02-01,10.52,5.75,546.58
+India,Andaman and Nicobar,2022-03-01,18.17,10.73,590.53
+India,Andaman and Nicobar,2022-04-01,14.88,8.17,549.06
+India,Andaman and Nicobar,2022-05-01,12.86,6.76,525.66
+India,Andaman and Nicobar,2022-06-01,12.72,6.89,541.67
+India,Andaman and Nicobar,2022-07-01,13.46,7.36,546.81
+India,Andaman and Nicobar,2022-08-01,12.37,6.21,502.02
+India,Andaman and Nicobar,2022-09-01,10.23,4.81,470.19
+India,Andaman and Nicobar,2022-10-01,29.44,18.47,627.38
+India,Andaman and Nicobar,2022-11-01,28.29,17.63,623.19
+India,Andhra Pradesh,2019-01-01,5436.99,3567.27,656.11
+India,Andhra Pradesh,2019-02-01,5294.01,3353.99,633.54
+India,Andhra Pradesh,2019-03-01,7258.41,4871.03,671.09
+India,Andhra Pradesh,2019-04-01,6758.65,4557.98,674.39
+India,Andhra Pradesh,2019-05-01,7151.49,4664.7,652.27
+India,Andhra Pradesh,2019-06-01,7122.25,4307.46,604.79
+India,Andhra Pradesh,2019-07-01,7573.23,4471.99,590.5
+India,Andhra Pradesh,2019-08-01,7557.36,4200.3,555.79
+India,Andhra Pradesh,2019-09-01,6469.06,3950.89,610.74
+India,Andhra Pradesh,2019-10-01,5153.67,3335.11,647.13
+India,Andhra Pradesh,2019-11-01,5084.47,3235.12,636.28
+India,Andhra Pradesh,2019-12-01,5668.06,3913.87,690.51
+India,Andhra Pradesh,2020-01-01,6263.44,4298.09,686.22
+India,Andhra Pradesh,2020-02-01,6377.45,4118.48,645.79
+India,Andhra Pradesh,2020-03-01,5752.7,3585.56,623.28
+India,Andhra Pradesh,2020-04-01,4534.98,2667.1,588.12
+India,Andhra Pradesh,2020-05-01,4908.14,2793.75,569.21
+India,Andhra Pradesh,2020-06-01,5395.56,3087.22,572.18
+India,Andhra Pradesh,2020-07-01,4982.63,2848.32,571.65
+India,Andhra Pradesh,2020-08-01,5767.3,2998.02,519.83
+India,Andhra Pradesh,2020-09-01,5592.65,3164.04,565.75
+India,Andhra Pradesh,2020-10-01,5282.29,3036.85,574.91
+India,Andhra Pradesh,2020-11-01,4583.83,2783.34,607.21
+India,Andhra Pradesh,2020-12-01,5119.4,3169.11,619.04
+India,Andhra Pradesh,2021-01-01,6491.96,4267.61,657.37
+India,Andhra Pradesh,2021-02-01,6493.94,4203.72,647.33
+India,Andhra Pradesh,2021-03-01,7730.2,4991.12,645.67
+India,Andhra Pradesh,2021-04-01,6421.18,4141.55,644.98
+India,Andhra Pradesh,2021-05-01,5512.8,3302.93,599.14
+India,Andhra Pradesh,2021-06-01,6040.72,3249.97,538.01
+India,Andhra Pradesh,2021-07-01,6996.59,4163.52,595.08
+India,Andhra Pradesh,2021-08-01,7233.75,4184.74,578.5
+India,Andhra Pradesh,2021-09-01,6374.68,3525.89,553.11
+India,Andhra Pradesh,2021-10-01,6084.92,3714.54,610.45
+India,Andhra Pradesh,2021-11-01,4734.28,2992.64,632.12
+India,Andhra Pradesh,2021-12-01,5224.79,3294.62,630.58
+India,Andhra Pradesh,2022-01-01,6060.05,3926.45,647.92
+India,Andhra Pradesh,2022-02-01,6360.24,4134.67,650.08
+India,Andhra Pradesh,2022-03-01,7153.49,4706.93,657.99
+India,Andhra Pradesh,2022-04-01,7372.42,4915.41,666.73
+India,Andhra Pradesh,2022-05-01,7331.35,4566.78,622.91
+India,Andhra Pradesh,2022-06-01,6475.13,3832.62,591.9
+India,Andhra Pradesh,2022-07-01,6948.45,3862.38,555.86
+India,Andhra Pradesh,2022-08-01,7464.17,4194.72,561.98
+India,Andhra Pradesh,2022-09-01,7056.76,4124.68,584.5
+India,Andhra Pradesh,2022-10-01,5862.28,3524.99,601.3
+India,Andhra Pradesh,2022-11-01,5874.44,3812.78,649.05
+India,Arunachal Pradesh,2019-01-01,42.43,1.03,24.28
+India,Arunachal Pradesh,2019-02-01,13.17,0.31,23.54
+India,Arunachal Pradesh,2019-03-01,3.92,0.09,22.96
+India,Arunachal Pradesh,2019-04-01,15.48,0.38,24.55
+India,Arunachal Pradesh,2019-05-01,220.61,5.29,23.98
+India,Arunachal Pradesh,2019-06-01,170.09,4.08,23.99
+India,Arunachal Pradesh,2019-07-01,335.84,8.07,24.03
+India,Arunachal Pradesh,2019-08-01,233.85,5.62,24.03
+India,Arunachal Pradesh,2019-09-01,269.4,6.47,24.02
+India,Arunachal Pradesh,2019-10-01,180.17,4.33,24.03
+India,Arunachal Pradesh,2019-11-01,95.43,2.3,24.1
+India,Arunachal Pradesh,2019-12-01,69.46,1.67,24.04
+India,Arunachal Pradesh,2020-01-01,56.15,1.35,24.04
+India,Arunachal Pradesh,2020-02-01,70.57,1.7,24.09
+India,Arunachal Pradesh,2020-03-01,71.64,1.73,24.15
+India,Arunachal Pradesh,2020-04-01,111.83,2.69,24.05
+India,Arunachal Pradesh,2020-05-01,218.96,5.26,24.02
+India,Arunachal Pradesh,2020-06-01,400.52,9.62,24.02
+India,Arunachal Pradesh,2020-07-01,565.23,13.56,23.99
+India,Arunachal Pradesh,2020-08-01,471.99,11.34,24.03
+India,Arunachal Pradesh,2020-09-01,405.04,9.72,24.0
+India,Arunachal Pradesh,2020-10-01,409.32,9.83,24.02
+India,Arunachal Pradesh,2020-11-01,231.77,5.57,24.03
+India,Arunachal Pradesh,2020-12-01,187.58,4.51,24.04
+India,Arunachal Pradesh,2021-01-01,167.68,4.03,24.03
+India,Arunachal Pradesh,2021-02-01,125.55,3.02,24.05
+India,Arunachal Pradesh,2021-03-01,157.98,3.8,24.05
+India,Arunachal Pradesh,2021-04-01,135.26,3.25,24.03
+India,Arunachal Pradesh,2021-05-01,350.58,8.42,24.02
+India,Arunachal Pradesh,2021-06-01,502.71,12.07,24.01
+India,Arunachal Pradesh,2021-07-01,643.26,15.44,24.0
+India,Arunachal Pradesh,2021-08-01,550.28,13.21,24.01
+India,Arunachal Pradesh,2021-09-01,525.58,12.62,24.01
+India,Arunachal Pradesh,2021-10-01,414.34,9.95,24.01
+India,Arunachal Pradesh,2021-11-01,281.37,6.76,24.03
+India,Arunachal Pradesh,2021-12-01,209.72,5.04,24.03
+India,Arunachal Pradesh,2022-01-01,172.72,4.15,24.03
+India,Arunachal Pradesh,2022-02-01,156.91,3.77,24.03
+India,Arunachal Pradesh,2022-03-01,220.7,5.3,24.01
+India,Arunachal Pradesh,2022-04-01,236.17,5.77,24.43
+India,Arunachal Pradesh,2022-05-01,439.3,10.64,24.22
+India,Arunachal Pradesh,2022-06-01,618.12,14.93,24.15
+India,Arunachal Pradesh,2022-07-01,595.68,14.3,24.01
+India,Arunachal Pradesh,2022-08-01,627.18,15.15,24.16
+India,Arunachal Pradesh,2022-09-01,616.95,14.91,24.17
+India,Arunachal Pradesh,2022-10-01,598.24,14.36,24.0
+India,Arunachal Pradesh,2022-11-01,346.05,8.31,24.01
+India,Assam,2019-01-01,597.51,332.3,556.14
+India,Assam,2019-02-01,498.8,303.3,608.06
+India,Assam,2019-03-01,547.76,333.66,609.14
+India,Assam,2019-04-01,623.65,399.81,641.08
+India,Assam,2019-05-01,789.02,419.02,531.06
+India,Assam,2019-06-01,765.14,401.79,525.12
+India,Assam,2019-07-01,824.4,404.62,490.81
+India,Assam,2019-08-01,710.93,333.32,468.85
+India,Assam,2019-09-01,661.53,303.27,458.44
+India,Assam,2019-10-01,614.08,354.4,577.12
+India,Assam,2019-11-01,660.79,411.17,622.24
+India,Assam,2019-12-01,660.52,428.02,648.01
+India,Assam,2020-01-01,652.2,423.91,649.97
+India,Assam,2020-02-01,572.78,384.2,670.76
+India,Assam,2020-03-01,553.45,367.86,664.67
+India,Assam,2020-04-01,463.77,304.54,656.66
+India,Assam,2020-05-01,449.97,284.81,632.95
+India,Assam,2020-06-01,542.6,341.7,629.75
+India,Assam,2020-07-01,460.81,287.04,622.9
+India,Assam,2020-08-01,407.35,247.05,606.48
+India,Assam,2020-09-01,474.33,299.64,631.71
+India,Assam,2020-10-01,504.18,331.53,657.56
+India,Assam,2020-11-01,456.33,277.42,607.94
+India,Assam,2020-12-01,497.29,303.52,610.35
+India,Assam,2021-01-01,542.34,322.79,595.18
+India,Assam,2021-02-01,501.84,305.28,608.32
+India,Assam,2021-03-01,719.72,477.15,662.97
+India,Assam,2021-04-01,697.32,451.62,647.65
+India,Assam,2021-05-01,588.65,346.35,588.38
+India,Assam,2021-06-01,667.46,401.87,602.09
+India,Assam,2021-07-01,691.15,408.22,590.64
+India,Assam,2021-08-01,731.54,417.52,570.74
+India,Assam,2021-09-01,738.38,432.08,585.17
+India,Assam,2021-10-01,749.59,435.54,581.04
+India,Assam,2021-11-01,709.42,433.49,611.05
+India,Assam,2021-12-01,714.69,452.01,632.46
+India,Assam,2022-01-01,579.18,358.44,618.88
+India,Assam,2022-02-01,700.52,456.76,652.03
+India,Assam,2022-03-01,831.01,537.97,647.37
+India,Assam,2022-04-01,800.18,544.47,680.43
+India,Assam,2022-05-01,818.69,524.49,640.65
+India,Assam,2022-06-01,835.14,527.97,632.19
+India,Assam,2022-07-01,835.43,528.9,633.09
+India,Assam,2022-08-01,843.3,522.91,620.08
+India,Assam,2022-09-01,777.77,481.74,619.39
+India,Assam,2022-10-01,710.34,423.32,595.94
+India,Assam,2022-11-01,652.39,391.56,600.19
+India,Bihar,2019-01-01,3141.43,2539.5,808.39
+India,Bihar,2019-02-01,2496.68,2010.91,805.43
+India,Bihar,2019-03-01,3043.2,2414.55,793.43
+India,Bihar,2019-04-01,2873.98,2325.94,809.31
+India,Bihar,2019-05-01,2881.13,2358.51,818.61
+India,Bihar,2019-06-01,3031.06,2469.83,814.84
+India,Bihar,2019-07-01,2751.38,2240.93,814.48
+India,Bihar,2019-08-01,2859.16,2329.31,814.68
+India,Bihar,2019-09-01,3137.54,2560.75,816.17
+India,Bihar,2019-10-01,3107.52,2536.13,816.13
+India,Bihar,2019-11-01,3213.99,2616.67,814.15
+India,Bihar,2019-12-01,2914.89,2361.23,810.06
+India,Bihar,2020-01-01,2925.93,2370.28,810.1
+India,Bihar,2020-02-01,2942.68,2382.45,809.62
+India,Bihar,2020-03-01,3077.74,2493.37,810.13
+India,Bihar,2020-04-01,2378.04,1937.02,814.55
+India,Bihar,2020-05-01,2762.79,2248.76,813.95
+India,Bihar,2020-06-01,2778.83,2264.0,814.73
+India,Bihar,2020-07-01,2950.71,2378.14,805.96
+India,Bihar,2020-08-01,2364.95,1928.6,815.49
+India,Bihar,2020-09-01,2754.77,2248.26,816.13
+India,Bihar,2020-10-01,2978.46,2431.68,816.42
+India,Bihar,2020-11-01,2255.05,1838.49,815.28
+India,Bihar,2020-12-01,2610.73,2130.61,816.1
+India,Bihar,2021-01-01,3103.47,2534.66,816.72
+India,Bihar,2021-02-01,3199.48,2613.39,816.82
+India,Bihar,2021-03-01,3952.05,3230.5,817.42
+India,Bihar,2021-04-01,3922.5,3206.26,817.4
+India,Bihar,2021-05-01,3255.21,2658.01,816.54
+India,Bihar,2021-06-01,3377.84,2760.23,817.16
+India,Bihar,2021-07-01,3366.72,2750.43,816.95
+India,Bihar,2021-08-01,3535.0,2885.34,816.22
+India,Bihar,2021-09-01,3020.22,2465.13,816.21
+India,Bihar,2021-10-01,3105.61,2535.65,816.47
+India,Bihar,2021-11-01,3343.63,2725.47,815.12
+India,Bihar,2021-12-01,4204.63,3431.37,816.09
+India,Bihar,2022-01-01,4418.03,3600.84,815.03
+India,Bihar,2022-02-01,4003.06,3261.39,814.72
+India,Bihar,2022-03-01,4627.8,3774.69,815.66
+India,Bihar,2022-04-01,4829.05,3947.58,817.47
+India,Bihar,2022-05-01,4729.15,3865.23,817.32
+India,Bihar,2022-06-01,4872.08,3983.99,817.72
+India,Bihar,2022-07-01,4622.05,3776.19,817.0
+India,Bihar,2022-08-01,4356.74,3558.64,816.81
+India,Bihar,2022-09-01,4585.45,3750.23,817.85
+India,Bihar,2022-10-01,4123.41,3368.52,816.93
+India,Bihar,2022-11-01,4563.08,3725.45,816.43
+India,Chandigarh,2019-01-01,0.23,0.01,43.48
+India,Chandigarh,2019-02-01,1.46,0.07,47.95
+India,Chandigarh,2019-03-01,0.26,0.01,38.46
+India,Chandigarh,2019-04-01,2.32,0.11,47.41
+India,Chandigarh,2019-05-01,0.34,0.02,58.82
+India,Chandigarh,2019-06-01,2.21,0.11,49.77
+India,Chandigarh,2019-07-01,0.23,0.01,43.48
+India,Chandigarh,2019-08-01,1.48,0.07,47.3
+India,Chandigarh,2019-09-01,0.16,0.01,62.5
+India,Chandigarh,2019-10-01,1.28,0.06,46.88
+India,Chandigarh,2019-11-01,0.24,0.01,41.67
+India,Chandigarh,2019-12-01,1.78,0.09,50.56
+India,Chandigarh,2020-01-01,0.18,0.01,55.56
+India,Chandigarh,2020-02-01,1.56,0.07,44.87
+India,Chandigarh,2020-03-01,1.56,0.07,44.87
+India,Chandigarh,2020-04-01,2.67,0.13,48.69
+India,Chandigarh,2020-05-01,0.21,0.01,47.62
+India,Chandigarh,2020-06-01,1.96,0.09,45.92
+India,Chandigarh,2020-07-01,0.28,0.01,35.71
+India,Chandigarh,2020-08-01,0.28,0.01,35.71
+India,Chandigarh,2020-09-01,0.29,0.01,34.48
+India,Chandigarh,2020-10-01,0.29,0.01,34.48
+India,Chandigarh,2020-11-01,0.29,0.01,34.48
+India,Chandigarh,2020-12-01,0.29,0.01,34.48
+India,Chandigarh,2021-01-01,0.17,0.01,58.82
+India,Chandigarh,2021-02-01,1.71,0.08,46.78
+India,Chandigarh,2021-03-01,1.71,0.08,46.78
+India,Chandigarh,2021-04-01,1.71,0.08,46.78
+India,Chandigarh,2021-05-01,0.27,0.01,37.04
+India,Chandigarh,2021-06-01,2.31,0.11,47.62
+India,Chandigarh,2021-07-01,0.24,0.01,41.67
+India,Chandigarh,2021-08-01,2.53,0.12,47.43
+India,Chandigarh,2021-09-01,0.22,0.01,45.46
+India,Chandigarh,2021-10-01,2.04,0.1,49.02
+India,Chandigarh,2021-11-01,0.22,0.01,45.46
+India,Chandigarh,2021-12-01,1.68,0.08,47.62
+India,Chandigarh,2022-01-01,0.99,0.05,50.51
+India,Chandigarh,2022-02-01,0.99,0.05,50.51
+India,Chandigarh,2022-03-01,0.99,0.05,50.51
+India,Chandigarh,2022-04-01,2.81,0.13,46.26
+India,Chandigarh,2022-05-01,0.23,0.01,43.48
+India,Chandigarh,2022-06-01,0.23,0.01,43.48
+India,Chandigarh,2022-07-01,0.2,0.01,50.0
+India,Chandigarh,2022-08-01,2.16,0.1,46.3
+India,Chandigarh,2022-09-01,0.19,0.01,52.63
+India,Chandigarh,2022-10-01,2.01,0.1,49.75
+India,Chandigarh,2022-11-01,0.2,0.01,50.0
+India,Chhattisgarh,2019-01-01,8371.2,6817.16,814.36
+India,Chhattisgarh,2019-02-01,8774.49,7143.24,814.09
+India,Chhattisgarh,2019-03-01,10123.42,8243.7,814.32
+India,Chhattisgarh,2019-04-01,10278.42,8355.33,812.9
+India,Chhattisgarh,2019-05-01,10405.61,8487.56,815.67
+India,Chhattisgarh,2019-06-01,10211.35,8332.04,815.96
+India,Chhattisgarh,2019-07-01,10537.51,8534.73,809.94
+India,Chhattisgarh,2019-08-01,9538.58,7734.75,810.89
+India,Chhattisgarh,2019-09-01,7924.47,6411.91,809.13
+India,Chhattisgarh,2019-10-01,8578.99,6909.07,805.35
+India,Chhattisgarh,2019-11-01,9610.98,7816.99,813.34
+India,Chhattisgarh,2019-12-01,10502.05,8552.02,814.32
+India,Chhattisgarh,2020-01-01,10929.24,8896.13,813.98
+India,Chhattisgarh,2020-02-01,10061.48,8163.37,811.35
+India,Chhattisgarh,2020-03-01,10758.12,8739.9,812.4
+India,Chhattisgarh,2020-04-01,9140.28,7393.31,808.87
+India,Chhattisgarh,2020-05-01,11247.21,9126.69,811.46
+India,Chhattisgarh,2020-06-01,10548.43,8543.18,809.9
+India,Chhattisgarh,2020-07-01,11411.72,9202.54,806.41
+India,Chhattisgarh,2020-08-01,11343.94,9192.47,810.34
+India,Chhattisgarh,2020-09-01,11554.48,9325.92,807.13
+India,Chhattisgarh,2020-10-01,11567.99,9377.36,810.63
+India,Chhattisgarh,2020-11-01,11577.08,9399.7,811.92
+India,Chhattisgarh,2020-12-01,12364.27,10042.61,812.23
+India,Chhattisgarh,2021-01-01,12206.26,9882.98,809.67
+India,Chhattisgarh,2021-02-01,11022.05,8913.02,808.65
+India,Chhattisgarh,2021-03-01,12683.82,10272.5,809.89
+India,Chhattisgarh,2021-04-01,13502.04,10959.53,811.69
+India,Chhattisgarh,2021-05-01,12245.06,9938.83,811.66
+India,Chhattisgarh,2021-06-01,11708.66,9495.73,811.0
+India,Chhattisgarh,2021-07-01,12068.28,9767.51,809.35
+India,Chhattisgarh,2021-08-01,12577.09,10127.96,805.27
+India,Chhattisgarh,2021-09-01,9964.07,7990.73,801.95
+India,Chhattisgarh,2021-10-01,10929.32,8792.14,804.45
+India,Chhattisgarh,2021-11-01,10360.96,8391.81,809.95
+India,Chhattisgarh,2021-12-01,12213.66,9908.42,811.26
+India,Chhattisgarh,2022-01-01,12085.47,9786.42,809.77
+India,Chhattisgarh,2022-02-01,11684.27,9464.93,810.06
+India,Chhattisgarh,2022-03-01,13874.3,11227.89,809.26
+India,Chhattisgarh,2022-04-01,12470.89,10083.47,808.56
+India,Chhattisgarh,2022-05-01,11846.87,9596.92,810.08
+India,Chhattisgarh,2022-06-01,11506.86,9323.04,810.22
+India,Chhattisgarh,2022-07-01,10870.2,8831.05,812.41
+India,Chhattisgarh,2022-08-01,10288.28,8329.42,809.6
+India,Chhattisgarh,2022-09-01,10919.7,8812.25,807.01
+India,Chhattisgarh,2022-10-01,10957.0,8849.14,807.62
+India,Chhattisgarh,2022-11-01,11814.66,9600.39,812.58
+India,Dadra and Nagar Haveli and Daman and Diu,2019-01-01,2.33,0.11,47.21
+India,Dadra and Nagar Haveli and Daman and Diu,2019-02-01,2.43,0.12,49.38
+India,Dadra and Nagar Haveli and Daman and Diu,2019-03-01,2.95,0.14,47.46
+India,Dadra and Nagar Haveli and Daman and Diu,2019-04-01,2.82,0.14,49.65
+India,Dadra and Nagar Haveli and Daman and Diu,2019-05-01,2.78,0.13,46.76
+India,Dadra and Nagar Haveli and Daman and Diu,2019-06-01,1.84,0.09,48.91
+India,Dadra and Nagar Haveli and Daman and Diu,2019-07-01,1.73,0.08,46.24
+India,Dadra and Nagar Haveli and Daman and Diu,2019-08-01,1.71,0.08,46.78
+India,Dadra and Nagar Haveli and Daman and Diu,2019-09-01,1.69,0.08,47.34
+India,Dadra and Nagar Haveli and Daman and Diu,2019-10-01,2.41,0.12,49.79
+India,Dadra and Nagar Haveli and Daman and Diu,2019-11-01,2.29,0.11,48.04
+India,Dadra and Nagar Haveli and Daman and Diu,2019-12-01,2.7,0.13,48.15
+India,Dadra and Nagar Haveli and Daman and Diu,2020-01-01,2.57,0.12,46.69
+India,Dadra and Nagar Haveli and Daman and Diu,2020-02-01,2.69,0.13,48.33
+India,Dadra and Nagar Haveli and Daman and Diu,2020-03-01,2.79,0.13,46.6
+India,Dadra and Nagar Haveli and Daman and Diu,2020-04-01,3.21,0.15,46.73
+India,Dadra and Nagar Haveli and Daman and Diu,2020-05-01,2.92,0.14,47.95
+India,Dadra and Nagar Haveli and Daman and Diu,2020-06-01,2.49,0.17,68.27
+India,Dadra and Nagar Haveli and Daman and Diu,2020-07-01,3.41,0.4,117.3
+India,Dadra and Nagar Haveli and Daman and Diu,2020-08-01,3.05,0.37,121.31
+India,Dadra and Nagar Haveli and Daman and Diu,2020-09-01,3.18,0.31,97.48
+India,Dadra and Nagar Haveli and Daman and Diu,2020-10-01,4.03,0.41,101.74
+India,Dadra and Nagar Haveli and Daman and Diu,2020-11-01,4.09,0.41,100.24
+India,Dadra and Nagar Haveli and Daman and Diu,2020-12-01,4.17,0.42,100.72
+India,Dadra and Nagar Haveli and Daman and Diu,2021-01-01,7.19,0.54,75.1
+India,Dadra and Nagar Haveli and Daman and Diu,2021-02-01,7.82,0.57,72.89
+India,Dadra and Nagar Haveli and Daman and Diu,2021-03-01,6.44,0.51,79.19
+India,Dadra and Nagar Haveli and Daman and Diu,2021-04-01,4.72,0.31,65.68
+India,Dadra and Nagar Haveli and Daman and Diu,2021-05-01,8.56,0.61,71.26
+India,Dadra and Nagar Haveli and Daman and Diu,2021-06-01,9.42,0.65,69.0
+India,Dadra and Nagar Haveli and Daman and Diu,2021-07-01,8.49,0.61,71.85
+India,Dadra and Nagar Haveli and Daman and Diu,2021-08-01,6.02,0.45,74.75
+India,Dadra and Nagar Haveli and Daman and Diu,2021-09-01,6.06,0.48,79.21
+India,Dadra and Nagar Haveli and Daman and Diu,2021-10-01,8.04,0.58,72.14
+India,Dadra and Nagar Haveli and Daman and Diu,2021-11-01,8.8,0.62,70.46
+India,Dadra and Nagar Haveli and Daman and Diu,2021-12-01,9.18,0.62,67.54
+India,Dadra and Nagar Haveli and Daman and Diu,2022-01-01,8.53,0.62,72.69
+India,Dadra and Nagar Haveli and Daman and Diu,2022-02-01,8.81,0.62,70.38
+India,Dadra and Nagar Haveli and Daman and Diu,2022-03-01,10.19,0.7,68.7
+India,Dadra and Nagar Haveli and Daman and Diu,2022-04-01,8.34,0.69,82.73
+India,Dadra and Nagar Haveli and Daman and Diu,2022-05-01,5.68,0.42,73.94
+India,Dadra and Nagar Haveli and Daman and Diu,2022-06-01,5.44,0.41,75.37
+India,Dadra and Nagar Haveli and Daman and Diu,2022-07-01,0.75,0.04,53.33
+India,Dadra and Nagar Haveli and Daman and Diu,2022-08-01,1.0,0.05,50.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,1.25,0.06,48.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,1.36,0.07,51.47
+India,Dadra and Nagar Haveli and Daman and Diu,2022-11-01,1.36,0.07,51.47
+India,Delhi,2019-01-01,534.56,252.11,471.62
+India,Delhi,2019-02-01,234.64,105.45,449.41
+India,Delhi,2019-03-01,277.56,125.36,451.65
+India,Delhi,2019-04-01,494.47,224.2,453.42
+India,Delhi,2019-05-01,531.71,242.15,455.42
+India,Delhi,2019-06-01,657.44,304.39,462.99
+India,Delhi,2019-07-01,632.48,293.42,463.92
+India,Delhi,2019-08-01,588.91,272.27,462.33
+India,Delhi,2019-09-01,686.32,319.31,465.25
+India,Delhi,2019-10-01,543.26,248.09,456.67
+India,Delhi,2019-11-01,454.63,207.31,456.0
+India,Delhi,2019-12-01,446.56,205.65,460.52
+India,Delhi,2020-01-01,478.62,222.52,464.92
+India,Delhi,2020-02-01,475.59,219.27,461.05
+India,Delhi,2020-03-01,448.81,206.29,459.64
+India,Delhi,2020-04-01,384.23,171.93,447.47
+India,Delhi,2020-05-01,529.64,238.5,450.31
+India,Delhi,2020-06-01,525.89,238.85,454.18
+India,Delhi,2020-07-01,510.33,234.24,459.0
+India,Delhi,2020-08-01,454.17,204.91,451.18
+India,Delhi,2020-09-01,404.14,183.23,453.38
+India,Delhi,2020-10-01,530.06,243.78,459.91
+India,Delhi,2020-11-01,539.75,249.25,461.79
+India,Delhi,2020-12-01,527.87,246.7,467.35
+India,Delhi,2021-01-01,383.83,176.45,459.71
+India,Delhi,2021-02-01,388.59,175.29,451.09
+India,Delhi,2021-03-01,552.2,253.95,459.89
+India,Delhi,2021-04-01,534.02,249.11,466.48
+India,Delhi,2021-05-01,481.47,221.85,460.78
+India,Delhi,2021-06-01,457.95,210.74,460.18
+India,Delhi,2021-07-01,438.6,198.43,452.42
+India,Delhi,2021-08-01,484.59,217.44,448.71
+India,Delhi,2021-09-01,409.01,180.41,441.09
+India,Delhi,2021-10-01,599.08,273.94,457.27
+India,Delhi,2021-11-01,416.17,184.09,442.34
+India,Delhi,2021-12-01,405.27,181.1,446.86
+India,Delhi,2022-01-01,413.55,185.16,447.73
+India,Delhi,2022-02-01,377.4,168.27,445.87
+India,Delhi,2022-03-01,390.2,173.93,445.75
+India,Delhi,2022-04-01,597.9,274.25,458.69
+India,Delhi,2022-05-01,523.86,236.82,452.07
+India,Delhi,2022-06-01,425.58,188.36,442.6
+India,Delhi,2022-07-01,419.41,185.58,442.48
+India,Delhi,2022-08-01,410.32,180.68,440.34
+India,Delhi,2022-09-01,374.98,163.68,436.5
+India,Delhi,2022-10-01,199.79,78.58,393.31
+India,Delhi,2022-11-01,271.11,115.87,427.39
+India,Goa,2019-01-01,0.0,0.0,
+India,Goa,2019-02-01,0.0,0.0,
+India,Goa,2019-03-01,0.0,0.0,
+India,Goa,2019-04-01,0.0,0.0,
+India,Goa,2019-05-01,0.0,0.0,
+India,Goa,2019-06-01,0.0,0.0,
+India,Goa,2019-07-01,0.0,0.0,
+India,Goa,2019-08-01,0.0,0.0,
+India,Goa,2019-09-01,0.0,0.0,
+India,Goa,2019-10-01,0.12,0.01,83.33
+India,Goa,2019-11-01,0.14,0.01,71.43
+India,Goa,2019-12-01,0.14,0.01,71.43
+India,Goa,2020-01-01,0.14,0.01,71.43
+India,Goa,2020-02-01,0.15,0.01,66.67
+India,Goa,2020-03-01,0.13,0.01,76.92
+India,Goa,2020-04-01,0.15,0.01,66.67
+India,Goa,2020-05-01,0.14,0.01,71.43
+India,Goa,2020-06-01,0.09,0.0,0.0
+India,Goa,2020-07-01,0.09,0.0,0.0
+India,Goa,2020-08-01,0.09,0.0,0.0
+India,Goa,2020-09-01,0.1,0.0,0.0
+India,Goa,2020-10-01,0.12,0.01,83.33
+India,Goa,2020-11-01,0.14,0.01,71.43
+India,Goa,2020-12-01,0.14,0.01,71.43
+India,Goa,2021-01-01,0.14,0.01,71.43
+India,Goa,2021-02-01,0.1,0.0,0.0
+India,Goa,2021-03-01,0.15,0.01,66.67
+India,Goa,2021-04-01,0.15,0.01,66.67
+India,Goa,2021-05-01,0.1,0.0,0.0
+India,Goa,2021-06-01,0.1,0.0,0.0
+India,Goa,2021-07-01,0.08,0.0,0.0
+India,Goa,2021-08-01,0.11,0.01,90.91
+India,Goa,2021-09-01,0.1,0.0,0.0
+India,Goa,2021-10-01,0.1,0.0,0.0
+India,Goa,2021-11-01,0.11,0.01,90.91
+India,Goa,2021-12-01,1.35,0.06,44.44
+India,Goa,2022-01-01,1.61,0.07,43.48
+India,Goa,2022-02-01,1.97,0.1,50.76
+India,Goa,2022-03-01,2.78,0.13,46.76
+India,Goa,2022-04-01,0.84,0.04,47.62
+India,Goa,2022-05-01,0.84,0.04,47.62
+India,Goa,2022-06-01,0.84,0.04,47.62
+India,Goa,2022-07-01,1.93,0.09,46.63
+India,Goa,2022-08-01,1.93,0.09,46.63
+India,Goa,2022-09-01,1.93,0.09,46.63
+India,Goa,2022-10-01,1.93,0.09,46.63
+India,Goa,2022-11-01,1.93,0.09,46.63
+India,Gujarat,2019-01-01,10231.79,7083.55,692.31
+India,Gujarat,2019-02-01,9012.77,6186.86,686.46
+India,Gujarat,2019-03-01,10175.93,6958.58,683.83
+India,Gujarat,2019-04-01,10751.4,7125.85,662.78
+India,Gujarat,2019-05-01,11762.48,7690.19,653.79
+India,Gujarat,2019-06-01,10182.59,6301.51,618.85
+India,Gujarat,2019-07-01,10356.7,5842.27,564.11
+India,Gujarat,2019-08-01,10149.05,5815.1,572.97
+India,Gujarat,2019-09-01,10021.61,5769.16,575.67
+India,Gujarat,2019-10-01,10566.57,6601.21,624.73
+India,Gujarat,2019-11-01,9839.23,6256.23,635.85
+India,Gujarat,2019-12-01,10584.63,6393.34,604.02
+India,Gujarat,2020-01-01,10623.95,6747.35,635.11
+India,Gujarat,2020-02-01,10487.51,6535.81,623.2
+India,Gujarat,2020-03-01,9339.44,5438.83,582.35
+India,Gujarat,2020-04-01,8587.5,4639.47,540.26
+India,Gujarat,2020-05-01,10080.03,5304.85,526.27
+India,Gujarat,2020-06-01,9983.41,5721.11,573.06
+India,Gujarat,2020-07-01,10158.12,5981.75,588.86
+India,Gujarat,2020-08-01,8878.71,4760.48,536.17
+India,Gujarat,2020-09-01,11040.94,6641.51,601.54
+India,Gujarat,2020-10-01,11669.58,7566.34,648.38
+India,Gujarat,2020-11-01,10540.06,6621.72,628.24
+India,Gujarat,2020-12-01,11107.98,7114.05,640.45
+India,Gujarat,2021-01-01,10382.64,6482.45,624.36
+India,Gujarat,2021-02-01,9475.05,6091.78,642.93
+India,Gujarat,2021-03-01,9955.26,6044.65,607.18
+India,Gujarat,2021-04-01,9600.24,5880.97,612.59
+India,Gujarat,2021-05-01,8364.44,4122.82,492.9
+India,Gujarat,2021-06-01,8466.86,3839.93,453.53
+India,Gujarat,2021-07-01,9057.07,4208.62,464.68
+India,Gujarat,2021-08-01,8115.14,4030.01,496.6
+India,Gujarat,2021-09-01,4938.67,2313.28,468.4
+India,Gujarat,2021-10-01,6239.59,3302.55,529.29
+India,Gujarat,2021-11-01,5776.08,2911.53,504.07
+India,Gujarat,2021-12-01,7193.39,3741.29,520.1
+India,Gujarat,2022-01-01,6900.4,3635.23,526.81
+India,Gujarat,2022-02-01,5620.17,2832.66,504.02
+India,Gujarat,2022-03-01,7614.71,4065.92,533.96
+India,Gujarat,2022-04-01,9556.27,5357.53,560.63
+India,Gujarat,2022-05-01,9962.84,4662.28,467.97
+India,Gujarat,2022-06-01,9581.86,4936.74,515.22
+India,Gujarat,2022-07-01,7490.67,3130.72,417.95
+India,Gujarat,2022-08-01,7498.75,2986.51,398.27
+India,Gujarat,2022-09-01,7865.3,3610.15,459.0
+India,Gujarat,2022-10-01,7198.67,3381.95,469.8
+India,Gujarat,2022-11-01,6535.57,3667.14,561.11
+India,Haryana,2019-01-01,2545.24,2012.27,790.6
+India,Haryana,2019-02-01,1758.57,1377.09,783.07
+India,Haryana,2019-03-01,1788.69,1394.01,779.35
+India,Haryana,2019-04-01,1213.43,952.08,784.62
+India,Haryana,2019-05-01,1788.39,1428.82,798.94
+India,Haryana,2019-06-01,2361.59,1898.1,803.74
+India,Haryana,2019-07-01,1783.95,1412.82,791.96
+India,Haryana,2019-08-01,1492.05,1166.8,782.01
+India,Haryana,2019-09-01,2006.75,1559.82,777.29
+India,Haryana,2019-10-01,1279.67,996.91,779.04
+India,Haryana,2019-11-01,754.76,580.46,769.07
+India,Haryana,2019-12-01,1319.95,976.35,739.69
+India,Haryana,2020-01-01,1584.6,1235.96,779.98
+India,Haryana,2020-02-01,1647.61,1302.6,790.6
+India,Haryana,2020-03-01,813.36,582.79,716.52
+India,Haryana,2020-04-01,202.18,112.51,556.48
+India,Haryana,2020-05-01,508.49,347.83,684.05
+India,Haryana,2020-06-01,1310.49,960.61,733.02
+India,Haryana,2020-07-01,1487.36,1134.23,762.58
+India,Haryana,2020-08-01,502.47,344.17,684.96
+India,Haryana,2020-09-01,2188.7,1727.5,789.28
+India,Haryana,2020-10-01,1268.87,986.73,777.65
+India,Haryana,2020-11-01,486.37,363.56,747.5
+India,Haryana,2020-12-01,1346.93,1054.25,782.71
+India,Haryana,2021-01-01,2043.9,1622.45,793.8
+India,Haryana,2021-02-01,1914.78,1485.05,775.57
+India,Haryana,2021-03-01,2396.61,1866.9,778.98
+India,Haryana,2021-04-01,1863.84,1439.87,772.53
+India,Haryana,2021-05-01,1142.27,885.0,774.77
+India,Haryana,2021-06-01,1912.09,1516.29,793.0
+India,Haryana,2021-07-01,1802.64,1427.68,791.99
+India,Haryana,2021-08-01,2171.95,1713.41,788.88
+India,Haryana,2021-09-01,2001.97,1574.3,786.38
+India,Haryana,2021-10-01,2135.72,1668.33,781.16
+India,Haryana,2021-11-01,1660.98,1293.56,778.79
+India,Haryana,2021-12-01,2251.72,1766.69,784.6
+India,Haryana,2022-01-01,2562.13,2020.38,788.56
+India,Haryana,2022-02-01,2051.84,1597.0,778.33
+India,Haryana,2022-03-01,2546.0,1987.96,780.82
+India,Haryana,2022-04-01,2907.12,2284.02,785.66
+India,Haryana,2022-05-01,3080.67,2426.39,787.62
+India,Haryana,2022-06-01,3243.93,2559.49,789.01
+India,Haryana,2022-07-01,3101.35,2443.35,787.83
+India,Haryana,2022-08-01,3197.18,2521.93,788.8
+India,Haryana,2022-09-01,2830.78,2221.47,784.76
+India,Haryana,2022-10-01,2383.82,1882.85,789.85
+India,Haryana,2022-11-01,2246.65,1795.19,799.05
+India,Himachal Pradesh,2019-01-01,1473.18,35.36,24.0
+India,Himachal Pradesh,2019-02-01,1514.22,36.34,24.0
+India,Himachal Pradesh,2019-03-01,1830.55,43.93,24.0
+India,Himachal Pradesh,2019-04-01,3245.47,77.89,24.0
+India,Himachal Pradesh,2019-05-01,4306.8,103.36,24.0
+India,Himachal Pradesh,2019-06-01,5906.79,141.76,24.0
+India,Himachal Pradesh,2019-07-01,6487.46,155.7,24.0
+India,Himachal Pradesh,2019-08-01,6463.38,155.12,24.0
+India,Himachal Pradesh,2019-09-01,5409.62,129.83,24.0
+India,Himachal Pradesh,2019-10-01,2776.57,66.64,24.0
+India,Himachal Pradesh,2019-11-01,1890.29,45.44,24.04
+India,Himachal Pradesh,2019-12-01,1613.32,38.77,24.03
+India,Himachal Pradesh,2020-01-01,1495.44,35.93,24.03
+India,Himachal Pradesh,2020-02-01,1495.28,35.94,24.04
+India,Himachal Pradesh,2020-03-01,1908.04,45.86,24.04
+India,Himachal Pradesh,2020-04-01,2474.96,59.48,24.03
+India,Himachal Pradesh,2020-05-01,4301.13,103.3,24.02
+India,Himachal Pradesh,2020-06-01,5654.76,135.79,24.01
+India,Himachal Pradesh,2020-07-01,6277.59,150.74,24.01
+India,Himachal Pradesh,2020-08-01,6184.63,148.5,24.01
+India,Himachal Pradesh,2020-09-01,5139.58,123.4,24.01
+India,Himachal Pradesh,2020-10-01,2718.08,65.31,24.03
+India,Himachal Pradesh,2020-11-01,1599.51,38.48,24.06
+India,Himachal Pradesh,2020-12-01,1484.18,35.7,24.05
+India,Himachal Pradesh,2021-01-01,1302.4,31.32,24.05
+India,Himachal Pradesh,2021-02-01,1176.47,28.3,24.06
+India,Himachal Pradesh,2021-03-01,1320.51,31.77,24.06
+India,Himachal Pradesh,2021-04-01,1539.85,37.05,24.06
+India,Himachal Pradesh,2021-05-01,3046.89,73.22,24.03
+India,Himachal Pradesh,2021-06-01,5050.3,121.3,24.02
+India,Himachal Pradesh,2021-07-01,6449.39,154.88,24.02
+India,Himachal Pradesh,2021-08-01,6298.17,151.23,24.01
+India,Himachal Pradesh,2021-09-01,5101.47,122.51,24.02
+India,Himachal Pradesh,2021-10-01,3139.88,75.44,24.03
+India,Himachal Pradesh,2021-11-01,1840.99,44.29,24.06
+India,Himachal Pradesh,2021-12-01,1453.4,34.98,24.07
+India,Himachal Pradesh,2022-01-01,1237.59,29.78,24.06
+India,Himachal Pradesh,2022-02-01,1280.7,30.8,24.05
+India,Himachal Pradesh,2022-03-01,2064.76,49.66,24.05
+India,Himachal Pradesh,2022-04-01,2653.29,63.84,24.06
+India,Himachal Pradesh,2022-05-01,3749.37,90.1,24.03
+India,Himachal Pradesh,2022-06-01,4523.44,108.68,24.03
+India,Himachal Pradesh,2022-07-01,6550.05,157.32,24.02
+India,Himachal Pradesh,2022-08-01,6616.31,158.93,24.02
+India,Himachal Pradesh,2022-09-01,5686.02,136.62,24.03
+India,Himachal Pradesh,2022-10-01,3222.44,77.44,24.03
+India,Himachal Pradesh,2022-11-01,2194.38,52.77,24.05
+India,India Total,2019-01-01,110906.31,73814.42,665.56
+India,India Total,2019-02-01,101799.96,66725.7,655.46
+India,India Total,2019-03-01,118411.34,77858.6,657.53
+India,India Total,2019-04-01,120781.04,77172.78,638.95
+India,India Total,2019-05-01,131195.36,80507.12,613.64
+India,India Total,2019-06-01,128804.48,76700.21,595.48
+India,India Total,2019-07-01,125933.1,71184.03,565.25
+India,India Total,2019-08-01,122042.57,65936.71,540.28
+India,India Total,2019-09-01,116714.38,64278.12,550.73
+India,India Total,2019-10-01,106793.12,64252.23,601.65
+India,India Total,2019-11-01,102977.74,64756.9,628.84
+India,India Total,2019-12-01,110659.01,70631.9,638.28
+India,India Total,2020-01-01,114558.8,74384.02,649.31
+India,India Total,2020-02-01,113233.57,73084.52,645.43
+India,India Total,2020-03-01,108606.11,67477.13,621.3
+India,India Total,2020-04-01,93076.7,54082.79,581.06
+India,India Total,2020-05-01,111578.65,63154.17,566.01
+India,India Total,2020-06-01,115314.81,63360.76,549.46
+India,India Total,2020-07-01,122438.74,69422.99,567.0
+India,India Total,2020-08-01,119526.65,64371.22,538.55
+India,India Total,2020-09-01,122170.31,70022.09,573.15
+India,India Total,2020-10-01,118657.95,72776.8,613.33
+India,India Total,2020-11-01,106095.76,67370.35,635.0
+India,India Total,2020-12-01,115882.29,74886.83,646.23
+India,India Total,2021-01-01,120566.14,79778.74,661.7
+India,India Total,2021-02-01,113038.7,74852.27,662.18
+India,India Total,2021-03-01,132557.59,87583.13,660.72
+India,India Total,2021-04-01,128317.03,84694.18,660.04
+India,India Total,2021-05-01,119792.26,71541.69,597.22
+India,India Total,2021-06-01,124733.86,69941.1,560.72
+India,India Total,2021-07-01,133753.93,75806.69,566.76
+India,India Total,2021-08-01,136547.98,78711.53,576.44
+India,India Total,2021-09-01,121470.06,69807.83,574.69
+India,India Total,2021-10-01,121306.99,73614.25,606.84
+India,India Total,2021-11-01,107635.53,68055.32,632.28
+India,India Total,2021-12-01,118567.43,76911.68,648.68
+India,India Total,2022-01-01,120995.59,79389.69,656.14
+India,India Total,2022-02-01,117507.03,76644.27,652.25
+India,India Total,2022-03-01,139394.61,89700.9,643.5
+India,India Total,2022-04-01,141762.14,91812.31,647.65
+India,India Total,2022-05-01,145704.77,89238.42,612.46
+India,India Total,2022-06-01,142928.65,86871.52,607.8
+India,India Total,2022-07-01,136978.43,77815.15,568.08
+India,India Total,2022-08-01,138475.53,76991.23,555.99
+India,India Total,2022-09-01,135668.31,77080.2,568.15
+India,India Total,2022-10-01,122822.08,72849.12,593.13
+India,India Total,2022-11-01,121606.32,77994.95,641.37
+India,Jammu and Kashmir,2019-01-01,637.88,15.31,24.0
+India,Jammu and Kashmir,2019-02-01,961.31,23.07,24.0
+India,Jammu and Kashmir,2019-03-01,1300.12,31.2,24.0
+India,Jammu and Kashmir,2019-04-01,1875.57,45.01,24.0
+India,Jammu and Kashmir,2019-05-01,2063.14,49.52,24.0
+India,Jammu and Kashmir,2019-06-01,2257.98,54.19,24.0
+India,Jammu and Kashmir,2019-07-01,2224.76,53.39,24.0
+India,Jammu and Kashmir,2019-08-01,2107.28,50.57,24.0
+India,Jammu and Kashmir,2019-09-01,1926.52,46.24,24.0
+India,Jammu and Kashmir,2019-10-01,1094.88,26.28,24.0
+India,Jammu and Kashmir,2019-11-01,1037.47,24.9,24.0
+India,Jammu and Kashmir,2019-12-01,1021.68,24.52,24.0
+India,Jammu and Kashmir,2020-01-01,954.32,22.9,24.0
+India,Jammu and Kashmir,2020-02-01,908.28,21.8,24.0
+India,Jammu and Kashmir,2020-03-01,1331.85,31.96,24.0
+India,Jammu and Kashmir,2020-04-01,1577.17,37.85,24.0
+India,Jammu and Kashmir,2020-05-01,2276.6,54.64,24.0
+India,Jammu and Kashmir,2020-06-01,2365.15,56.76,24.0
+India,Jammu and Kashmir,2020-07-01,2437.16,58.52,24.01
+India,Jammu and Kashmir,2020-08-01,2188.04,52.54,24.01
+India,Jammu and Kashmir,2020-09-01,2036.9,48.91,24.01
+India,Jammu and Kashmir,2020-10-01,1103.24,26.48,24.0
+India,Jammu and Kashmir,2020-11-01,655.38,15.76,24.05
+India,Jammu and Kashmir,2020-12-01,677.17,16.28,24.04
+India,Jammu and Kashmir,2021-01-01,685.96,16.49,24.04
+India,Jammu and Kashmir,2021-02-01,668.16,16.07,24.05
+India,Jammu and Kashmir,2021-03-01,1147.24,27.58,24.04
+India,Jammu and Kashmir,2021-04-01,1341.42,32.23,24.03
+India,Jammu and Kashmir,2021-05-01,2017.77,48.43,24.0
+India,Jammu and Kashmir,2021-06-01,2305.41,55.33,24.0
+India,Jammu and Kashmir,2021-07-01,2375.08,57.0,24.0
+India,Jammu and Kashmir,2021-08-01,2320.7,55.7,24.0
+India,Jammu and Kashmir,2021-09-01,1969.25,47.26,24.0
+India,Jammu and Kashmir,2021-10-01,1347.38,32.34,24.0
+India,Jammu and Kashmir,2021-11-01,774.02,18.58,24.01
+India,Jammu and Kashmir,2021-12-01,508.04,12.19,23.99
+India,Jammu and Kashmir,2022-01-01,635.13,15.24,24.0
+India,Jammu and Kashmir,2022-02-01,591.11,14.19,24.01
+India,Jammu and Kashmir,2022-03-01,1407.6,33.78,24.0
+India,Jammu and Kashmir,2022-04-01,1740.73,41.78,24.0
+India,Jammu and Kashmir,2022-05-01,2156.05,51.75,24.0
+India,Jammu and Kashmir,2022-06-01,2170.14,52.08,24.0
+India,Jammu and Kashmir,2022-07-01,2383.2,57.2,24.0
+India,Jammu and Kashmir,2022-08-01,2301.63,55.24,24.0
+India,Jammu and Kashmir,2022-09-01,1887.71,45.3,24.0
+India,Jammu and Kashmir,2022-10-01,918.63,22.05,24.0
+India,Jammu and Kashmir,2022-11-01,720.3,17.29,24.0
+India,Jharkhand,2019-01-01,2156.58,1767.19,819.44
+India,Jharkhand,2019-02-01,2046.31,1676.76,819.41
+India,Jharkhand,2019-03-01,2509.91,2051.79,817.48
+India,Jharkhand,2019-04-01,2437.65,1997.28,819.35
+India,Jharkhand,2019-05-01,2565.74,2102.33,819.39
+India,Jharkhand,2019-06-01,2251.35,1844.94,819.48
+India,Jharkhand,2019-07-01,2137.41,1747.69,817.67
+India,Jharkhand,2019-08-01,2107.42,1707.46,810.21
+India,Jharkhand,2019-09-01,2076.29,1683.16,810.66
+India,Jharkhand,2019-10-01,1813.72,1445.79,797.14
+India,Jharkhand,2019-11-01,1900.04,1549.43,815.47
+India,Jharkhand,2019-12-01,2349.15,1918.68,816.76
+India,Jharkhand,2020-01-01,2378.05,1945.0,817.9
+India,Jharkhand,2020-02-01,2174.92,1776.69,816.9
+India,Jharkhand,2020-03-01,2053.25,1672.65,814.64
+India,Jharkhand,2020-04-01,1604.46,1306.86,814.52
+India,Jharkhand,2020-05-01,2034.19,1660.9,816.49
+India,Jharkhand,2020-06-01,2173.89,1768.04,813.31
+India,Jharkhand,2020-07-01,2375.63,1920.45,808.4
+India,Jharkhand,2020-08-01,2522.31,2014.44,798.65
+India,Jharkhand,2020-09-01,2422.07,1952.83,806.27
+India,Jharkhand,2020-10-01,2447.1,1981.62,809.78
+India,Jharkhand,2020-11-01,2431.16,1990.78,818.86
+India,Jharkhand,2020-12-01,2301.66,1883.03,818.12
+India,Jharkhand,2021-01-01,2185.98,1786.2,817.12
+India,Jharkhand,2021-02-01,2248.08,1833.7,815.67
+India,Jharkhand,2021-03-01,2721.04,2227.88,818.76
+India,Jharkhand,2021-04-01,2590.81,2121.4,818.82
+India,Jharkhand,2021-05-01,2563.2,2095.1,817.38
+India,Jharkhand,2021-06-01,2418.6,1932.47,799.0
+India,Jharkhand,2021-07-01,2501.85,1984.96,793.4
+India,Jharkhand,2021-08-01,2273.71,1771.58,779.16
+India,Jharkhand,2021-09-01,2301.74,1802.85,783.26
+India,Jharkhand,2021-10-01,2366.27,1871.37,790.85
+India,Jharkhand,2021-11-01,2091.07,1689.02,807.73
+India,Jharkhand,2021-12-01,2282.79,1856.19,813.12
+India,Jharkhand,2022-01-01,2488.21,2028.18,815.12
+India,Jharkhand,2022-02-01,2430.37,1973.87,812.17
+India,Jharkhand,2022-03-01,2606.76,2125.05,815.21
+India,Jharkhand,2022-04-01,2673.33,2184.99,817.33
+India,Jharkhand,2022-05-01,2601.89,2126.12,817.14
+India,Jharkhand,2022-06-01,2630.76,2148.57,816.71
+India,Jharkhand,2022-07-01,2514.09,2049.64,815.26
+India,Jharkhand,2022-08-01,2628.12,2117.45,805.69
+India,Jharkhand,2022-09-01,2468.3,1950.26,790.12
+India,Jharkhand,2022-10-01,2470.67,1947.15,788.11
+India,Jharkhand,2022-11-01,2515.85,2056.31,817.34
+India,Karnataka,2019-01-01,6118.87,2285.82,373.57
+India,Karnataka,2019-02-01,5865.31,2232.71,380.66
+India,Karnataka,2019-03-01,7124.9,3307.21,464.18
+India,Karnataka,2019-04-01,6266.8,2632.46,420.06
+India,Karnataka,2019-05-01,6033.08,2219.12,367.83
+India,Karnataka,2019-06-01,4972.46,1568.82,315.5
+India,Karnataka,2019-07-01,5401.95,1401.24,259.4
+India,Karnataka,2019-08-01,5632.47,945.21,167.81
+India,Karnataka,2019-09-01,5430.34,904.18,166.51
+India,Karnataka,2019-10-01,4795.21,1003.31,209.23
+India,Karnataka,2019-11-01,5247.4,1318.81,251.33
+India,Karnataka,2019-12-01,6238.41,1774.26,284.41
+India,Karnataka,2020-01-01,6597.14,2205.37,334.29
+India,Karnataka,2020-02-01,6885.73,2410.86,350.12
+India,Karnataka,2020-03-01,7422.28,2856.77,384.89
+India,Karnataka,2020-04-01,5327.54,1672.4,313.92
+India,Karnataka,2020-05-01,5522.01,1425.56,258.16
+India,Karnataka,2020-06-01,4906.76,604.33,123.16
+India,Karnataka,2020-07-01,4685.6,624.05,133.19
+India,Karnataka,2020-08-01,5233.28,395.11,75.5
+India,Karnataka,2020-09-01,4561.27,703.46,154.23
+India,Karnataka,2020-10-01,4840.49,909.67,187.93
+India,Karnataka,2020-11-01,5199.74,1192.65,229.37
+India,Karnataka,2020-12-01,5936.59,1882.15,317.04
+India,Karnataka,2021-01-01,6761.99,2729.49,403.65
+India,Karnataka,2021-02-01,6637.37,2637.11,397.31
+India,Karnataka,2021-03-01,7780.16,3335.62,428.73
+India,Karnataka,2021-04-01,7143.94,3098.05,433.66
+India,Karnataka,2021-05-01,5343.81,1326.09,248.15
+India,Karnataka,2021-06-01,5240.58,960.0,183.19
+India,Karnataka,2021-07-01,7040.57,1732.84,246.12
+India,Karnataka,2021-08-01,7251.75,2440.16,336.49
+India,Karnataka,2021-09-01,7037.57,2050.04,291.3
+India,Karnataka,2021-10-01,6511.9,2429.06,373.02
+India,Karnataka,2021-11-01,5483.3,1746.66,318.54
+India,Karnataka,2021-12-01,6615.14,2367.78,357.93
+India,Karnataka,2022-01-01,7306.59,2792.49,382.19
+India,Karnataka,2022-02-01,7026.11,2641.12,375.9
+India,Karnataka,2022-03-01,8566.79,3457.82,403.63
+India,Karnataka,2022-04-01,7958.19,3377.66,424.43
+India,Karnataka,2022-05-01,7933.0,3035.29,382.62
+India,Karnataka,2022-06-01,7272.16,2983.59,410.28
+India,Karnataka,2022-07-01,6682.99,1752.76,262.27
+India,Karnataka,2022-08-01,6776.94,1825.71,269.4
+India,Karnataka,2022-09-01,6436.5,1992.03,309.49
+India,Karnataka,2022-10-01,5238.07,1330.7,254.04
+India,Karnataka,2022-11-01,6226.02,2171.06,348.71
+India,Kerala,2019-01-01,387.15,9.49,24.51
+India,Kerala,2019-02-01,459.08,11.7,25.49
+India,Kerala,2019-03-01,642.76,17.5,27.23
+India,Kerala,2019-04-01,652.44,19.51,29.9
+India,Kerala,2019-05-01,740.28,22.22,30.02
+India,Kerala,2019-06-01,414.45,10.02,24.18
+India,Kerala,2019-07-01,355.6,8.6,24.18
+India,Kerala,2019-08-01,513.39,12.36,24.08
+India,Kerala,2019-09-01,616.03,15.79,25.63
+India,Kerala,2019-10-01,603.06,15.5,25.7
+India,Kerala,2019-11-01,529.62,13.26,25.04
+India,Kerala,2019-12-01,436.47,10.88,24.93
+India,Kerala,2020-01-01,470.57,11.53,24.5
+India,Kerala,2020-02-01,434.44,10.65,24.51
+India,Kerala,2020-03-01,508.05,12.55,24.7
+India,Kerala,2020-04-01,562.98,14.15,25.13
+India,Kerala,2020-05-01,718.9,18.3,25.46
+India,Kerala,2020-06-01,559.29,14.31,25.59
+India,Kerala,2020-07-01,496.74,13.07,26.31
+India,Kerala,2020-08-01,689.17,17.8,25.83
+India,Kerala,2020-09-01,729.18,18.67,25.6
+India,Kerala,2020-10-01,826.49,21.26,25.72
+India,Kerala,2020-11-01,576.08,15.26,26.49
+India,Kerala,2020-12-01,535.64,16.05,29.96
+India,Kerala,2021-01-01,644.02,20.24,31.43
+India,Kerala,2021-02-01,660.48,17.07,25.85
+India,Kerala,2021-03-01,830.82,68.59,82.56
+India,Kerala,2021-04-01,752.95,19.79,26.28
+India,Kerala,2021-05-01,814.65,21.09,25.89
+India,Kerala,2021-06-01,828.78,21.5,25.94
+India,Kerala,2021-07-01,1076.46,27.24,25.31
+India,Kerala,2021-08-01,1099.43,27.86,25.34
+India,Kerala,2021-09-01,814.42,21.08,25.88
+India,Kerala,2021-10-01,1136.99,28.97,25.48
+India,Kerala,2021-11-01,1208.43,30.64,25.36
+India,Kerala,2021-12-01,843.55,21.99,26.07
+India,Kerala,2022-01-01,723.7,19.35,26.74
+India,Kerala,2022-02-01,723.52,19.26,26.62
+India,Kerala,2022-03-01,909.16,23.84,26.22
+India,Kerala,2022-04-01,900.64,23.48,26.07
+India,Kerala,2022-05-01,724.83,19.18,26.46
+India,Kerala,2022-06-01,637.57,17.54,27.51
+India,Kerala,2022-07-01,964.18,26.39,27.37
+India,Kerala,2022-08-01,1357.7,34.39,25.33
+India,Kerala,2022-09-01,1236.71,31.94,25.83
+India,Kerala,2022-10-01,872.28,23.29,26.7
+India,Kerala,2022-11-01,716.63,19.11,26.67
+India,Ladakh,2021-07-01,63.45,1.52,23.96
+India,Ladakh,2021-08-01,64.75,1.55,23.94
+India,Ladakh,2021-09-01,57.74,1.39,24.07
+India,Ladakh,2021-10-01,34.6,0.83,23.99
+India,Ladakh,2021-11-01,21.28,0.51,23.97
+India,Ladakh,2021-12-01,16.57,0.4,24.14
+India,Ladakh,2022-01-01,14.4,0.35,24.31
+India,Ladakh,2022-02-01,12.38,0.3,24.23
+India,Ladakh,2022-03-01,17.73,0.43,24.25
+India,Ladakh,2022-04-01,18.24,0.44,24.12
+India,Ladakh,2022-05-01,40.07,0.96,23.96
+India,Ladakh,2022-06-01,50.33,1.21,24.04
+India,Ladakh,2022-07-01,64.79,1.55,23.92
+India,Ladakh,2022-08-01,64.0,1.54,24.06
+India,Ladakh,2022-09-01,54.59,1.31,24.0
+India,Ladakh,2022-10-01,30.9,0.74,23.95
+India,Ladakh,2022-11-01,20.34,0.49,24.09
+India,Lakshadweep,2019-01-01,0.08,0.0,0.0
+India,Lakshadweep,2019-02-01,0.0,0.0,
+India,Lakshadweep,2019-03-01,0.1,0.0,0.0
+India,Lakshadweep,2019-04-01,0.06,0.0,0.0
+India,Lakshadweep,2019-05-01,0.07,0.0,0.0
+India,Lakshadweep,2019-06-01,0.06,0.0,0.0
+India,Lakshadweep,2019-07-01,0.04,0.0,0.0
+India,Lakshadweep,2019-08-01,0.04,0.0,0.0
+India,Lakshadweep,2019-09-01,0.05,0.0,0.0
+India,Lakshadweep,2019-10-01,0.05,0.0,0.0
+India,Lakshadweep,2019-11-01,0.05,0.0,0.0
+India,Lakshadweep,2019-12-01,0.05,0.0,0.0
+India,Lakshadweep,2020-01-01,0.06,0.0,0.0
+India,Lakshadweep,2020-02-01,0.06,0.0,0.0
+India,Lakshadweep,2020-03-01,0.07,0.0,0.0
+India,Lakshadweep,2020-04-01,0.06,0.0,0.0
+India,Lakshadweep,2020-05-01,0.05,0.0,0.0
+India,Lakshadweep,2020-06-01,0.03,0.0,0.0
+India,Lakshadweep,2020-07-01,0.03,0.0,0.0
+India,Lakshadweep,2020-08-01,0.04,0.0,0.0
+India,Lakshadweep,2020-09-01,0.03,0.0,0.0
+India,Lakshadweep,2020-10-01,0.05,0.0,0.0
+India,Lakshadweep,2020-11-01,0.04,0.0,0.0
+India,Lakshadweep,2020-12-01,0.03,0.0,0.0
+India,Lakshadweep,2021-01-01,0.03,0.0,0.0
+India,Lakshadweep,2021-02-01,0.03,0.0,0.0
+India,Lakshadweep,2021-03-01,0.02,0.0,0.0
+India,Lakshadweep,2021-04-01,0.03,0.0,0.0
+India,Lakshadweep,2021-05-01,0.05,0.0,0.0
+India,Lakshadweep,2021-06-01,0.02,0.0,0.0
+India,Lakshadweep,2021-07-01,0.02,0.0,0.0
+India,Lakshadweep,2021-08-01,0.02,0.0,0.0
+India,Lakshadweep,2021-09-01,0.02,0.0,0.0
+India,Lakshadweep,2021-10-01,0.01,0.0,0.0
+India,Lakshadweep,2021-11-01,0.09,0.0,0.0
+India,Lakshadweep,2021-12-01,0.01,0.0,0.0
+India,Lakshadweep,2022-01-01,0.01,0.0,0.0
+India,Lakshadweep,2022-02-01,0.01,0.0,0.0
+India,Lakshadweep,2022-03-01,0.01,0.0,0.0
+India,Lakshadweep,2022-04-01,0.01,0.0,0.0
+India,Lakshadweep,2022-05-01,0.01,0.0,0.0
+India,Lakshadweep,2022-06-01,0.01,0.0,0.0
+India,Lakshadweep,2022-07-01,0.01,0.0,0.0
+India,Lakshadweep,2022-08-01,0.01,0.0,0.0
+India,Lakshadweep,2022-09-01,0.01,0.0,0.0
+India,Lakshadweep,2022-10-01,0.01,0.0,0.0
+India,Lakshadweep,2022-11-01,0.01,0.0,0.0
+India,Madhya Pradesh,2019-01-01,11142.91,8447.62,758.12
+India,Madhya Pradesh,2019-02-01,10046.2,7537.95,750.33
+India,Madhya Pradesh,2019-03-01,11701.79,8806.99,752.62
+India,Madhya Pradesh,2019-04-01,11691.74,8772.1,750.28
+India,Madhya Pradesh,2019-05-01,11850.96,8720.47,735.85
+India,Madhya Pradesh,2019-06-01,10600.6,7909.63,746.15
+India,Madhya Pradesh,2019-07-01,10378.91,7636.3,735.75
+India,Madhya Pradesh,2019-08-01,10181.55,6989.22,686.46
+India,Madhya Pradesh,2019-09-01,9987.11,6771.83,678.06
+India,Madhya Pradesh,2019-10-01,9742.08,6873.88,705.59
+India,Madhya Pradesh,2019-11-01,9840.54,7377.95,749.75
+India,Madhya Pradesh,2019-12-01,11455.84,8584.45,749.35
+India,Madhya Pradesh,2020-01-01,11632.54,8698.2,747.75
+India,Madhya Pradesh,2020-02-01,11928.91,8923.03,748.02
+India,Madhya Pradesh,2020-03-01,10112.7,7291.25,721.0
+India,Madhya Pradesh,2020-04-01,9126.23,6550.58,717.78
+India,Madhya Pradesh,2020-05-01,11008.2,7882.8,716.08
+India,Madhya Pradesh,2020-06-01,10144.03,7202.3,710.0
+India,Madhya Pradesh,2020-07-01,11289.78,8509.47,753.73
+India,Madhya Pradesh,2020-08-01,11383.28,8298.99,729.05
+India,Madhya Pradesh,2020-09-01,11817.32,8129.96,687.97
+India,Madhya Pradesh,2020-10-01,12264.67,9141.3,745.34
+India,Madhya Pradesh,2020-11-01,12136.42,9198.0,757.88
+India,Madhya Pradesh,2020-12-01,12099.61,8975.46,741.8
+India,Madhya Pradesh,2021-01-01,12749.43,9440.77,740.49
+India,Madhya Pradesh,2021-02-01,11105.58,8294.92,746.92
+India,Madhya Pradesh,2021-03-01,12960.32,9736.52,751.26
+India,Madhya Pradesh,2021-04-01,13161.36,9834.16,747.2
+India,Madhya Pradesh,2021-05-01,11853.32,8606.39,726.07
+India,Madhya Pradesh,2021-06-01,10526.48,7555.89,717.8
+India,Madhya Pradesh,2021-07-01,11495.88,8449.63,735.01
+India,Madhya Pradesh,2021-08-01,11050.88,8071.84,730.43
+India,Madhya Pradesh,2021-09-01,11079.03,8373.13,755.76
+India,Madhya Pradesh,2021-10-01,11569.71,8709.76,752.81
+India,Madhya Pradesh,2021-11-01,11572.14,8810.49,761.35
+India,Madhya Pradesh,2021-12-01,12448.82,9388.18,754.14
+India,Madhya Pradesh,2022-01-01,11941.65,9067.32,759.3
+India,Madhya Pradesh,2022-02-01,12579.32,9471.21,752.92
+India,Madhya Pradesh,2022-03-01,13759.25,10346.17,751.94
+India,Madhya Pradesh,2022-04-01,13882.85,10340.67,744.85
+India,Madhya Pradesh,2022-05-01,14377.63,10717.11,745.4
+India,Madhya Pradesh,2022-06-01,13528.41,10187.32,753.03
+India,Madhya Pradesh,2022-07-01,12717.81,9245.53,726.98
+India,Madhya Pradesh,2022-08-01,12168.94,8487.69,697.49
+India,Madhya Pradesh,2022-09-01,12110.69,8288.68,684.41
+India,Madhya Pradesh,2022-10-01,11008.34,7746.49,703.69
+India,Madhya Pradesh,2022-11-01,11934.64,9084.34,761.17
+India,Maharashtra,2019-01-01,12640.32,8186.99,647.69
+India,Maharashtra,2019-02-01,11176.93,7106.24,635.8
+India,Maharashtra,2019-03-01,13200.32,8562.82,648.68
+India,Maharashtra,2019-04-01,13654.44,8776.92,642.79
+India,Maharashtra,2019-05-01,14599.23,9111.98,624.14
+India,Maharashtra,2019-06-01,13494.14,8932.48,661.95
+India,Maharashtra,2019-07-01,12271.0,7379.35,601.37
+India,Maharashtra,2019-08-01,11331.42,6427.39,567.22
+India,Maharashtra,2019-09-01,10553.28,6307.83,597.71
+India,Maharashtra,2019-10-01,10682.55,6894.86,645.43
+India,Maharashtra,2019-11-01,10250.75,6892.45,672.39
+India,Maharashtra,2019-12-01,11965.33,7924.57,662.29
+India,Maharashtra,2020-01-01,11944.09,7921.46,663.21
+India,Maharashtra,2020-02-01,12766.19,8502.62,666.03
+India,Maharashtra,2020-03-01,11924.91,7761.83,650.89
+India,Maharashtra,2020-04-01,8536.39,4864.31,569.83
+India,Maharashtra,2020-05-01,9964.38,5910.59,593.17
+India,Maharashtra,2020-06-01,8477.4,4882.88,575.99
+India,Maharashtra,2020-07-01,9215.18,5597.57,607.43
+India,Maharashtra,2020-08-01,9205.81,4977.1,540.65
+India,Maharashtra,2020-09-01,9536.93,6432.64,674.5
+India,Maharashtra,2020-10-01,11179.63,7927.29,709.08
+India,Maharashtra,2020-11-01,11871.96,7946.35,669.34
+India,Maharashtra,2020-12-01,12952.83,8555.13,660.48
+India,Maharashtra,2021-01-01,13221.54,9121.51,689.9
+India,Maharashtra,2021-02-01,12366.84,8436.15,682.16
+India,Maharashtra,2021-03-01,15275.92,10148.48,664.35
+India,Maharashtra,2021-04-01,14242.75,9585.25,672.99
+India,Maharashtra,2021-05-01,12779.65,8134.5,636.52
+India,Maharashtra,2021-06-01,11627.97,7085.69,609.37
+India,Maharashtra,2021-07-01,12093.35,7460.63,616.92
+India,Maharashtra,2021-08-01,13396.36,8897.41,664.17
+India,Maharashtra,2021-09-01,11548.47,7375.38,638.65
+India,Maharashtra,2021-10-01,12218.61,8088.17,661.96
+India,Maharashtra,2021-11-01,12082.36,7966.1,659.32
+India,Maharashtra,2021-12-01,12774.93,8567.3,670.63
+India,Maharashtra,2022-01-01,12698.85,8666.27,682.45
+India,Maharashtra,2022-02-01,12283.45,8299.88,675.7
+India,Maharashtra,2022-03-01,15318.51,9990.51,652.19
+India,Maharashtra,2022-04-01,15279.48,10144.68,663.94
+India,Maharashtra,2022-05-01,15250.64,9791.36,642.03
+India,Maharashtra,2022-06-01,13724.57,9184.24,669.18
+India,Maharashtra,2022-07-01,11416.86,7068.03,619.09
+India,Maharashtra,2022-08-01,11583.12,7117.12,614.44
+India,Maharashtra,2022-09-01,11419.05,7554.36,661.56
+India,Maharashtra,2022-10-01,10803.82,7208.33,667.2
+India,Maharashtra,2022-11-01,12860.02,8650.68,672.68
+India,Manipur,2019-01-01,37.65,0.91,24.17
+India,Manipur,2019-02-01,10.31,0.26,25.22
+India,Manipur,2019-03-01,11.25,0.28,24.89
+India,Manipur,2019-04-01,31.27,0.76,24.3
+India,Manipur,2019-05-01,39.92,0.96,24.05
+India,Manipur,2019-06-01,40.05,0.96,23.97
+India,Manipur,2019-07-01,37.15,0.9,24.23
+India,Manipur,2019-08-01,47.57,1.15,24.18
+India,Manipur,2019-09-01,7.74,0.19,24.55
+India,Manipur,2019-10-01,20.35,0.49,24.08
+India,Manipur,2019-11-01,51.23,1.23,24.01
+India,Manipur,2019-12-01,35.76,0.86,24.05
+India,Manipur,2020-01-01,17.59,0.43,24.45
+India,Manipur,2020-02-01,19.4,0.48,24.74
+India,Manipur,2020-03-01,23.06,0.57,24.72
+India,Manipur,2020-04-01,12.43,0.31,24.94
+India,Manipur,2020-05-01,8.77,0.22,25.09
+India,Manipur,2020-06-01,34.69,0.84,24.21
+India,Manipur,2020-07-01,78.17,1.88,24.05
+India,Manipur,2020-08-01,79.76,1.94,24.32
+India,Manipur,2020-09-01,76.2,1.84,24.15
+India,Manipur,2020-10-01,77.34,1.86,24.05
+India,Manipur,2020-11-01,75.89,1.85,24.38
+India,Manipur,2020-12-01,75.01,1.83,24.4
+India,Manipur,2021-01-01,64.55,1.58,24.48
+India,Manipur,2021-02-01,33.35,0.81,24.29
+India,Manipur,2021-03-01,13.16,0.32,24.32
+India,Manipur,2021-04-01,21.77,0.53,24.35
+India,Manipur,2021-05-01,24.28,0.59,24.3
+India,Manipur,2021-06-01,36.78,0.89,24.2
+India,Manipur,2021-07-01,41.3,1.0,24.21
+India,Manipur,2021-08-01,78.57,1.91,24.31
+India,Manipur,2021-09-01,66.56,1.61,24.19
+India,Manipur,2021-10-01,77.94,1.88,24.12
+India,Manipur,2021-11-01,11.04,0.27,24.46
+India,Manipur,2021-12-01,28.27,0.69,24.41
+India,Manipur,2022-01-01,33.02,0.8,24.23
+India,Manipur,2022-02-01,21.53,0.53,24.62
+India,Manipur,2022-03-01,21.13,0.52,24.61
+India,Manipur,2022-04-01,12.18,0.31,25.45
+India,Manipur,2022-05-01,61.18,1.48,24.19
+India,Manipur,2022-06-01,75.45,1.82,24.12
+India,Manipur,2022-07-01,76.66,1.85,24.13
+India,Manipur,2022-08-01,77.6,1.88,24.23
+India,Manipur,2022-09-01,55.7,1.36,24.42
+India,Manipur,2022-10-01,40.82,1.0,24.5
+India,Manipur,2022-11-01,31.99,0.78,24.38
+India,Meghalaya,2019-01-01,44.49,1.07,24.05
+India,Meghalaya,2019-02-01,36.11,0.87,24.09
+India,Meghalaya,2019-03-01,36.83,0.88,23.89
+India,Meghalaya,2019-04-01,39.95,0.96,24.03
+India,Meghalaya,2019-05-01,78.75,1.89,24.0
+India,Meghalaya,2019-06-01,109.11,2.62,24.01
+India,Meghalaya,2019-07-01,170.12,4.08,23.98
+India,Meghalaya,2019-08-01,135.17,3.24,23.97
+India,Meghalaya,2019-09-01,127.16,3.05,23.99
+India,Meghalaya,2019-10-01,133.12,3.19,23.96
+India,Meghalaya,2019-11-01,85.02,2.04,23.99
+India,Meghalaya,2019-12-01,81.71,1.96,23.99
+India,Meghalaya,2020-01-01,56.03,1.34,23.92
+India,Meghalaya,2020-02-01,31.27,0.75,23.99
+India,Meghalaya,2020-03-01,36.27,0.87,23.99
+India,Meghalaya,2020-04-01,31.7,0.76,23.98
+India,Meghalaya,2020-05-01,84.8,2.04,24.06
+India,Meghalaya,2020-06-01,145.41,3.49,24.0
+India,Meghalaya,2020-07-01,176.06,4.23,24.03
+India,Meghalaya,2020-08-01,157.32,3.78,24.03
+India,Meghalaya,2020-09-01,142.51,3.42,24.0
+India,Meghalaya,2020-10-01,156.69,3.76,24.0
+India,Meghalaya,2020-11-01,92.09,2.21,24.0
+India,Meghalaya,2020-12-01,73.8,1.77,23.98
+India,Meghalaya,2021-01-01,60.56,1.45,23.94
+India,Meghalaya,2021-02-01,51.29,1.23,23.98
+India,Meghalaya,2021-03-01,36.56,0.88,24.07
+India,Meghalaya,2021-04-01,51.76,1.24,23.96
+India,Meghalaya,2021-05-01,53.16,1.28,24.08
+India,Meghalaya,2021-06-01,107.61,2.58,23.98
+India,Meghalaya,2021-07-01,121.69,2.92,24.0
+India,Meghalaya,2021-08-01,146.53,3.52,24.02
+India,Meghalaya,2021-09-01,103.45,2.48,23.97
+India,Meghalaya,2021-10-01,101.81,2.44,23.97
+India,Meghalaya,2021-11-01,49.82,1.2,24.09
+India,Meghalaya,2021-12-01,41.98,1.01,24.06
+India,Meghalaya,2022-01-01,39.69,0.95,23.94
+India,Meghalaya,2022-02-01,32.03,0.77,24.04
+India,Meghalaya,2022-03-01,36.96,0.89,24.08
+India,Meghalaya,2022-04-01,73.69,1.77,24.02
+India,Meghalaya,2022-05-01,112.67,2.7,23.96
+India,Meghalaya,2022-06-01,141.96,3.41,24.02
+India,Meghalaya,2022-07-01,165.91,3.98,23.99
+India,Meghalaya,2022-08-01,137.11,3.29,24.0
+India,Meghalaya,2022-09-01,123.19,2.96,24.03
+India,Meghalaya,2022-10-01,103.59,2.49,24.04
+India,Meghalaya,2022-11-01,50.27,1.21,24.07
+India,Mizoram,2019-01-01,9.2,0.22,23.91
+India,Mizoram,2019-02-01,7.05,0.17,24.11
+India,Mizoram,2019-03-01,8.4,0.2,23.81
+India,Mizoram,2019-04-01,7.74,0.18,23.26
+India,Mizoram,2019-05-01,7.78,0.19,24.42
+India,Mizoram,2019-06-01,9.21,0.22,23.89
+India,Mizoram,2019-07-01,13.34,0.32,23.99
+India,Mizoram,2019-08-01,27.13,0.65,23.96
+India,Mizoram,2019-09-01,30.79,0.75,24.36
+India,Mizoram,2019-10-01,37.76,0.91,24.1
+India,Mizoram,2019-11-01,32.16,0.77,23.94
+India,Mizoram,2019-12-01,26.22,0.63,24.03
+India,Mizoram,2020-01-01,14.47,0.35,24.19
+India,Mizoram,2020-02-01,10.1,0.24,23.76
+India,Mizoram,2020-03-01,10.96,0.26,23.72
+India,Mizoram,2020-04-01,7.56,0.18,23.81
+India,Mizoram,2020-05-01,6.82,0.16,23.46
+India,Mizoram,2020-06-01,12.91,0.31,24.01
+India,Mizoram,2020-07-01,15.68,0.38,24.24
+India,Mizoram,2020-08-01,18.0,0.43,23.89
+India,Mizoram,2020-09-01,20.73,0.5,24.12
+India,Mizoram,2020-10-01,29.04,0.7,24.11
+India,Mizoram,2020-11-01,28.39,0.68,23.95
+India,Mizoram,2020-12-01,15.73,0.38,24.16
+India,Mizoram,2021-01-01,16.21,0.42,25.91
+India,Mizoram,2021-02-01,12.13,0.3,24.73
+India,Mizoram,2021-03-01,9.18,0.22,23.97
+India,Mizoram,2021-04-01,3.47,0.09,25.94
+India,Mizoram,2021-05-01,1.93,0.05,25.91
+India,Mizoram,2021-06-01,3.25,0.08,24.62
+India,Mizoram,2021-07-01,7.67,0.19,24.77
+India,Mizoram,2021-08-01,13.56,0.33,24.34
+India,Mizoram,2021-09-01,18.94,0.45,23.76
+India,Mizoram,2021-10-01,29.0,0.69,23.79
+India,Mizoram,2021-11-01,17.85,0.43,24.09
+India,Mizoram,2021-12-01,18.63,0.44,23.62
+India,Mizoram,2022-01-01,20.83,0.5,24.0
+India,Mizoram,2022-02-01,12.77,0.3,23.49
+India,Mizoram,2022-03-01,17.68,0.42,23.76
+India,Mizoram,2022-04-01,3.78,0.1,26.46
+India,Mizoram,2022-05-01,3.15,0.09,28.57
+India,Mizoram,2022-06-01,8.39,0.21,25.03
+India,Mizoram,2022-07-01,26.4,0.64,24.24
+India,Mizoram,2022-08-01,40.39,0.97,24.02
+India,Mizoram,2022-09-01,35.57,0.86,24.18
+India,Mizoram,2022-10-01,44.12,1.06,24.03
+India,Mizoram,2022-11-01,22.09,0.53,23.99
+India,Nagaland,2019-01-01,8.16,0.2,24.51
+India,Nagaland,2019-02-01,4.95,0.12,24.24
+India,Nagaland,2019-03-01,5.03,0.12,23.86
+India,Nagaland,2019-04-01,1.89,0.05,26.46
+India,Nagaland,2019-05-01,6.97,0.17,24.39
+India,Nagaland,2019-06-01,14.53,0.35,24.09
+India,Nagaland,2019-07-01,34.44,0.83,24.1
+India,Nagaland,2019-08-01,42.79,1.03,24.07
+India,Nagaland,2019-09-01,35.16,0.84,23.89
+India,Nagaland,2019-10-01,43.13,1.04,24.11
+India,Nagaland,2019-11-01,29.51,0.71,24.06
+India,Nagaland,2019-12-01,18.18,0.44,24.2
+India,Nagaland,2020-01-01,12.7,0.3,23.62
+India,Nagaland,2020-02-01,11.55,0.28,24.24
+India,Nagaland,2020-03-01,7.43,0.18,24.23
+India,Nagaland,2020-04-01,6.53,0.16,24.5
+India,Nagaland,2020-05-01,8.55,0.21,24.56
+India,Nagaland,2020-06-01,27.26,0.65,23.84
+India,Nagaland,2020-07-01,39.34,0.94,23.89
+India,Nagaland,2020-08-01,44.79,1.07,23.89
+India,Nagaland,2020-09-01,38.92,0.93,23.9
+India,Nagaland,2020-10-01,37.68,0.9,23.89
+India,Nagaland,2020-11-01,20.61,0.49,23.78
+India,Nagaland,2020-12-01,11.68,0.28,23.97
+India,Nagaland,2021-01-01,9.99,0.24,24.02
+India,Nagaland,2021-02-01,10.36,0.25,24.13
+India,Nagaland,2021-03-01,18.91,0.45,23.8
+India,Nagaland,2021-04-01,7.43,0.18,24.23
+India,Nagaland,2021-05-01,2.93,0.07,23.89
+India,Nagaland,2021-06-01,5.99,0.14,23.37
+India,Nagaland,2021-07-01,24.39,0.59,24.19
+India,Nagaland,2021-08-01,37.49,0.9,24.01
+India,Nagaland,2021-09-01,22.73,0.55,24.2
+India,Nagaland,2021-10-01,20.0,0.48,24.0
+India,Nagaland,2021-11-01,12.62,0.3,23.77
+India,Nagaland,2021-12-01,9.31,0.22,23.63
+India,Nagaland,2022-01-01,7.66,0.18,23.5
+India,Nagaland,2022-02-01,7.08,0.17,24.01
+India,Nagaland,2022-03-01,6.39,0.15,23.47
+India,Nagaland,2022-04-01,5.17,0.12,23.21
+India,Nagaland,2022-05-01,21.51,0.52,24.18
+India,Nagaland,2022-06-01,33.12,0.79,23.85
+India,Nagaland,2022-07-01,48.78,1.17,23.99
+India,Nagaland,2022-08-01,34.71,0.83,23.91
+India,Nagaland,2022-09-01,44.06,1.06,24.06
+India,Nagaland,2022-10-01,36.38,0.87,23.91
+India,Nagaland,2022-11-01,21.33,0.51,23.91
+India,Odisha,2019-01-01,3743.69,2748.11,734.07
+India,Odisha,2019-02-01,3692.99,2686.27,727.4
+India,Odisha,2019-03-01,4403.82,3152.3,715.81
+India,Odisha,2019-04-01,4218.08,2978.19,706.05
+India,Odisha,2019-05-01,4172.33,2883.85,691.19
+India,Odisha,2019-06-01,3797.3,2708.93,713.38
+India,Odisha,2019-07-01,3829.83,2714.82,708.86
+India,Odisha,2019-08-01,2991.47,1737.29,580.75
+India,Odisha,2019-09-01,3425.4,2122.91,619.76
+India,Odisha,2019-10-01,3973.1,2552.74,642.51
+India,Odisha,2019-11-01,4211.17,3042.17,722.41
+India,Odisha,2019-12-01,4436.34,3271.2,737.37
+India,Odisha,2020-01-01,4454.0,3254.96,730.8
+India,Odisha,2020-02-01,4495.82,3283.26,730.29
+India,Odisha,2020-03-01,5032.71,3702.33,735.65
+India,Odisha,2020-04-01,5012.25,3562.52,710.76
+India,Odisha,2020-05-01,5472.09,3912.17,714.93
+India,Odisha,2020-06-01,4992.53,3590.82,719.24
+India,Odisha,2020-07-01,5542.57,3878.92,699.84
+India,Odisha,2020-08-01,5321.75,3723.49,699.67
+India,Odisha,2020-09-01,5202.92,3617.01,695.19
+India,Odisha,2020-10-01,5726.77,4018.69,701.74
+India,Odisha,2020-11-01,4884.05,3538.22,724.44
+India,Odisha,2020-12-01,5354.75,4124.39,770.23
+India,Odisha,2021-01-01,5112.4,3835.79,750.29
+India,Odisha,2021-02-01,4953.8,3686.5,744.18
+India,Odisha,2021-03-01,5368.3,3986.76,742.65
+India,Odisha,2021-04-01,5004.62,3719.93,743.3
+India,Odisha,2021-05-01,5339.74,4038.27,756.27
+India,Odisha,2021-06-01,5235.25,3888.65,742.78
+India,Odisha,2021-07-01,5628.95,4106.5,729.53
+India,Odisha,2021-08-01,5756.45,4124.8,716.55
+India,Odisha,2021-09-01,6081.82,4462.79,733.79
+India,Odisha,2021-10-01,5767.38,4070.46,705.77
+India,Odisha,2021-11-01,5781.92,4391.43,759.51
+India,Odisha,2021-12-01,4891.68,3745.52,765.69
+India,Odisha,2022-01-01,5260.34,4026.35,765.42
+India,Odisha,2022-02-01,5313.24,4064.13,764.91
+India,Odisha,2022-03-01,6411.62,4880.02,761.12
+India,Odisha,2022-04-01,5896.42,4385.08,743.69
+India,Odisha,2022-05-01,5761.09,4396.06,763.06
+India,Odisha,2022-06-01,5439.24,4230.26,777.73
+India,Odisha,2022-07-01,5744.69,4259.0,741.38
+India,Odisha,2022-08-01,5922.29,4223.44,713.14
+India,Odisha,2022-09-01,6056.42,4186.54,691.26
+India,Odisha,2022-10-01,6471.49,4579.01,707.57
+India,Odisha,2022-11-01,5586.98,4162.81,745.09
+India,Others,2019-01-01,0.0,0.0,
+India,Others,2019-02-01,0.0,0.0,
+India,Others,2019-03-01,0.0,0.0,
+India,Others,2019-04-01,0.0,0.0,
+India,Others,2019-05-01,0.0,0.0,
+India,Others,2019-06-01,0.0,0.0,
+India,Others,2019-07-01,0.0,0.0,
+India,Others,2019-08-01,0.0,0.0,
+India,Others,2019-09-01,0.0,0.0,
+India,Others,2019-10-01,0.0,0.0,
+India,Others,2019-11-01,0.0,0.0,
+India,Others,2019-12-01,0.0,0.0,
+India,Others,2020-01-01,0.0,0.0,
+India,Others,2020-02-01,0.0,0.0,
+India,Others,2020-03-01,0.0,0.0,
+India,Others,2020-04-01,0.0,0.0,
+India,Others,2020-05-01,0.0,0.0,
+India,Others,2020-06-01,0.0,0.0,
+India,Others,2020-07-01,0.0,0.0,
+India,Others,2020-08-01,0.0,0.0,
+India,Others,2020-09-01,0.0,0.0,
+India,Others,2020-10-01,0.0,0.0,
+India,Others,2020-11-01,0.0,0.0,
+India,Others,2020-12-01,0.0,0.0,
+India,Others,2021-01-01,0.0,0.0,
+India,Others,2021-02-01,0.0,0.0,
+India,Others,2021-03-01,0.0,0.0,
+India,Others,2021-04-01,0.0,0.0,
+India,Others,2021-05-01,0.0,0.0,
+India,Others,2021-06-01,0.0,0.0,
+India,Others,2021-07-01,0.0,0.0,
+India,Others,2021-08-01,0.0,0.0,
+India,Others,2021-09-01,0.0,0.0,
+India,Others,2021-10-01,0.0,0.0,
+India,Others,2021-11-01,0.0,0.0,
+India,Others,2021-12-01,0.0,0.0,
+India,Others,2022-01-01,0.0,0.0,
+India,Others,2022-02-01,0.0,0.0,
+India,Others,2022-03-01,0.0,0.0,
+India,Others,2022-04-01,0.0,0.0,
+India,Others,2022-05-01,0.0,0.0,
+India,Others,2022-06-01,0.0,0.0,
+India,Others,2022-07-01,0.0,0.0,
+India,Others,2022-08-01,0.0,0.0,
+India,Puducherry,2019-01-01,9.57,4.59,479.62
+India,Puducherry,2019-02-01,18.25,8.84,484.38
+India,Puducherry,2019-03-01,21.31,10.33,484.75
+India,Puducherry,2019-04-01,21.43,10.38,484.37
+India,Puducherry,2019-05-01,22.23,10.78,484.93
+India,Puducherry,2019-06-01,20.16,9.76,484.13
+India,Puducherry,2019-07-01,19.32,9.31,481.88
+India,Puducherry,2019-08-01,22.17,10.7,482.63
+India,Puducherry,2019-09-01,22.09,10.66,482.57
+India,Puducherry,2019-10-01,22.29,10.76,482.73
+India,Puducherry,2019-11-01,20.78,10.02,482.19
+India,Puducherry,2019-12-01,22.24,10.74,482.91
+India,Puducherry,2020-01-01,22.68,10.95,482.8
+India,Puducherry,2020-02-01,21.54,10.39,482.36
+India,Puducherry,2020-03-01,23.0,11.11,483.04
+India,Puducherry,2020-04-01,21.39,10.32,482.47
+India,Puducherry,2020-05-01,21.37,10.31,482.45
+India,Puducherry,2020-06-01,20.93,10.09,482.08
+India,Puducherry,2020-07-01,19.92,9.6,481.93
+India,Puducherry,2020-08-01,18.72,9.01,481.3
+India,Puducherry,2020-09-01,19.19,9.24,481.5
+India,Puducherry,2020-10-01,22.06,10.65,482.77
+India,Puducherry,2020-11-01,19.98,9.63,481.98
+India,Puducherry,2020-12-01,21.36,10.31,482.68
+India,Puducherry,2021-01-01,18.59,8.66,465.84
+India,Puducherry,2021-02-01,12.46,5.66,454.25
+India,Puducherry,2021-03-01,22.57,10.61,470.09
+India,Puducherry,2021-04-01,22.43,10.54,469.91
+India,Puducherry,2021-05-01,22.38,10.52,470.06
+India,Puducherry,2021-06-01,21.92,10.29,469.43
+India,Puducherry,2021-07-01,21.96,10.31,469.49
+India,Puducherry,2021-08-01,22.91,10.78,470.54
+India,Puducherry,2021-09-01,22.22,10.44,469.85
+India,Puducherry,2021-10-01,22.85,10.75,470.46
+India,Puducherry,2021-11-01,21.56,10.11,468.92
+India,Puducherry,2021-12-01,21.92,10.29,469.43
+India,Puducherry,2022-01-01,22.38,10.52,470.06
+India,Puducherry,2022-02-01,20.28,9.49,467.95
+India,Puducherry,2022-03-01,20.56,9.62,467.9
+India,Puducherry,2022-04-01,19.83,9.27,467.47
+India,Puducherry,2022-05-01,21.03,9.85,468.38
+India,Puducherry,2022-06-01,18.63,8.68,465.92
+India,Puducherry,2022-07-01,17.2,7.98,463.95
+India,Puducherry,2022-08-01,21.34,10.01,469.07
+India,Puducherry,2022-09-01,20.93,9.81,468.71
+India,Puducherry,2022-10-01,22.68,10.66,470.02
+India,Puducherry,2022-11-01,22.03,10.34,469.36
+India,Punjab,2019-01-01,2714.28,1775.86,654.27
+India,Punjab,2019-02-01,2063.02,1317.32,638.54
+India,Punjab,2019-03-01,2453.71,1457.2,593.88
+India,Punjab,2019-04-01,2476.0,1635.11,660.38
+India,Punjab,2019-05-01,2588.51,1465.69,566.23
+India,Punjab,2019-06-01,3460.0,2175.55,628.77
+India,Punjab,2019-07-01,3399.51,2209.36,649.91
+India,Punjab,2019-08-01,3167.24,1962.96,619.77
+India,Punjab,2019-09-01,3089.5,1945.86,629.83
+India,Punjab,2019-10-01,2225.89,1398.59,628.33
+India,Punjab,2019-11-01,1894.78,1178.64,622.05
+India,Punjab,2019-12-01,1987.6,1229.94,618.81
+India,Punjab,2020-01-01,1927.31,1144.74,593.96
+India,Punjab,2020-02-01,1609.55,818.49,508.52
+India,Punjab,2020-03-01,926.22,329.57,355.82
+India,Punjab,2020-04-01,558.81,24.91,44.58
+India,Punjab,2020-05-01,902.4,148.07,164.09
+India,Punjab,2020-06-01,2854.86,1697.27,594.52
+India,Punjab,2020-07-01,3272.21,2032.26,621.07
+India,Punjab,2020-08-01,3373.87,2176.66,645.15
+India,Punjab,2020-09-01,3254.09,2143.19,658.61
+India,Punjab,2020-10-01,1624.32,836.47,514.97
+India,Punjab,2020-11-01,829.42,286.88,345.88
+India,Punjab,2020-12-01,1943.82,1137.05,584.96
+India,Punjab,2021-01-01,2304.99,1511.96,655.95
+India,Punjab,2021-02-01,2243.28,1465.31,653.2
+India,Punjab,2021-03-01,2444.25,1679.34,687.06
+India,Punjab,2021-04-01,2079.03,1449.94,697.41
+India,Punjab,2021-05-01,1928.21,1198.18,621.4
+India,Punjab,2021-06-01,2994.08,1832.35,611.99
+India,Punjab,2021-07-01,3250.83,2023.23,622.37
+India,Punjab,2021-08-01,3582.02,2285.37,638.01
+India,Punjab,2021-09-01,2532.62,1519.83,600.1
+India,Punjab,2021-10-01,2628.68,1773.63,674.72
+India,Punjab,2021-11-01,1935.48,1224.07,632.44
+India,Punjab,2021-12-01,2100.3,1284.65,611.65
+India,Punjab,2022-01-01,2281.38,1608.13,704.89
+India,Punjab,2022-02-01,2612.29,1818.33,696.07
+India,Punjab,2022-03-01,3202.8,2170.41,677.66
+India,Punjab,2022-04-01,3294.46,2294.89,696.59
+India,Punjab,2022-05-01,3250.9,2237.55,688.29
+India,Punjab,2022-06-01,3672.04,2417.07,658.24
+India,Punjab,2022-07-01,3233.95,2140.14,661.77
+India,Punjab,2022-08-01,3891.17,2528.68,649.85
+India,Punjab,2022-09-01,3237.68,2046.24,632.01
+India,Punjab,2022-10-01,2693.92,1636.26,607.39
+India,Punjab,2022-11-01,2972.24,1893.26,636.98
+India,Rajasthan,2019-01-01,6456.8,3935.35,609.49
+India,Rajasthan,2019-02-01,5488.11,3228.37,588.25
+India,Rajasthan,2019-03-01,5620.17,3212.53,571.61
+India,Rajasthan,2019-04-01,5329.63,3040.51,570.49
+India,Rajasthan,2019-05-01,6143.71,3437.69,559.55
+India,Rajasthan,2019-06-01,6517.83,3627.33,556.52
+India,Rajasthan,2019-07-01,6234.33,3100.75,497.37
+India,Rajasthan,2019-08-01,5556.88,2942.92,529.6
+India,Rajasthan,2019-09-01,5800.03,3248.22,560.04
+India,Rajasthan,2019-10-01,5431.46,3059.24,563.25
+India,Rajasthan,2019-11-01,5693.74,3171.62,557.04
+India,Rajasthan,2019-12-01,6149.03,3516.82,571.93
+India,Rajasthan,2020-01-01,6249.39,3572.59,571.67
+India,Rajasthan,2020-02-01,6023.12,3446.67,572.24
+India,Rajasthan,2020-03-01,5145.88,2586.85,502.7
+India,Rajasthan,2020-04-01,4266.94,1796.4,421.0
+India,Rajasthan,2020-05-01,5697.24,2731.47,479.44
+India,Rajasthan,2020-06-01,5926.15,2844.49,479.99
+India,Rajasthan,2020-07-01,6269.59,3252.91,518.84
+India,Rajasthan,2020-08-01,5530.56,2866.59,518.32
+India,Rajasthan,2020-09-01,5620.23,3157.19,561.76
+India,Rajasthan,2020-10-01,5991.89,3451.0,575.95
+India,Rajasthan,2020-11-01,5913.1,3454.76,584.26
+India,Rajasthan,2020-12-01,6492.56,3725.69,573.84
+India,Rajasthan,2021-01-01,6362.52,3753.04,589.87
+India,Rajasthan,2021-02-01,5914.79,3575.5,604.5
+India,Rajasthan,2021-03-01,6621.73,3724.13,562.41
+India,Rajasthan,2021-04-01,6261.05,3336.21,532.85
+India,Rajasthan,2021-05-01,6066.77,2861.39,471.65
+India,Rajasthan,2021-06-01,6029.74,2653.84,440.13
+India,Rajasthan,2021-07-01,7131.45,3532.6,495.36
+India,Rajasthan,2021-08-01,6840.11,3265.5,477.41
+India,Rajasthan,2021-09-01,5490.03,2725.13,496.38
+India,Rajasthan,2021-10-01,6796.24,3361.49,494.61
+India,Rajasthan,2021-11-01,6764.11,3688.08,545.24
+India,Rajasthan,2021-12-01,7409.02,4209.04,568.1
+India,Rajasthan,2022-01-01,7850.19,4179.07,532.35
+India,Rajasthan,2022-02-01,8124.37,4123.6,507.56
+India,Rajasthan,2022-03-01,9234.32,4573.93,495.32
+India,Rajasthan,2022-04-01,8680.73,4143.33,477.3
+India,Rajasthan,2022-05-01,9757.73,4175.61,427.93
+India,Rajasthan,2022-06-01,9420.13,4168.01,442.46
+India,Rajasthan,2022-07-01,8216.34,3847.05,468.22
+India,Rajasthan,2022-08-01,8114.89,3570.02,439.93
+India,Rajasthan,2022-09-01,8850.19,3921.42,443.09
+India,Rajasthan,2022-10-01,8567.75,3752.76,438.01
+India,Rajasthan,2022-11-01,8335.12,3974.12,476.79
+India,Sikkim,2019-01-01,275.22,6.61,24.02
+India,Sikkim,2019-02-01,246.32,5.91,23.99
+India,Sikkim,2019-03-01,391.99,9.41,24.01
+India,Sikkim,2019-04-01,734.22,17.62,24.0
+India,Sikkim,2019-05-01,1253.15,30.08,24.0
+India,Sikkim,2019-06-01,1420.13,34.08,24.0
+India,Sikkim,2019-07-01,1628.75,39.09,24.0
+India,Sikkim,2019-08-01,1513.28,36.32,24.0
+India,Sikkim,2019-09-01,1598.93,38.37,24.0
+India,Sikkim,2019-10-01,1134.1,27.22,24.0
+India,Sikkim,2019-11-01,536.73,12.88,24.0
+India,Sikkim,2019-12-01,366.57,8.8,24.01
+India,Sikkim,2020-01-01,305.32,7.33,24.01
+India,Sikkim,2020-02-01,256.95,6.17,24.01
+India,Sikkim,2020-03-01,345.53,8.29,23.99
+India,Sikkim,2020-04-01,571.98,13.73,24.0
+India,Sikkim,2020-05-01,1072.56,25.74,24.0
+India,Sikkim,2020-06-01,1590.14,38.16,24.0
+India,Sikkim,2020-07-01,1620.89,38.9,24.0
+India,Sikkim,2020-08-01,1596.12,38.31,24.0
+India,Sikkim,2020-09-01,1505.09,36.12,24.0
+India,Sikkim,2020-10-01,1167.8,28.03,24.0
+India,Sikkim,2020-11-01,546.3,13.11,24.0
+India,Sikkim,2020-12-01,385.81,9.26,24.0
+India,Sikkim,2021-01-01,308.97,7.42,24.02
+India,Sikkim,2021-02-01,234.12,5.62,24.01
+India,Sikkim,2021-03-01,335.7,8.06,24.01
+India,Sikkim,2021-04-01,504.92,12.12,24.0
+India,Sikkim,2021-05-01,1020.49,24.49,24.0
+India,Sikkim,2021-06-01,1455.79,34.94,24.0
+India,Sikkim,2021-07-01,1730.51,41.53,24.0
+India,Sikkim,2021-08-01,1768.1,42.43,24.0
+India,Sikkim,2021-09-01,1643.71,39.45,24.0
+India,Sikkim,2021-10-01,1230.92,29.54,24.0
+India,Sikkim,2021-11-01,701.14,16.83,24.0
+India,Sikkim,2021-12-01,427.55,10.26,24.0
+India,Sikkim,2022-01-01,307.83,7.39,24.01
+India,Sikkim,2022-02-01,244.15,5.86,24.0
+India,Sikkim,2022-03-01,471.16,11.31,24.01
+India,Sikkim,2022-04-01,884.27,21.47,24.28
+India,Sikkim,2022-05-01,1026.33,24.63,24.0
+India,Sikkim,2022-06-01,1565.12,37.56,24.0
+India,Sikkim,2022-07-01,1723.76,41.37,24.0
+India,Sikkim,2022-08-01,1694.28,40.66,24.0
+India,Sikkim,2022-09-01,1655.13,39.72,24.0
+India,Sikkim,2022-10-01,1351.59,32.44,24.0
+India,Sikkim,2022-11-01,583.95,14.01,23.99
+India,Tamil Nadu,2019-01-01,7643.41,4834.28,632.48
+India,Tamil Nadu,2019-02-01,7487.43,4799.84,641.05
+India,Tamil Nadu,2019-03-01,8129.01,5390.62,663.13
+India,Tamil Nadu,2019-04-01,7862.02,5123.2,651.64
+India,Tamil Nadu,2019-05-01,9135.89,4914.94,537.98
+India,Tamil Nadu,2019-06-01,9956.03,4632.63,465.31
+India,Tamil Nadu,2019-07-01,9688.4,4224.81,436.07
+India,Tamil Nadu,2019-08-01,9455.15,3700.74,391.4
+India,Tamil Nadu,2019-09-01,8759.0,3827.94,437.03
+India,Tamil Nadu,2019-10-01,7913.85,4302.39,543.65
+India,Tamil Nadu,2019-11-01,7880.12,4296.63,545.25
+India,Tamil Nadu,2019-12-01,7505.73,4007.58,533.94
+India,Tamil Nadu,2020-01-01,8140.72,4695.49,576.79
+India,Tamil Nadu,2020-02-01,8364.4,5012.74,599.3
+India,Tamil Nadu,2020-03-01,8602.76,4997.37,580.9
+India,Tamil Nadu,2020-04-01,6366.42,3289.62,516.71
+India,Tamil Nadu,2020-05-01,8255.34,4276.05,517.97
+India,Tamil Nadu,2020-06-01,8953.81,3844.26,429.34
+India,Tamil Nadu,2020-07-01,7834.43,3393.96,433.21
+India,Tamil Nadu,2020-08-01,8464.68,3020.63,356.85
+India,Tamil Nadu,2020-09-01,7922.88,2555.06,322.49
+India,Tamil Nadu,2020-10-01,8226.9,3009.99,365.87
+India,Tamil Nadu,2020-11-01,6788.89,3307.04,487.13
+India,Tamil Nadu,2020-12-01,6684.97,3070.86,459.37
+India,Tamil Nadu,2021-01-01,7147.16,3670.32,513.54
+India,Tamil Nadu,2021-02-01,7034.12,3916.4,556.77
+India,Tamil Nadu,2021-03-01,8056.84,4799.94,595.76
+India,Tamil Nadu,2021-04-01,8454.05,5033.66,595.41
+India,Tamil Nadu,2021-05-01,8670.29,4074.21,469.91
+India,Tamil Nadu,2021-06-01,9925.96,4265.33,429.72
+India,Tamil Nadu,2021-07-01,10203.31,4356.1,426.93
+India,Tamil Nadu,2021-08-01,10406.05,4629.71,444.91
+India,Tamil Nadu,2021-09-01,9586.92,4017.13,419.02
+India,Tamil Nadu,2021-10-01,8490.74,4046.91,476.63
+India,Tamil Nadu,2021-11-01,6627.91,3073.38,463.7
+India,Tamil Nadu,2021-12-01,8522.79,4251.62,498.85
+India,Tamil Nadu,2022-01-01,8563.66,4395.88,513.32
+India,Tamil Nadu,2022-02-01,7992.05,4118.87,515.37
+India,Tamil Nadu,2022-03-01,8637.61,4351.4,503.77
+India,Tamil Nadu,2022-04-01,8595.37,5196.28,604.54
+India,Tamil Nadu,2022-05-01,10454.29,5119.47,489.7
+India,Tamil Nadu,2022-06-01,11507.95,5031.51,437.22
+India,Tamil Nadu,2022-07-01,11106.46,4455.69,401.18
+India,Tamil Nadu,2022-08-01,10370.93,4413.87,425.6
+India,Tamil Nadu,2022-09-01,10170.16,4306.33,423.43
+India,Tamil Nadu,2022-10-01,9036.27,4199.7,464.76
+India,Tamil Nadu,2022-11-01,8235.2,4196.68,509.6
+India,Telangana,2019-01-01,4860.27,3450.09,709.86
+India,Telangana,2019-02-01,4844.74,3448.71,711.85
+India,Telangana,2019-03-01,5325.82,3798.09,713.15
+India,Telangana,2019-04-01,5225.66,3770.58,721.55
+India,Telangana,2019-05-01,5294.94,3845.43,726.25
+India,Telangana,2019-06-01,4928.27,3597.44,729.96
+India,Telangana,2019-07-01,4340.0,3152.56,726.4
+India,Telangana,2019-08-01,5190.22,3274.0,630.8
+India,Telangana,2019-09-01,5437.36,3114.11,572.73
+India,Telangana,2019-10-01,5077.98,2791.75,549.78
+India,Telangana,2019-11-01,4669.76,2911.41,623.46
+India,Telangana,2019-12-01,4505.69,3198.25,709.83
+India,Telangana,2020-01-01,4777.3,3326.67,696.35
+India,Telangana,2020-02-01,4705.8,3220.23,684.31
+India,Telangana,2020-03-01,4504.81,3090.04,685.94
+India,Telangana,2020-04-01,3866.25,2659.43,687.86
+India,Telangana,2020-05-01,4095.56,2846.23,694.96
+India,Telangana,2020-06-01,3473.94,2414.67,695.08
+India,Telangana,2020-07-01,4697.41,3141.9,668.86
+India,Telangana,2020-08-01,4755.53,2939.6,618.14
+India,Telangana,2020-09-01,4437.6,2767.31,623.61
+India,Telangana,2020-10-01,4842.13,3002.86,620.15
+India,Telangana,2020-11-01,4511.86,2967.92,657.8
+India,Telangana,2020-12-01,5065.95,3594.11,709.46
+India,Telangana,2021-01-01,5051.9,3540.08,700.74
+India,Telangana,2021-02-01,4877.4,3364.56,689.83
+India,Telangana,2021-03-01,5663.68,3915.92,691.41
+India,Telangana,2021-04-01,5446.19,3912.67,718.42
+India,Telangana,2021-05-01,4814.4,3401.25,706.47
+India,Telangana,2021-06-01,4723.12,3285.57,695.64
+India,Telangana,2021-07-01,5176.13,3375.43,652.12
+India,Telangana,2021-08-01,6221.61,3693.58,593.67
+India,Telangana,2021-09-01,6025.22,3604.69,598.27
+India,Telangana,2021-10-01,6483.64,3739.27,576.72
+India,Telangana,2021-11-01,4737.96,3125.99,659.78
+India,Telangana,2021-12-01,4657.1,3264.87,701.05
+India,Telangana,2022-01-01,5061.76,3526.34,696.66
+India,Telangana,2022-02-01,5205.21,3620.99,695.65
+India,Telangana,2022-03-01,5970.25,4232.52,708.94
+India,Telangana,2022-04-01,5505.35,3958.83,719.09
+India,Telangana,2022-05-01,5312.21,3799.43,715.23
+India,Telangana,2022-06-01,4880.71,3470.6,711.09
+India,Telangana,2022-07-01,4122.25,2629.27,637.82
+India,Telangana,2022-08-01,5443.83,2972.85,546.1
+India,Telangana,2022-09-01,5808.46,3283.09,565.23
+India,Telangana,2022-10-01,6132.91,3420.35,557.7
+India,Telangana,2022-11-01,5248.02,3367.25,641.62
+India,Tripura,2019-01-01,598.59,290.31,484.99
+India,Tripura,2019-02-01,543.51,264.17,486.04
+India,Tripura,2019-03-01,629.39,306.8,487.46
+India,Tripura,2019-04-01,567.66,276.63,487.32
+India,Tripura,2019-05-01,640.64,312.49,487.78
+India,Tripura,2019-06-01,619.31,302.83,488.98
+India,Tripura,2019-07-01,633.75,309.91,489.01
+India,Tripura,2019-08-01,535.74,261.82,488.71
+India,Tripura,2019-09-01,510.3,249.22,488.38
+India,Tripura,2019-10-01,514.57,251.38,488.52
+India,Tripura,2019-11-01,451.03,219.74,487.2
+India,Tripura,2019-12-01,460.5,224.37,487.23
+India,Tripura,2020-01-01,462.82,225.51,487.25
+India,Tripura,2020-02-01,351.67,170.82,485.74
+India,Tripura,2020-03-01,373.05,181.58,486.74
+India,Tripura,2020-04-01,590.87,288.42,488.13
+India,Tripura,2020-05-01,619.96,303.44,489.45
+India,Tripura,2020-06-01,557.16,272.87,489.75
+India,Tripura,2020-07-01,568.49,278.34,489.61
+India,Tripura,2020-08-01,595.67,291.65,489.62
+India,Tripura,2020-09-01,590.62,289.18,489.62
+India,Tripura,2020-10-01,591.17,289.53,489.76
+India,Tripura,2020-11-01,577.65,282.11,488.38
+India,Tripura,2020-12-01,582.54,284.46,488.31
+India,Tripura,2021-01-01,648.01,316.51,488.43
+India,Tripura,2021-02-01,590.61,288.51,488.5
+India,Tripura,2021-03-01,546.06,266.66,488.34
+India,Tripura,2021-04-01,286.16,139.31,486.83
+India,Tripura,2021-05-01,434.96,212.88,489.42
+India,Tripura,2021-06-01,438.91,214.82,489.44
+India,Tripura,2021-07-01,491.57,240.71,489.68
+India,Tripura,2021-08-01,602.66,295.16,489.76
+India,Tripura,2021-09-01,591.71,289.71,489.62
+India,Tripura,2021-10-01,610.95,299.16,489.66
+India,Tripura,2021-11-01,578.02,282.98,489.57
+India,Tripura,2021-12-01,579.76,283.83,489.57
+India,Tripura,2022-01-01,588.9,288.31,489.57
+India,Tripura,2022-02-01,521.14,255.11,489.52
+India,Tripura,2022-03-01,615.16,301.18,489.6
+India,Tripura,2022-04-01,585.72,286.74,489.55
+India,Tripura,2022-05-01,555.59,272.01,489.59
+India,Tripura,2022-06-01,417.09,204.21,489.61
+India,Tripura,2022-07-01,577.54,282.76,489.59
+India,Tripura,2022-08-01,625.98,306.49,489.62
+India,Tripura,2022-09-01,607.89,297.64,489.63
+India,Tripura,2022-10-01,610.0,298.62,489.54
+India,Tripura,2022-11-01,604.87,296.1,489.53
+India,Uttar Pradesh,2019-01-01,10728.91,8048.65,750.18
+India,Uttar Pradesh,2019-02-01,9094.96,6720.5,738.93
+India,Uttar Pradesh,2019-03-01,10380.89,7628.12,734.82
+India,Uttar Pradesh,2019-04-01,11037.08,8267.23,749.04
+India,Uttar Pradesh,2019-05-01,12871.89,9900.06,769.12
+India,Uttar Pradesh,2019-06-01,12271.08,9496.91,773.93
+India,Uttar Pradesh,2019-07-01,11029.31,8586.28,778.5
+India,Uttar Pradesh,2019-08-01,11596.14,9047.15,780.19
+India,Uttar Pradesh,2019-09-01,10496.47,8149.49,776.4
+India,Uttar Pradesh,2019-10-01,10461.96,8059.1,770.32
+India,Uttar Pradesh,2019-11-01,9489.6,7158.2,754.32
+India,Uttar Pradesh,2019-12-01,9822.82,7232.21,736.27
+India,Uttar Pradesh,2020-01-01,10954.78,8098.17,739.24
+India,Uttar Pradesh,2020-02-01,10037.27,7328.94,730.17
+India,Uttar Pradesh,2020-03-01,9278.57,6745.94,727.05
+India,Uttar Pradesh,2020-04-01,9517.82,6976.44,732.99
+India,Uttar Pradesh,2020-05-01,10284.14,7679.43,746.73
+India,Uttar Pradesh,2020-06-01,10813.61,8232.23,761.28
+India,Uttar Pradesh,2020-07-01,11926.14,9190.58,770.63
+India,Uttar Pradesh,2020-08-01,11507.16,8830.03,767.35
+India,Uttar Pradesh,2020-09-01,12022.08,9216.38,766.62
+India,Uttar Pradesh,2020-10-01,11307.0,8665.39,766.37
+India,Uttar Pradesh,2020-11-01,9333.35,6967.3,746.5
+India,Uttar Pradesh,2020-12-01,10944.7,8151.85,744.82
+India,Uttar Pradesh,2021-01-01,11617.71,8853.13,762.04
+India,Uttar Pradesh,2021-02-01,10755.97,8041.2,747.6
+India,Uttar Pradesh,2021-03-01,12639.01,9500.31,751.67
+India,Uttar Pradesh,2021-04-01,12576.94,9527.79,757.56
+India,Uttar Pradesh,2021-05-01,10994.98,8380.29,762.19
+India,Uttar Pradesh,2021-06-01,11564.49,8929.8,772.17
+India,Uttar Pradesh,2021-07-01,12478.81,9667.55,774.72
+India,Uttar Pradesh,2021-08-01,12811.13,9990.41,779.82
+India,Uttar Pradesh,2021-09-01,12411.7,9546.05,769.12
+India,Uttar Pradesh,2021-10-01,11678.39,8879.87,760.37
+India,Uttar Pradesh,2021-11-01,9918.63,7433.47,749.45
+India,Uttar Pradesh,2021-12-01,11635.09,8615.81,740.5
+India,Uttar Pradesh,2022-01-01,12197.28,9149.32,750.11
+India,Uttar Pradesh,2022-02-01,11642.99,8694.21,746.73
+India,Uttar Pradesh,2022-03-01,13248.86,9888.34,746.35
+India,Uttar Pradesh,2022-04-01,15216.25,11674.07,767.21
+India,Uttar Pradesh,2022-05-01,14388.87,11247.4,781.67
+India,Uttar Pradesh,2022-06-01,14351.2,11239.94,783.21
+India,Uttar Pradesh,2022-07-01,14231.62,11115.62,781.05
+India,Uttar Pradesh,2022-08-01,14188.7,11071.4,780.3
+India,Uttar Pradesh,2022-09-01,13154.32,10243.92,778.75
+India,Uttar Pradesh,2022-10-01,11966.2,9217.77,770.32
+India,Uttar Pradesh,2022-11-01,12003.7,9092.09,757.44
+India,Uttarakhand,2019-01-01,999.31,93.63,93.7
+India,Uttarakhand,2019-02-01,861.67,73.0,84.72
+India,Uttarakhand,2019-03-01,1100.25,94.77,86.14
+India,Uttarakhand,2019-04-01,1410.73,129.46,91.77
+India,Uttarakhand,2019-05-01,1641.37,136.45,83.13
+India,Uttarakhand,2019-06-01,1929.7,126.91,65.77
+India,Uttarakhand,2019-07-01,1970.67,129.02,65.47
+India,Uttarakhand,2019-08-01,2075.6,145.6,70.15
+India,Uttarakhand,2019-09-01,2148.56,129.57,60.31
+India,Uttarakhand,2019-10-01,1374.55,68.68,49.97
+India,Uttarakhand,2019-11-01,974.62,76.01,77.99
+India,Uttarakhand,2019-12-01,1015.74,116.42,114.62
+India,Uttarakhand,2020-01-01,1077.11,118.85,110.34
+India,Uttarakhand,2020-02-01,1051.93,124.89,118.73
+India,Uttarakhand,2020-03-01,1061.88,80.35,75.67
+India,Uttarakhand,2020-04-01,964.89,28.07,29.09
+India,Uttarakhand,2020-05-01,1387.93,36.13,26.03
+India,Uttarakhand,2020-06-01,1894.79,46.29,24.43
+India,Uttarakhand,2020-07-01,1878.65,45.8,24.38
+India,Uttarakhand,2020-08-01,1910.44,46.47,24.32
+India,Uttarakhand,2020-09-01,1871.93,45.54,24.33
+India,Uttarakhand,2020-10-01,1145.48,28.11,24.54
+India,Uttarakhand,2020-11-01,768.39,19.06,24.81
+India,Uttarakhand,2020-12-01,1034.5,87.12,84.22
+India,Uttarakhand,2021-01-01,989.6,128.5,129.85
+India,Uttarakhand,2021-02-01,887.13,116.13,130.91
+India,Uttarakhand,2021-03-01,817.6,107.94,132.02
+India,Uttarakhand,2021-04-01,767.28,104.45,136.13
+India,Uttarakhand,2021-05-01,1069.81,101.98,95.33
+India,Uttarakhand,2021-06-01,1610.31,110.65,68.71
+India,Uttarakhand,2021-07-01,2042.23,136.84,67.01
+India,Uttarakhand,2021-08-01,2165.02,133.38,61.61
+India,Uttarakhand,2021-09-01,2155.52,148.47,68.88
+India,Uttarakhand,2021-10-01,1731.49,46.32,26.75
+India,Uttarakhand,2021-11-01,984.23,28.38,28.84
+India,Uttarakhand,2021-12-01,993.67,28.61,28.79
+India,Uttarakhand,2022-01-01,852.25,25.22,29.59
+India,Uttarakhand,2022-02-01,818.16,24.57,30.03
+India,Uttarakhand,2022-03-01,1026.77,29.57,28.8
+India,Uttarakhand,2022-04-01,1124.38,31.91,28.38
+India,Uttarakhand,2022-05-01,1419.38,38.99,27.47
+India,Uttarakhand,2022-06-01,1523.0,41.48,27.24
+India,Uttarakhand,2022-07-01,1843.31,49.17,26.68
+India,Uttarakhand,2022-08-01,2268.71,59.38,26.17
+India,Uttarakhand,2022-09-01,2261.17,59.2,26.18
+India,Uttarakhand,2022-10-01,1551.47,42.16,27.17
+India,Uttarakhand,2022-11-01,940.97,27.51,29.24
+India,West Bengal,2019-01-01,6668.76,5251.28,787.45
+India,West Bengal,2019-02-01,6273.2,5037.21,802.97
+India,West Bengal,2019-03-01,7050.75,5598.19,793.99
+India,West Bengal,2019-04-01,7092.02,5607.71,790.71
+India,West Bengal,2019-05-01,7531.24,5885.67,781.5
+India,West Bengal,2019-06-01,7042.19,5443.22,772.94
+India,West Bengal,2019-07-01,6616.04,5051.94,763.59
+India,West Bengal,2019-08-01,6101.21,4610.68,755.7
+India,West Bengal,2019-09-01,6114.09,4645.32,759.77
+India,West Bengal,2019-10-01,5789.26,4381.59,756.85
+India,West Bengal,2019-11-01,5497.52,4296.11,781.46
+India,West Bengal,2019-12-01,5942.82,4673.28,786.37
+India,West Bengal,2020-01-01,6134.67,4862.51,792.63
+India,West Bengal,2020-02-01,6089.0,4841.36,795.1
+India,West Bengal,2020-03-01,5808.93,4612.67,794.07
+India,West Bengal,2020-04-01,4673.11,3651.62,781.41
+India,West Bengal,2020-05-01,4838.37,3713.33,767.48
+India,West Bengal,2020-06-01,5867.4,4468.95,761.66
+India,West Bengal,2020-07-01,6740.39,5131.85,761.36
+India,West Bengal,2020-08-01,6349.21,4769.18,751.15
+India,West Bengal,2020-09-01,6723.7,5112.46,760.36
+India,West Bengal,2020-10-01,7004.6,5340.8,762.47
+India,West Bengal,2020-11-01,5881.32,4551.8,773.94
+India,West Bengal,2020-12-01,6754.84,5237.41,775.36
+India,West Bengal,2021-01-01,7277.33,5688.86,781.72
+India,West Bengal,2021-02-01,6756.84,5309.12,785.74
+India,West Bengal,2021-03-01,8612.9,6830.47,793.05
+India,West Bengal,2021-04-01,8022.62,6347.86,791.25
+India,West Bengal,2021-05-01,6952.62,5393.36,775.73
+India,West Bengal,2021-06-01,7121.65,5431.36,762.66
+India,West Bengal,2021-07-01,7223.68,5496.56,760.91
+India,West Bengal,2021-08-01,6921.86,5221.18,754.3
+India,West Bengal,2021-09-01,6818.13,5145.36,754.66
+India,West Bengal,2021-10-01,7024.66,5371.33,764.64
+India,West Bengal,2021-11-01,7114.66,5525.35,776.62
+India,West Bengal,2021-12-01,7845.57,6168.63,786.26
+India,West Bengal,2022-01-01,7637.69,6020.34,788.24
+India,West Bengal,2022-02-01,7036.07,5530.79,786.06
+India,West Bengal,2022-03-01,8532.43,6731.12,788.89
+India,West Bengal,2022-04-01,7960.91,6209.09,779.95
+India,West Bengal,2022-05-01,7973.01,6183.96,775.61
+India,West Bengal,2022-06-01,7759.3,5958.24,767.88
+India,West Bengal,2022-07-01,7650.0,5841.11,763.54
+India,West Bengal,2022-08-01,7443.45,5673.0,762.15
+India,West Bengal,2022-09-01,7246.56,5495.44,758.35
+India,West Bengal,2022-10-01,7559.44,5755.32,761.34
+India,West Bengal,2022-11-01,7423.59,5771.19,777.41

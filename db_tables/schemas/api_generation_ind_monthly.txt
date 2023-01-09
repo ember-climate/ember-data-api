@@ -1,0 +1,12 @@
+(
+    "country" VARCHAR(100),
+    "state" VARCHAR(100),
+    "date" DATE,
+    variable VARCHAR(100),
+    generation_gwh DECIMAL(14,2),
+    share_of_generation_pct DECIMAL(14,2),
+    capacity_mw DECIMAL(14,2),
+    emissions_ktco2 DECIMAL(14,2),
+    share_of_emissions_pct DECIMAL(14,2),
+    PRIMARY KEY(country, state, date, variable)
+)
