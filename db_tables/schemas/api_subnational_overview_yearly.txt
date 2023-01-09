@@ -1,9 +1,0 @@
-(
-    "country" VARCHAR(100),
-    "state" VARCHAR(100),
-    "year" INT,
-    demand_gwh DECIMAL(14,2),
-    emissions_ktco2 DECIMAL(14,2),
-    emissions_intensity_gco2_per_kwh DECIMAL(14,2),
-    PRIMARY KEY(country, state, year)
-)

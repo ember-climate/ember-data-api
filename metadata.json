@@ -44,26 +44,50 @@
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
-                "subnational_generation_monthly": {
-                    "description_html": "Subnational monthly electricity generation",
+                "generation_ind_monthly": {
+                    "description_html": "Subnational monthly electricity generation for India",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
-                "subnational_generation_yearly": {
-                    "description_html": "Subnational yearly electricity generation",
+                "generation_usa_monthly": {
+                    "description_html": "Subnational monthly electricity generation for the US",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
-                "subnational_overview_monthly": {
-                    "description_html": "Subnational monthly electricity overview",
+                "generation_ind_yearly": {
+                    "description_html": "Subnational yearly electricity generation for India",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
-                "subnational_overview_yearly": {
-                    "description_html": "Subnational yearly electricity overview",
+                "generation_usa_yearly": {
+                    "description_html": "Subnational yearly electricity generation for the US",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
+                "overview_ind_monthly": {
+                    "description_html": "Subnational monthly electricity overview for India",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
+                "overview_usa_monthly": {
+                    "description_html": "Subnational monthly electricity overview for the US",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
+                "overview_ind_yearly": {
+                    "description_html": "Subnational yearly electricity overview for India",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
+                "overview_usa_yearly": {
+                    "description_html": "Subnational yearly electricity overview for the US",
                     "license": "CC BY 4.0",
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"

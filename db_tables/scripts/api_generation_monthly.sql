@@ -226,6 +226,7 @@ WHERE
     generation_date BETWEEN '2000-01-01'
     AND latest_selected_month.max_selected_generation_date
     AND generation.country_or_region IS NOT NULL
+    AND (generation.country_or_region = 'EU' AND generation.generation_date NOT IN ('2022-12-01'))
 ORDER BY
     country_or_region,
     generation_date,
