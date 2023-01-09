@@ -395,24 +395,24 @@ India,Andaman and Nicobar,2022-08-01,Other Fossil,8.69,70.25,40.05,6.08,97.85
 India,Andaman and Nicobar,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-08-01,Solar,1.9,15.36,29.91,0.09,1.47
 India,Andaman and Nicobar,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Andaman and Nicobar,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Andaman and Nicobar,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Andaman and Nicobar,2022-09-01,Hydro,1.6,15.64,0.0,0.04,0.8
+India,Andaman and Nicobar,2022-09-01,Hydro,1.6,15.64,5.25,0.04,0.8
 India,Andaman and Nicobar,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-09-01,Other Fossil,6.69,65.4,92.71,4.68,97.27
 India,Andaman and Nicobar,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Andaman and Nicobar,2022-09-01,Solar,1.94,18.96,,0.09,1.93
-India,Andaman and Nicobar,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Andaman and Nicobar,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Andaman and Nicobar,2022-09-01,Solar,1.94,18.96,29.91,0.09,1.93
+India,Andaman and Nicobar,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Andaman and Nicobar,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Andaman and Nicobar,2022-10-01,Hydro,1.57,5.33,0.0,0.04,0.2
+India,Andaman and Nicobar,2022-10-01,Hydro,1.57,5.33,5.25,0.04,0.2
 India,Andaman and Nicobar,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-10-01,Other Fossil,26.21,89.03,92.71,18.35,99.36
 India,Andaman and Nicobar,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Andaman and Nicobar,2022-10-01,Solar,1.66,5.64,,0.08,0.43
-India,Andaman and Nicobar,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Andaman and Nicobar,2022-10-01,Solar,1.66,5.64,29.91,0.08,0.43
+India,Andaman and Nicobar,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Andaman and Nicobar,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -818,24 +818,24 @@ India,Andhra Pradesh,2022-08-01,Other Fossil,0.0,0.0,36.8,0.0,0.0
 India,Andhra Pradesh,2022-08-01,Other Renewables,26.14,0.35,0.0,0.99,0.02
 India,Andhra Pradesh,2022-08-01,Solar,639.37,8.57,4505.8,30.69,0.73
 India,Andhra Pradesh,2022-08-01,Wind,1062.68,14.24,4096.65,11.69,0.28
-India,Andhra Pradesh,2022-09-01,Bioenergy,6.0,0.09,,1.38,0.03
+India,Andhra Pradesh,2022-09-01,Bioenergy,6.0,0.09,566.04,1.38,0.03
 India,Andhra Pradesh,2022-09-01,Coal,4907.54,69.54,11590.0,4024.18,97.56
 India,Andhra Pradesh,2022-09-01,Gas,90.16,1.28,4898.54,44.18,1.07
-India,Andhra Pradesh,2022-09-01,Hydro,663.76,9.41,1610.0,15.93,0.39
+India,Andhra Pradesh,2022-09-01,Hydro,663.76,9.41,1772.11,15.93,0.39
 India,Andhra Pradesh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Andhra Pradesh,2022-09-01,Other Fossil,0.0,0.0,36.8,0.0,0.0
 India,Andhra Pradesh,2022-09-01,Other Renewables,25.99,0.37,,0.99,0.02
-India,Andhra Pradesh,2022-09-01,Solar,622.19,8.82,,29.87,0.72
-India,Andhra Pradesh,2022-09-01,Wind,741.12,10.5,,8.15,0.2
-India,Andhra Pradesh,2022-10-01,Bioenergy,6.94,0.12,,1.6,0.05
+India,Andhra Pradesh,2022-09-01,Solar,622.19,8.82,4506.66,29.87,0.72
+India,Andhra Pradesh,2022-09-01,Wind,741.12,10.5,4096.65,8.15,0.2
+India,Andhra Pradesh,2022-10-01,Bioenergy,6.94,0.12,566.04,1.6,0.05
 India,Andhra Pradesh,2022-10-01,Coal,4230.24,72.16,11590.0,3468.8,98.41
 India,Andhra Pradesh,2022-10-01,Gas,7.59,0.13,4898.54,3.72,0.11
-India,Andhra Pradesh,2022-10-01,Hydro,682.32,11.64,1610.0,16.38,0.46
+India,Andhra Pradesh,2022-10-01,Hydro,682.32,11.64,1772.11,16.38,0.46
 India,Andhra Pradesh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Andhra Pradesh,2022-10-01,Other Fossil,0.0,0.0,36.8,0.0,0.0
 India,Andhra Pradesh,2022-10-01,Other Renewables,27.28,0.47,,1.04,0.03
-India,Andhra Pradesh,2022-10-01,Solar,634.24,10.82,,30.44,0.86
-India,Andhra Pradesh,2022-10-01,Wind,273.67,4.67,,3.01,0.09
+India,Andhra Pradesh,2022-10-01,Solar,634.24,10.82,4506.66,30.44,0.86
+India,Andhra Pradesh,2022-10-01,Wind,273.67,4.67,4096.65,3.01,0.09
 India,Andhra Pradesh,2022-11-01,Bioenergy,9.33,0.16,566.04,2.15,0.06
 India,Andhra Pradesh,2022-11-01,Coal,4596.03,78.24,11590.0,3768.74,98.84
 India,Andhra Pradesh,2022-11-01,Gas,0.18,0.0,4898.54,0.09,0.0
@@ -843,7 +843,7 @@ India,Andhra Pradesh,2022-11-01,Hydro,467.6,7.96,1772.11,11.22,0.29
 India,Andhra Pradesh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Andhra Pradesh,2022-11-01,Other Fossil,0.0,0.0,36.8,0.0,0.0
 India,Andhra Pradesh,2022-11-01,Other Renewables,20.72,0.35,,0.79,0.02
-India,Andhra Pradesh,2022-11-01,Solar,573.19,9.76,4506.66,27.51,0.72
+India,Andhra Pradesh,2022-11-01,Solar,573.19,9.76,4508.45,27.51,0.72
 India,Andhra Pradesh,2022-11-01,Wind,207.39,3.53,4096.65,2.28,0.06
 India,Arunachal Pradesh,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Arunachal Pradesh,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -1241,24 +1241,24 @@ India,Arunachal Pradesh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-08-01,Solar,4.19,0.67,11.23,0.2,1.33
 India,Arunachal Pradesh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Arunachal Pradesh,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Arunachal Pradesh,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Arunachal Pradesh,2022-09-01,Hydro,612.76,99.32,1115.0,14.71,98.65
+India,Arunachal Pradesh,2022-09-01,Hydro,612.76,99.32,1248.11,14.71,98.65
 India,Arunachal Pradesh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Arunachal Pradesh,2022-09-01,Solar,4.19,0.68,,0.2,1.35
-India,Arunachal Pradesh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Arunachal Pradesh,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Arunachal Pradesh,2022-09-01,Solar,4.19,0.68,11.23,0.2,1.35
+India,Arunachal Pradesh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Arunachal Pradesh,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Arunachal Pradesh,2022-10-01,Hydro,598.02,99.96,1115.0,14.35,99.93
+India,Arunachal Pradesh,2022-10-01,Hydro,598.02,99.96,1248.11,14.35,99.93
 India,Arunachal Pradesh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-10-01,Other Renewables,0.03,0.0,,0.0,0.01
-India,Arunachal Pradesh,2022-10-01,Solar,0.19,0.03,,0.01,0.06
-India,Arunachal Pradesh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Arunachal Pradesh,2022-10-01,Solar,0.19,0.03,11.23,0.01,0.06
+India,Arunachal Pradesh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Arunachal Pradesh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -1664,24 +1664,24 @@ India,Assam,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-08-01,Solar,21.34,2.53,142.96,1.02,0.2
 India,Assam,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Assam,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Assam,2022-09-01,Bioenergy,0.0,0.0,2.0,0.0,0.0
 India,Assam,2022-09-01,Coal,432.61,55.62,750.0,354.74,73.64
 India,Assam,2022-09-01,Gas,253.74,32.62,597.35,124.33,25.81
-India,Assam,2022-09-01,Hydro,71.35,9.17,350.0,1.71,0.36
+India,Assam,2022-09-01,Hydro,71.35,9.17,384.11,1.71,0.36
 India,Assam,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Assam,2022-09-01,Solar,20.07,2.58,,0.96,0.2
-India,Assam,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Assam,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Assam,2022-09-01,Solar,20.07,2.58,147.92,0.96,0.2
+India,Assam,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Assam,2022-10-01,Bioenergy,0.0,0.0,2.0,0.0,0.0
 India,Assam,2022-10-01,Coal,356.51,50.19,750.0,292.34,69.06
 India,Assam,2022-10-01,Gas,261.81,36.86,597.35,128.29,30.31
-India,Assam,2022-10-01,Hydro,71.95,10.13,350.0,1.73,0.41
+India,Assam,2022-10-01,Hydro,71.95,10.13,384.11,1.73,0.41
 India,Assam,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Assam,2022-10-01,Solar,20.07,2.83,,0.96,0.23
-India,Assam,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Assam,2022-10-01,Solar,20.07,2.83,147.92,0.96,0.23
+India,Assam,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Assam,2022-11-01,Bioenergy,0.0,0.0,2.0,0.0,0.0
 India,Assam,2022-11-01,Coal,313.82,48.1,750.0,257.33,65.72
 India,Assam,2022-11-01,Gas,269.59,41.32,597.35,132.1,33.74
@@ -2087,24 +2087,24 @@ India,Bihar,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-08-01,Solar,15.28,0.35,190.76,0.73,0.02
 India,Bihar,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Bihar,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Bihar,2022-09-01,Bioenergy,0.0,0.0,126.02,0.0,0.0
 India,Bihar,2022-09-01,Coal,4572.79,99.72,8400.0,3749.69,99.99
 India,Bihar,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Bihar,2022-09-01,Hydro,2.68,0.06,0.0,0.06,0.0
+India,Bihar,2022-09-01,Hydro,2.68,0.06,70.7,0.06,0.0
 India,Bihar,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Bihar,2022-09-01,Solar,9.98,0.22,,0.48,0.01
-India,Bihar,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Bihar,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Bihar,2022-09-01,Solar,9.98,0.22,190.76,0.48,0.01
+India,Bihar,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Bihar,2022-10-01,Bioenergy,0.0,0.0,126.02,0.0,0.0
 India,Bihar,2022-10-01,Coal,4107.04,99.6,8400.0,3367.77,99.98
 India,Bihar,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Bihar,2022-10-01,Hydro,1.48,0.04,0.0,0.04,0.0
+India,Bihar,2022-10-01,Hydro,1.48,0.04,70.7,0.04,0.0
 India,Bihar,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Bihar,2022-10-01,Solar,14.89,0.36,,0.71,0.02
-India,Bihar,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Bihar,2022-10-01,Solar,14.89,0.36,190.76,0.71,0.02
+India,Bihar,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-11-01,Bioenergy,10.53,0.23,126.02,2.42,0.07
 India,Bihar,2022-11-01,Coal,4539.52,99.48,8400.0,3722.41,99.92
 India,Bihar,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -2112,7 +2112,7 @@ India,Bihar,2022-11-01,Hydro,0.04,0.0,70.7,0.0,0.0
 India,Bihar,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Bihar,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Bihar,2022-11-01,Solar,12.99,0.28,190.76,0.62,0.02
+India,Bihar,2022-11-01,Solar,12.99,0.28,192.89,0.62,0.02
 India,Bihar,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Chandigarh,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -2510,24 +2510,24 @@ India,Chandigarh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-08-01,Solar,2.16,100.0,57.84,0.1,100.0
 India,Chandigarh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Chandigarh,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Chandigarh,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chandigarh,2022-09-01,Solar,0.19,100.0,,0.01,100.0
-India,Chandigarh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Chandigarh,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Chandigarh,2022-09-01,Solar,0.19,100.0,57.84,0.01,100.0
+India,Chandigarh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Chandigarh,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chandigarh,2022-10-01,Solar,2.01,100.0,,0.1,100.0
-India,Chandigarh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Chandigarh,2022-10-01,Solar,2.01,100.0,57.84,0.1,100.0
+India,Chandigarh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -2535,7 +2535,7 @@ India,Chandigarh,2022-11-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chandigarh,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chandigarh,2022-11-01,Solar,0.2,100.0,57.84,0.01,100.0
+India,Chandigarh,2022-11-01,Solar,0.2,100.0,58.69,0.01,100.0
 India,Chandigarh,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2019-01-01,Bioenergy,26.48,0.32,,6.09,0.09
 India,Chhattisgarh,2019-01-01,Coal,8304.13,99.2,,6809.39,99.89
@@ -2933,24 +2933,24 @@ India,Chhattisgarh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-08-01,Solar,39.54,0.38,798.34,1.9,0.02
 India,Chhattisgarh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Chhattisgarh,2022-09-01,Bioenergy,56.58,0.52,,13.01,0.15
+India,Chhattisgarh,2022-09-01,Bioenergy,56.58,0.52,275.0,13.01,0.15
 India,Chhattisgarh,2022-09-01,Coal,10725.46,98.22,23688.0,8794.88,99.8
 India,Chhattisgarh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Chhattisgarh,2022-09-01,Hydro,93.68,0.86,120.0,2.25,0.03
+India,Chhattisgarh,2022-09-01,Hydro,93.68,0.86,196.0,2.25,0.03
 India,Chhattisgarh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chhattisgarh,2022-09-01,Solar,43.98,0.4,,2.11,0.02
-India,Chhattisgarh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Chhattisgarh,2022-10-01,Bioenergy,67.13,0.61,,15.44,0.17
+India,Chhattisgarh,2022-09-01,Solar,43.98,0.4,798.34,2.11,0.02
+India,Chhattisgarh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Chhattisgarh,2022-10-01,Bioenergy,67.13,0.61,275.0,15.44,0.17
 India,Chhattisgarh,2022-10-01,Coal,10767.6,98.27,23688.0,8829.43,99.78
 India,Chhattisgarh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Chhattisgarh,2022-10-01,Hydro,66.63,0.61,120.0,1.6,0.02
+India,Chhattisgarh,2022-10-01,Hydro,66.63,0.61,196.0,1.6,0.02
 India,Chhattisgarh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chhattisgarh,2022-10-01,Solar,55.64,0.51,,2.67,0.03
-India,Chhattisgarh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Chhattisgarh,2022-10-01,Solar,55.64,0.51,798.34,2.67,0.03
+India,Chhattisgarh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-11-01,Bioenergy,61.69,0.52,275.0,14.19,0.15
 India,Chhattisgarh,2022-11-01,Coal,11687.02,98.92,23688.0,9583.36,99.82
 India,Chhattisgarh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -2958,7 +2958,7 @@ India,Chhattisgarh,2022-11-01,Hydro,13.74,0.12,196.0,0.33,0.0
 India,Chhattisgarh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Chhattisgarh,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Chhattisgarh,2022-11-01,Solar,52.21,0.44,798.34,2.51,0.03
+India,Chhattisgarh,2022-11-01,Solar,52.21,0.44,803.43,2.51,0.03
 India,Chhattisgarh,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -3356,24 +3356,24 @@ India,Dadra and Nagar Haveli and Daman and Diu,2022-08-01,Other Fossil,0.0,0.0,0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-08-01,Solar,1.0,100.0,46.47,0.05,100.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Solar,1.25,100.0,,0.06,100.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Solar,1.25,100.0,46.47,0.06,100.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Solar,1.36,100.0,,0.07,100.0
-India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Solar,1.36,100.0,46.47,0.07,100.0
+India,Dadra and Nagar Haveli and Daman and Diu,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -3779,25 +3779,25 @@ India,Delhi,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-08-01,Other Renewables,22.95,5.59,0.0,0.87,0.48
 India,Delhi,2022-08-01,Solar,22.64,5.52,211.12,1.09,0.6
 India,Delhi,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Delhi,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Delhi,2022-09-01,Bioenergy,0.0,0.0,59.0,0.0,0.0
 India,Delhi,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-09-01,Gas,330.11,88.03,2208.4,161.75,98.82
 India,Delhi,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-09-01,Other Renewables,22.23,5.93,,0.84,0.52
-India,Delhi,2022-09-01,Solar,22.64,6.04,,1.09,0.66
-India,Delhi,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Delhi,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Delhi,2022-09-01,Solar,22.64,6.04,211.12,1.09,0.66
+India,Delhi,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Delhi,2022-10-01,Bioenergy,0.0,0.0,59.0,0.0,0.0
 India,Delhi,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-10-01,Gas,156.67,78.42,2208.4,76.77,97.7
 India,Delhi,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-10-01,Other Renewables,26.04,13.03,,0.99,1.26
-India,Delhi,2022-10-01,Solar,17.08,8.55,,0.82,1.04
-India,Delhi,2022-10-01,Wind,0.0,0.0,,0.0,0.0
-India,Delhi,2022-11-01,Bioenergy,0.0,0.0,59.0,0.0,0.0
+India,Delhi,2022-10-01,Solar,17.08,8.55,211.12,0.82,1.04
+India,Delhi,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Delhi,2022-11-01,Bioenergy,0.0,0.0,84.0,0.0,0.0
 India,Delhi,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Delhi,2022-11-01,Gas,233.18,86.01,2208.4,114.26,98.61
 India,Delhi,2022-11-01,Hydro,0.0,0.0,0.0,0.0,0.0
@@ -4202,24 +4202,24 @@ India,Goa,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-08-01,Other Renewables,0.42,21.76,0.0,0.02,18.05
 India,Goa,2022-08-01,Solar,1.51,78.24,26.4,0.07,81.95
 India,Goa,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Goa,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Goa,2022-09-01,Bioenergy,0.0,0.0,0.34,0.0,0.0
 India,Goa,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-09-01,Gas,0.0,0.0,48.0,0.0,0.0
-India,Goa,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
+India,Goa,2022-09-01,Hydro,0.0,0.0,0.05,0.0,0.0
 India,Goa,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-09-01,Other Renewables,0.42,21.9,,0.02,18.17
-India,Goa,2022-09-01,Solar,1.51,78.1,,0.07,81.83
-India,Goa,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Goa,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Goa,2022-09-01,Solar,1.51,78.1,26.4,0.07,81.83
+India,Goa,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Goa,2022-10-01,Bioenergy,0.0,0.0,0.34,0.0,0.0
 India,Goa,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-10-01,Gas,0.0,0.0,48.0,0.0,0.0
-India,Goa,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
+India,Goa,2022-10-01,Hydro,0.0,0.0,0.05,0.0,0.0
 India,Goa,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-10-01,Other Renewables,0.42,21.9,,0.02,18.17
-India,Goa,2022-10-01,Solar,1.51,78.1,,0.07,81.83
-India,Goa,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Goa,2022-10-01,Solar,1.51,78.1,26.4,0.07,81.83
+India,Goa,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-11-01,Bioenergy,0.0,0.0,0.34,0.0,0.0
 India,Goa,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Goa,2022-11-01,Gas,0.0,0.0,48.0,0.0,0.0
@@ -4625,24 +4625,24 @@ India,Gujarat,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Gujarat,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Gujarat,2022-08-01,Solar,648.12,8.64,8000.15,31.11,1.04
 India,Gujarat,2022-08-01,Wind,1629.11,21.73,9711.82,17.92,0.6
-India,Gujarat,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Gujarat,2022-09-01,Bioenergy,0.0,0.0,110.73,0.0,0.0
 India,Gujarat,2022-09-01,Coal,4276.08,54.37,16092.0,3506.39,97.13
 India,Gujarat,2022-09-01,Gas,38.38,0.49,7551.41,18.81,0.52
-India,Gujarat,2022-09-01,Hydro,1299.36,16.52,1990.0,31.18,0.86
+India,Gujarat,2022-09-01,Hydro,1299.36,16.52,2079.39,31.18,0.86
 India,Gujarat,2022-09-01,Nuclear,319.29,4.06,440.0,3.83,0.11
 India,Gujarat,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Gujarat,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Gujarat,2022-09-01,Solar,775.12,9.85,,37.21,1.03
-India,Gujarat,2022-09-01,Wind,1157.07,14.71,,12.73,0.35
-India,Gujarat,2022-10-01,Bioenergy,0.03,0.0,,0.01,0.0
+India,Gujarat,2022-09-01,Solar,775.12,9.85,8045.58,37.21,1.03
+India,Gujarat,2022-09-01,Wind,1157.07,14.71,9798.52,12.73,0.35
+India,Gujarat,2022-10-01,Bioenergy,0.03,0.0,110.73,0.01,0.0
 India,Gujarat,2022-10-01,Coal,3989.54,55.42,16092.0,3271.42,96.73
 India,Gujarat,2022-10-01,Gas,59.47,0.83,7551.41,29.14,0.86
-India,Gujarat,2022-10-01,Hydro,1040.61,14.46,1990.0,24.97,0.74
+India,Gujarat,2022-10-01,Hydro,1040.61,14.46,2079.39,24.97,0.74
 India,Gujarat,2022-10-01,Nuclear,259.13,3.6,440.0,3.11,0.09
 India,Gujarat,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Gujarat,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Gujarat,2022-10-01,Solar,890.54,12.37,,42.75,1.26
-India,Gujarat,2022-10-01,Wind,959.35,13.33,,10.55,0.31
+India,Gujarat,2022-10-01,Solar,890.54,12.37,8045.58,42.75,1.26
+India,Gujarat,2022-10-01,Wind,959.35,13.33,9798.52,10.55,0.31
 India,Gujarat,2022-11-01,Bioenergy,0.0,0.0,110.73,0.0,0.0
 India,Gujarat,2022-11-01,Coal,4260.87,65.2,16092.0,3493.91,95.28
 India,Gujarat,2022-11-01,Gas,237.4,3.63,7551.41,116.33,3.17
@@ -4650,8 +4650,8 @@ India,Gujarat,2022-11-01,Hydro,298.68,4.57,2079.39,7.17,0.2
 India,Gujarat,2022-11-01,Nuclear,204.8,3.13,440.0,2.46,0.07
 India,Gujarat,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Gujarat,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Gujarat,2022-11-01,Solar,821.67,12.57,8045.58,39.44,1.08
-India,Gujarat,2022-11-01,Wind,712.15,10.9,9798.52,7.83,0.21
+India,Gujarat,2022-11-01,Solar,821.67,12.57,8369.9,39.44,1.08
+India,Gujarat,2022-11-01,Wind,712.15,10.9,9860.62,7.83,0.21
 India,Haryana,2019-01-01,Bioenergy,26.06,1.02,,5.99,0.3
 India,Haryana,2019-01-01,Coal,2370.14,93.12,,1943.51,96.58
 India,Haryana,2019-01-01,Gas,126.78,4.98,,62.12,3.09
@@ -5048,24 +5048,24 @@ India,Haryana,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-08-01,Other Renewables,4.55,0.14,0.0,0.17,0.01
 India,Haryana,2022-08-01,Solar,63.04,1.97,947.89,3.03,0.12
 India,Haryana,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Haryana,2022-09-01,Bioenergy,50.66,1.79,,11.65,0.52
+India,Haryana,2022-09-01,Bioenergy,50.66,1.79,258.88,11.65,0.52
 India,Haryana,2022-09-01,Coal,2690.33,95.04,5330.0,2206.07,99.31
 India,Haryana,2022-09-01,Gas,0.04,0.0,431.59,0.02,0.0
-India,Haryana,2022-09-01,Hydro,22.16,0.78,0.0,0.53,0.02
+India,Haryana,2022-09-01,Hydro,22.16,0.78,73.5,0.53,0.02
 India,Haryana,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-09-01,Other Renewables,4.55,0.16,,0.17,0.01
-India,Haryana,2022-09-01,Solar,63.04,2.23,,3.03,0.14
-India,Haryana,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Haryana,2022-10-01,Bioenergy,31.41,1.32,,7.22,0.38
+India,Haryana,2022-09-01,Solar,63.04,2.23,954.65,3.03,0.14
+India,Haryana,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Haryana,2022-10-01,Bioenergy,31.41,1.32,258.88,7.22,0.38
 India,Haryana,2022-10-01,Coal,2284.55,95.84,5330.0,1873.33,99.49
 India,Haryana,2022-10-01,Gas,0.0,0.0,431.59,0.0,0.0
-India,Haryana,2022-10-01,Hydro,37.81,1.59,0.0,0.91,0.05
+India,Haryana,2022-10-01,Hydro,37.81,1.59,73.5,0.91,0.05
 India,Haryana,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-10-01,Other Renewables,5.35,0.22,,0.2,0.01
-India,Haryana,2022-10-01,Solar,24.7,1.04,,1.19,0.06
-India,Haryana,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Haryana,2022-10-01,Solar,24.7,1.04,954.65,1.19,0.06
+India,Haryana,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-11-01,Bioenergy,30.75,1.37,258.88,7.07,0.39
 India,Haryana,2022-11-01,Coal,2178.6,96.97,5330.0,1786.45,99.51
 India,Haryana,2022-11-01,Gas,0.0,0.0,431.59,0.0,0.0
@@ -5073,7 +5073,7 @@ India,Haryana,2022-11-01,Hydro,0.64,0.03,73.5,0.02,0.0
 India,Haryana,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Haryana,2022-11-01,Other Renewables,10.59,0.47,,0.4,0.02
-India,Haryana,2022-11-01,Solar,26.07,1.16,954.65,1.25,0.07
+India,Haryana,2022-11-01,Solar,26.07,1.16,968.67,1.25,0.07
 India,Haryana,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Himachal Pradesh,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -5471,24 +5471,24 @@ India,Himachal Pradesh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-08-01,Solar,5.76,0.09,86.29,0.28,0.17
 India,Himachal Pradesh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Himachal Pradesh,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Himachal Pradesh,2022-09-01,Bioenergy,0.0,0.0,10.2,0.0,0.0
 India,Himachal Pradesh,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Himachal Pradesh,2022-09-01,Hydro,5679.6,99.89,10263.02,136.31,99.77
+India,Himachal Pradesh,2022-09-01,Hydro,5679.6,99.89,11223.73,136.31,99.77
 India,Himachal Pradesh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Himachal Pradesh,2022-09-01,Solar,6.42,0.11,,0.31,0.23
-India,Himachal Pradesh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Himachal Pradesh,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Himachal Pradesh,2022-09-01,Solar,6.42,0.11,87.35,0.31,0.23
+India,Himachal Pradesh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Himachal Pradesh,2022-10-01,Bioenergy,0.0,0.0,10.2,0.0,0.0
 India,Himachal Pradesh,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Himachal Pradesh,2022-10-01,Hydro,3218.04,99.86,10263.02,77.23,99.73
+India,Himachal Pradesh,2022-10-01,Hydro,3218.04,99.86,11223.73,77.23,99.73
 India,Himachal Pradesh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Himachal Pradesh,2022-10-01,Solar,4.4,0.14,,0.21,0.27
-India,Himachal Pradesh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Himachal Pradesh,2022-10-01,Solar,4.4,0.14,87.35,0.21,0.27
+India,Himachal Pradesh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-11-01,Bioenergy,0.0,0.0,10.2,0.0,0.0
 India,Himachal Pradesh,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -5496,7 +5496,7 @@ India,Himachal Pradesh,2022-11-01,Hydro,2189.98,99.8,11223.73,52.56,99.6
 India,Himachal Pradesh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Himachal Pradesh,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Himachal Pradesh,2022-11-01,Solar,4.4,0.2,87.35,0.21,0.4
+India,Himachal Pradesh,2022-11-01,Solar,4.4,0.2,87.38,0.21,0.4
 India,Himachal Pradesh,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,India Total,2019-01-01,Bioenergy,2582.0,2.33,,593.86,0.8
 India,India Total,2019-01-01,Coal,86375.09,77.88,,70827.58,95.95
@@ -5894,33 +5894,33 @@ India,India Total,2022-08-01,Other Fossil,8.69,0.01,509.71,6.08,0.01
 India,India Total,2022-08-01,Other Renewables,213.2,0.15,0.0,8.1,0.01
 India,India Total,2022-08-01,Solar,7428.23,5.36,59302.7,356.56,0.46
 India,India Total,2022-08-01,Wind,8694.96,6.28,41204.68,95.64,0.12
-India,India Total,2022-09-01,Bioenergy,337.11,0.25,,77.54,0.1
+India,India Total,2022-09-01,Bioenergy,337.11,0.25,10700.84,77.54,0.1
 India,India Total,2022-09-01,Coal,91530.31,67.47,210699.5,75054.86,97.37
 India,India Total,2022-09-01,Gas,1758.94,1.3,24814.21,861.88,1.12
-India,India Total,2022-09-01,Hydro,23556.11,17.36,46850.17,565.35,0.73
+India,India Total,2022-09-01,Hydro,23556.11,17.36,51749.67,565.35,0.73
 India,India Total,2022-09-01,Nuclear,3412.52,2.52,6780.0,40.95,0.05
 India,India Total,2022-09-01,Other Fossil,6.69,0.0,562.37,4.68,0.01
 India,India Total,2022-09-01,Other Renewables,204.41,0.15,,7.77,0.01
-India,India Total,2022-09-01,Solar,8207.73,6.05,,393.97,0.51
-India,India Total,2022-09-01,Wind,6654.49,4.9,,73.2,0.09
-India,India Total,2022-10-01,Bioenergy,563.37,0.46,,129.58,0.18
+India,India Total,2022-09-01,Solar,8207.73,6.05,60813.93,393.97,0.51
+India,India Total,2022-09-01,Wind,6654.49,4.9,41666.08,73.2,0.09
+India,India Total,2022-10-01,Bioenergy,563.37,0.46,10700.84,129.58,0.18
 India,India Total,2022-10-01,Coal,86569.09,70.48,210699.5,70986.66,97.44
 India,India Total,2022-10-01,Gas,1590.28,1.29,24814.21,779.24,1.07
-India,India Total,2022-10-01,Hydro,17476.35,14.23,46850.17,419.43,0.58
+India,India Total,2022-10-01,Hydro,17476.35,14.23,51749.67,419.43,0.58
 India,India Total,2022-10-01,Nuclear,4219.26,3.44,6780.0,50.63,0.07
 India,India Total,2022-10-01,Other Fossil,26.21,0.02,562.37,18.35,0.03
 India,India Total,2022-10-01,Other Renewables,228.89,0.19,,8.7,0.01
-India,India Total,2022-10-01,Solar,8726.83,7.11,,418.89,0.58
-India,India Total,2022-10-01,Wind,3421.8,2.79,,37.64,0.05
-India,India Total,2022-11-01,Bioenergy,1707.84,1.4,10700.84,392.8,0.5
+India,India Total,2022-10-01,Solar,8726.83,7.11,60813.93,418.89,0.58
+India,India Total,2022-10-01,Wind,3421.8,2.79,41666.08,37.64,0.05
+India,India Total,2022-11-01,Bioenergy,1707.84,1.4,10725.84,392.8,0.5
 India,India Total,2022-11-01,Coal,92678.98,76.21,210605.5,75996.76,97.44
 India,India Total,2022-11-01,Gas,1758.85,1.45,24814.21,861.84,1.1
-India,India Total,2022-11-01,Hydro,10889.68,8.95,51749.67,261.35,0.34
+India,India Total,2022-11-01,Hydro,10889.68,8.95,51774.82,261.35,0.34
 India,India Total,2022-11-01,Nuclear,3869.67,3.18,6780.0,46.44,0.06
 India,India Total,2022-11-01,Other Fossil,25.01,0.02,562.37,17.51,0.02
 India,India Total,2022-11-01,Other Renewables,209.91,0.17,,7.98,0.01
-India,India Total,2022-11-01,Solar,7976.88,6.56,60813.93,382.89,0.49
-India,India Total,2022-11-01,Wind,2489.5,2.05,41666.08,27.38,0.04
+India,India Total,2022-11-01,Solar,7976.88,6.56,61966.4,382.89,0.49
+India,India Total,2022-11-01,Wind,2489.5,2.05,41895.28,27.38,0.04
 India,Jammu and Kashmir,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Jammu and Kashmir,2019-01-01,Coal,0.0,0.0,,0.0,0.0
 India,Jammu and Kashmir,2019-01-01,Gas,0.0,0.0,,0.0,0.0
@@ -6317,24 +6317,24 @@ India,Jammu and Kashmir,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-08-01,Solar,0.0,0.0,48.41,0.0,0.0
 India,Jammu and Kashmir,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Jammu and Kashmir,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Jammu and Kashmir,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-09-01,Gas,0.0,0.0,175.0,0.0,0.0
-India,Jammu and Kashmir,2022-09-01,Hydro,1887.71,100.0,3360.0,45.3,100.0
+India,Jammu and Kashmir,2022-09-01,Hydro,1887.71,100.0,3504.68,45.3,100.0
 India,Jammu and Kashmir,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-09-01,Solar,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Jammu and Kashmir,2022-09-01,Solar,0.0,0.0,48.56,0.0,0.0
+India,Jammu and Kashmir,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Jammu and Kashmir,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-10-01,Gas,0.0,0.0,175.0,0.0,0.0
-India,Jammu and Kashmir,2022-10-01,Hydro,918.63,100.0,3360.0,22.05,100.0
+India,Jammu and Kashmir,2022-10-01,Hydro,918.63,100.0,3504.68,22.05,100.0
 India,Jammu and Kashmir,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-10-01,Solar,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Jammu and Kashmir,2022-10-01,Solar,0.0,0.0,48.56,0.0,0.0
+India,Jammu and Kashmir,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Gas,0.0,0.0,175.0,0.0,0.0
@@ -6342,7 +6342,7 @@ India,Jammu and Kashmir,2022-11-01,Hydro,720.3,100.0,3504.68,17.29,100.0
 India,Jammu and Kashmir,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jammu and Kashmir,2022-11-01,Solar,0.0,0.0,48.56,0.0,0.0
+India,Jammu and Kashmir,2022-11-01,Solar,0.0,0.0,48.9,0.0,0.0
 India,Jammu and Kashmir,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Jharkhand,2019-01-01,Coal,2155.02,99.93,,1767.12,100.0
@@ -6740,24 +6740,24 @@ India,Jharkhand,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-08-01,Solar,1.86,0.07,91.82,0.09,0.0
 India,Jharkhand,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Jharkhand,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Jharkhand,2022-09-01,Bioenergy,0.0,0.0,4.3,0.0,0.0
 India,Jharkhand,2022-09-01,Coal,2375.62,96.25,4250.0,1948.01,99.88
 India,Jharkhand,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Jharkhand,2022-09-01,Hydro,91.43,3.7,210.0,2.19,0.11
+India,Jharkhand,2022-09-01,Hydro,91.43,3.7,214.05,2.19,0.11
 India,Jharkhand,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jharkhand,2022-09-01,Solar,1.25,0.05,,0.06,0.0
-India,Jharkhand,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Jharkhand,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Jharkhand,2022-09-01,Solar,1.25,0.05,93.58,0.06,0.0
+India,Jharkhand,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Jharkhand,2022-10-01,Bioenergy,0.0,0.0,4.3,0.0,0.0
 India,Jharkhand,2022-10-01,Coal,2371.62,95.99,4250.0,1944.73,99.88
 India,Jharkhand,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Jharkhand,2022-10-01,Hydro,97.37,3.94,210.0,2.34,0.12
+India,Jharkhand,2022-10-01,Hydro,97.37,3.94,214.05,2.34,0.12
 India,Jharkhand,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jharkhand,2022-10-01,Solar,1.68,0.07,,0.08,0.0
-India,Jharkhand,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Jharkhand,2022-10-01,Solar,1.68,0.07,93.58,0.08,0.0
+India,Jharkhand,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-11-01,Bioenergy,0.0,0.0,4.3,0.0,0.0
 India,Jharkhand,2022-11-01,Coal,2507.39,99.66,4250.0,2056.06,99.99
 India,Jharkhand,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -6765,7 +6765,7 @@ India,Jharkhand,2022-11-01,Hydro,6.89,0.27,214.05,0.17,0.01
 India,Jharkhand,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Jharkhand,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Jharkhand,2022-11-01,Solar,1.57,0.06,93.58,0.08,0.0
+India,Jharkhand,2022-11-01,Solar,1.57,0.06,94.07,0.08,0.0
 India,Jharkhand,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Karnataka,2019-01-01,Bioenergy,547.46,8.95,,125.92,5.51
 India,Karnataka,2019-01-01,Coal,2538.87,41.49,,2081.87,91.08
@@ -7163,24 +7163,24 @@ India,Karnataka,2022-08-01,Other Fossil,0.0,0.0,25.2,0.0,0.0
 India,Karnataka,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Karnataka,2022-08-01,Solar,1014.75,14.97,7771.49,48.71,2.67
 India,Karnataka,2022-08-01,Wind,1317.08,19.43,5257.65,14.49,0.79
-India,Karnataka,2022-09-01,Bioenergy,56.24,0.87,,12.94,0.65
+India,Karnataka,2022-09-01,Bioenergy,56.24,0.87,1902.15,12.94,0.65
 India,Karnataka,2022-09-01,Coal,2284.76,35.5,9480.0,1873.5,94.05
 India,Karnataka,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Karnataka,2022-09-01,Hydro,1641.19,25.5,3689.2,39.39,1.98
+India,Karnataka,2022-09-01,Hydro,1641.19,25.5,4969.93,39.39,1.98
 India,Karnataka,2022-09-01,Nuclear,515.74,8.01,880.0,6.19,0.31
 India,Karnataka,2022-09-01,Other Fossil,0.0,0.0,25.2,0.0,0.0
 India,Karnataka,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Karnataka,2022-09-01,Solar,1045.53,16.24,,50.19,2.52
-India,Karnataka,2022-09-01,Wind,893.04,13.87,,9.82,0.49
-India,Karnataka,2022-10-01,Bioenergy,184.75,3.53,,42.49,3.19
+India,Karnataka,2022-09-01,Solar,1045.53,16.24,7859.38,50.19,2.52
+India,Karnataka,2022-09-01,Wind,893.04,13.87,5268.15,9.82,0.49
+India,Karnataka,2022-10-01,Bioenergy,184.75,3.53,1902.15,42.49,3.19
 India,Karnataka,2022-10-01,Coal,1448.51,27.65,9480.0,1187.78,89.26
 India,Karnataka,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Karnataka,2022-10-01,Hydro,1437.27,27.44,3689.2,34.49,2.59
+India,Karnataka,2022-10-01,Hydro,1437.27,27.44,4969.93,34.49,2.59
 India,Karnataka,2022-10-01,Nuclear,618.93,11.82,880.0,7.43,0.56
 India,Karnataka,2022-10-01,Other Fossil,0.0,0.0,25.2,0.0,0.0
 India,Karnataka,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Karnataka,2022-10-01,Solar,1120.73,21.4,,53.8,4.04
-India,Karnataka,2022-10-01,Wind,427.88,8.17,,4.71,0.35
+India,Karnataka,2022-10-01,Solar,1120.73,21.4,7859.38,53.8,4.04
+India,Karnataka,2022-10-01,Wind,427.88,8.17,5268.15,4.71,0.35
 India,Karnataka,2022-11-01,Bioenergy,405.79,6.52,1902.15,93.33,4.3
 India,Karnataka,2022-11-01,Coal,2420.98,38.88,9480.0,1985.2,91.44
 India,Karnataka,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -7188,7 +7188,7 @@ India,Karnataka,2022-11-01,Hydro,1227.49,19.72,4969.93,29.46,1.36
 India,Karnataka,2022-11-01,Nuclear,604.66,9.71,880.0,7.26,0.33
 India,Karnataka,2022-11-01,Other Fossil,0.0,0.0,25.2,0.0,0.0
 India,Karnataka,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Karnataka,2022-11-01,Solar,1042.55,16.75,7859.38,50.04,2.3
+India,Karnataka,2022-11-01,Solar,1042.55,16.75,7879.55,50.04,2.3
 India,Karnataka,2022-11-01,Wind,524.55,8.43,5268.15,5.77,0.27
 India,Kerala,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Kerala,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -7586,24 +7586,24 @@ India,Kerala,2022-08-01,Other Fossil,0.0,0.0,159.96,0.0,0.0
 India,Kerala,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-08-01,Solar,55.9,4.12,622.36,2.68,7.8
 India,Kerala,2022-08-01,Wind,16.54,1.22,62.5,0.18,0.53
-India,Kerala,2022-09-01,Bioenergy,4.29,0.35,,0.99,3.09
+India,Kerala,2022-09-01,Bioenergy,4.29,0.35,2.5,0.99,3.09
 India,Kerala,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-09-01,Gas,0.0,0.0,533.58,0.0,0.0
-India,Kerala,2022-09-01,Hydro,1149.67,92.96,1864.15,27.59,86.4
+India,Kerala,2022-09-01,Hydro,1149.67,92.96,2130.67,27.59,86.4
 India,Kerala,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-09-01,Other Fossil,0.0,0.0,159.96,0.0,0.0
 India,Kerala,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Kerala,2022-09-01,Solar,66.16,5.35,,3.18,9.94
-India,Kerala,2022-09-01,Wind,16.59,1.34,,0.18,0.57
-India,Kerala,2022-10-01,Bioenergy,3.49,0.4,,0.8,3.45
+India,Kerala,2022-09-01,Solar,66.16,5.35,653.97,3.18,9.94
+India,Kerala,2022-09-01,Wind,16.59,1.34,62.5,0.18,0.57
+India,Kerala,2022-10-01,Bioenergy,3.49,0.4,2.5,0.8,3.45
 India,Kerala,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-10-01,Gas,0.0,0.0,533.58,0.0,0.0
-India,Kerala,2022-10-01,Hydro,789.87,90.55,1864.15,18.96,81.41
+India,Kerala,2022-10-01,Hydro,789.87,90.55,2130.67,18.96,81.41
 India,Kerala,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-10-01,Other Fossil,0.0,0.0,159.96,0.0,0.0
 India,Kerala,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Kerala,2022-10-01,Solar,71.81,8.23,,3.45,14.8
-India,Kerala,2022-10-01,Wind,7.11,0.81,,0.08,0.34
+India,Kerala,2022-10-01,Solar,71.81,8.23,653.97,3.45,14.8
+India,Kerala,2022-10-01,Wind,7.11,0.81,62.5,0.08,0.34
 India,Kerala,2022-11-01,Bioenergy,5.49,0.77,2.5,1.26,6.61
 India,Kerala,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Kerala,2022-11-01,Gas,0.0,0.0,533.58,0.0,0.0
@@ -7739,28 +7739,28 @@ India,Ladakh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-08-01,Solar,0.0,0.0,7.8,0.0,0.0
 India,Ladakh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Ladakh,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Ladakh,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Ladakh,2022-09-01,Hydro,54.59,100.0,89.0,1.31,100.0
+India,Ladakh,2022-09-01,Hydro,54.59,100.0,128.64,1.31,100.0
 India,Ladakh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Ladakh,2022-09-01,Solar,0.0,0.0,,0.0,0.0
-India,Ladakh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Ladakh,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Ladakh,2022-09-01,Solar,0.0,0.0,7.8,0.0,0.0
+India,Ladakh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Ladakh,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Ladakh,2022-10-01,Hydro,30.9,100.0,89.0,0.74,100.0
+India,Ladakh,2022-10-01,Hydro,30.9,100.0,128.64,0.74,100.0
 India,Ladakh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Ladakh,2022-10-01,Solar,0.0,0.0,,0.0,0.0
-India,Ladakh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Ladakh,2022-10-01,Solar,0.0,0.0,7.8,0.0,0.0
+India,Ladakh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Ladakh,2022-11-01,Hydro,20.34,100.0,128.64,0.49,100.0
+India,Ladakh,2022-11-01,Hydro,20.34,100.0,129.79,0.49,100.0
 India,Ladakh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Ladakh,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
@@ -8162,24 +8162,24 @@ India,Lakshadweep,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-08-01,Solar,0.01,100.0,3.27,0.0,100.0
 India,Lakshadweep,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Lakshadweep,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Lakshadweep,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2022-09-01,Solar,0.01,100.0,,0.0,100.0
-India,Lakshadweep,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Lakshadweep,2022-09-01,Solar,0.01,100.0,3.27,0.0,100.0
+India,Lakshadweep,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Lakshadweep,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2022-10-01,Solar,0.01,100.0,,0.0,100.0
-India,Lakshadweep,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Lakshadweep,2022-10-01,Solar,0.01,100.0,3.27,0.0,100.0
+India,Lakshadweep,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -8585,32 +8585,32 @@ India,Madhya Pradesh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-08-01,Other Renewables,2.27,0.02,0.0,0.09,0.0
 India,Madhya Pradesh,2022-08-01,Solar,234.28,1.93,2755.4,11.25,0.13
 India,Madhya Pradesh,2022-08-01,Wind,432.07,3.55,2519.89,4.75,0.06
-India,Madhya Pradesh,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Madhya Pradesh,2022-09-01,Bioenergy,0.0,0.0,131.75,0.0,0.0
 India,Madhya Pradesh,2022-09-01,Coal,10045.67,82.95,21950.0,8237.45,99.38
 India,Madhya Pradesh,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Madhya Pradesh,2022-09-01,Hydro,1433.49,11.84,2235.0,34.4,0.42
+India,Madhya Pradesh,2022-09-01,Hydro,1433.49,11.84,2334.71,34.4,0.42
 India,Madhya Pradesh,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-09-01,Other Renewables,2.1,0.02,,0.08,0.0
-India,Madhya Pradesh,2022-09-01,Solar,265.66,2.19,,12.75,0.15
-India,Madhya Pradesh,2022-09-01,Wind,363.77,3.0,,4.0,0.05
-India,Madhya Pradesh,2022-10-01,Bioenergy,0.02,0.0,,0.0,0.0
+India,Madhya Pradesh,2022-09-01,Solar,265.66,2.19,2762.14,12.75,0.15
+India,Madhya Pradesh,2022-09-01,Wind,363.77,3.0,2844.29,4.0,0.05
+India,Madhya Pradesh,2022-10-01,Bioenergy,0.02,0.0,131.75,0.0,0.0
 India,Madhya Pradesh,2022-10-01,Coal,9393.96,85.33,21950.0,7703.05,99.44
 India,Madhya Pradesh,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Madhya Pradesh,2022-10-01,Hydro,1052.07,9.56,2235.0,25.25,0.33
+India,Madhya Pradesh,2022-10-01,Hydro,1052.07,9.56,2334.71,25.25,0.33
 India,Madhya Pradesh,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-10-01,Other Renewables,3.42,0.03,,0.13,0.0
-India,Madhya Pradesh,2022-10-01,Solar,321.89,2.92,,15.45,0.2
-India,Madhya Pradesh,2022-10-01,Wind,236.98,2.15,,2.61,0.03
+India,Madhya Pradesh,2022-10-01,Solar,321.89,2.92,2762.14,15.45,0.2
+India,Madhya Pradesh,2022-10-01,Wind,236.98,2.15,2844.29,2.61,0.03
 India,Madhya Pradesh,2022-11-01,Bioenergy,3.39,0.03,131.75,0.78,0.01
 India,Madhya Pradesh,2022-11-01,Coal,11044.65,92.54,21950.0,9056.61,99.69
 India,Madhya Pradesh,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Madhya Pradesh,2022-11-01,Hydro,435.66,3.65,2334.71,10.46,0.12
+India,Madhya Pradesh,2022-11-01,Hydro,435.66,3.65,2358.71,10.46,0.12
 India,Madhya Pradesh,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Madhya Pradesh,2022-11-01,Other Renewables,2.9,0.02,,0.11,0.0
-India,Madhya Pradesh,2022-11-01,Solar,309.32,2.59,2762.14,14.85,0.16
+India,Madhya Pradesh,2022-11-01,Solar,309.32,2.59,2765.58,14.85,0.16
 India,Madhya Pradesh,2022-11-01,Wind,138.72,1.16,2844.29,1.53,0.02
 India,Maharashtra,2019-01-01,Bioenergy,819.55,6.48,,188.5,2.3
 India,Maharashtra,2019-01-01,Coal,9277.01,73.39,,7607.15,92.92
@@ -9008,24 +9008,24 @@ India,Maharashtra,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Maharashtra,2022-08-01,Other Renewables,0.07,0.0,0.0,0.0,0.0
 India,Maharashtra,2022-08-01,Solar,292.43,2.52,2935.9,14.04,0.2
 India,Maharashtra,2022-08-01,Wind,1101.84,9.51,5012.83,12.12,0.17
-India,Maharashtra,2022-09-01,Bioenergy,16.62,0.15,,3.82,0.05
+India,Maharashtra,2022-09-01,Bioenergy,16.62,0.15,2636.42,3.82,0.05
 India,Maharashtra,2022-09-01,Coal,9094.53,79.64,23856.0,7457.51,98.72
 India,Maharashtra,2022-09-01,Gas,102.76,0.9,3207.08,50.35,0.67
-India,Maharashtra,2022-09-01,Hydro,495.87,4.34,3047.0,11.9,0.16
+India,Maharashtra,2022-09-01,Hydro,495.87,4.34,3428.08,11.9,0.16
 India,Maharashtra,2022-09-01,Nuclear,780.81,6.84,1400.0,9.37,0.12
 India,Maharashtra,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Maharashtra,2022-09-01,Other Renewables,0.01,0.0,,0.0,0.0
-India,Maharashtra,2022-09-01,Solar,302.7,2.65,,14.53,0.19
-India,Maharashtra,2022-09-01,Wind,625.75,5.48,,6.88,0.09
-India,Maharashtra,2022-10-01,Bioenergy,101.88,0.94,,23.43,0.33
+India,Maharashtra,2022-09-01,Solar,302.7,2.65,3391.63,14.53,0.19
+India,Maharashtra,2022-09-01,Wind,625.75,5.48,5012.83,6.88,0.09
+India,Maharashtra,2022-10-01,Bioenergy,101.88,0.94,2636.42,23.43,0.33
 India,Maharashtra,2022-10-01,Coal,8624.11,79.82,23856.0,7071.77,98.11
 India,Maharashtra,2022-10-01,Gas,146.0,1.35,3207.08,71.54,0.99
-India,Maharashtra,2022-10-01,Hydro,402.57,3.73,3047.0,9.66,0.13
+India,Maharashtra,2022-10-01,Hydro,402.57,3.73,3428.08,9.66,0.13
 India,Maharashtra,2022-10-01,Nuclear,807.17,7.47,1400.0,9.69,0.13
 India,Maharashtra,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Maharashtra,2022-10-01,Other Renewables,0.02,0.0,,0.0,0.0
-India,Maharashtra,2022-10-01,Solar,386.56,3.58,,18.55,0.26
-India,Maharashtra,2022-10-01,Wind,335.51,3.11,,3.69,0.05
+India,Maharashtra,2022-10-01,Solar,386.56,3.58,3391.63,18.55,0.26
+India,Maharashtra,2022-10-01,Wind,335.51,3.11,5012.83,3.69,0.05
 India,Maharashtra,2022-11-01,Bioenergy,647.58,5.04,2636.42,148.94,1.72
 India,Maharashtra,2022-11-01,Coal,10255.37,79.75,23856.0,8409.4,97.21
 India,Maharashtra,2022-11-01,Gas,105.41,0.82,3207.08,51.65,0.6
@@ -9033,7 +9033,7 @@ India,Maharashtra,2022-11-01,Hydro,394.03,3.06,3428.08,9.46,0.11
 India,Maharashtra,2022-11-01,Nuclear,719.55,5.6,1400.0,8.63,0.1
 India,Maharashtra,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Maharashtra,2022-11-01,Other Renewables,0.02,0.0,,0.0,0.0
-India,Maharashtra,2022-11-01,Solar,391.45,3.04,3391.63,18.79,0.22
+India,Maharashtra,2022-11-01,Solar,391.45,3.04,3503.09,18.79,0.22
 India,Maharashtra,2022-11-01,Wind,346.61,2.7,5012.83,3.81,0.04
 India,Manipur,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Manipur,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -9431,24 +9431,24 @@ India,Manipur,2022-08-01,Other Fossil,0.0,0.0,36.0,0.0,0.0
 India,Manipur,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-08-01,Solar,0.74,0.95,12.28,0.04,1.89
 India,Manipur,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Manipur,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Manipur,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Manipur,2022-09-01,Hydro,54.95,98.65,105.0,1.32,97.33
+India,Manipur,2022-09-01,Hydro,54.95,98.65,110.45,1.32,97.33
 India,Manipur,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-09-01,Other Fossil,0.0,0.0,36.0,0.0,0.0
 India,Manipur,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Manipur,2022-09-01,Solar,0.75,1.35,,0.04,2.67
-India,Manipur,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Manipur,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Manipur,2022-09-01,Solar,0.75,1.35,12.28,0.04,2.67
+India,Manipur,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Manipur,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Manipur,2022-10-01,Hydro,40.07,98.17,105.0,0.96,96.41
+India,Manipur,2022-10-01,Hydro,40.07,98.17,110.45,0.96,96.41
 India,Manipur,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-10-01,Other Fossil,0.0,0.0,36.0,0.0,0.0
 India,Manipur,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Manipur,2022-10-01,Solar,0.75,1.83,,0.04,3.59
-India,Manipur,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Manipur,2022-10-01,Solar,0.75,1.83,12.28,0.04,3.59
+India,Manipur,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Manipur,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -9854,24 +9854,24 @@ India,Meghalaya,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-08-01,Solar,0.0,0.0,4.16,0.0,0.0
 India,Meghalaya,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Meghalaya,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Meghalaya,2022-09-01,Bioenergy,0.0,0.0,13.8,0.0,0.0
 India,Meghalaya,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Meghalaya,2022-09-01,Hydro,123.19,100.0,322.0,2.96,100.0
+India,Meghalaya,2022-09-01,Hydro,123.19,100.0,354.53,2.96,100.0
 India,Meghalaya,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Meghalaya,2022-09-01,Solar,0.0,0.0,,0.0,0.0
-India,Meghalaya,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Meghalaya,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Meghalaya,2022-09-01,Solar,0.0,0.0,4.15,0.0,0.0
+India,Meghalaya,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Meghalaya,2022-10-01,Bioenergy,0.0,0.0,13.8,0.0,0.0
 India,Meghalaya,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Meghalaya,2022-10-01,Hydro,103.59,100.0,322.0,2.49,100.0
+India,Meghalaya,2022-10-01,Hydro,103.59,100.0,354.53,2.49,100.0
 India,Meghalaya,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Meghalaya,2022-10-01,Solar,0.0,0.0,,0.0,0.0
-India,Meghalaya,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Meghalaya,2022-10-01,Solar,0.0,0.0,4.15,0.0,0.0
+India,Meghalaya,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-11-01,Bioenergy,0.0,0.0,13.8,0.0,0.0
 India,Meghalaya,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Meghalaya,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -10277,24 +10277,24 @@ India,Mizoram,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-08-01,Solar,0.23,0.57,8.02,0.01,1.13
 India,Mizoram,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Mizoram,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Mizoram,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Mizoram,2022-09-01,Hydro,35.3,99.25,60.0,0.85,98.52
+India,Mizoram,2022-09-01,Hydro,35.3,99.25,101.47,0.85,98.52
 India,Mizoram,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Mizoram,2022-09-01,Solar,0.27,0.75,,0.01,1.48
-India,Mizoram,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Mizoram,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Mizoram,2022-09-01,Solar,0.27,0.75,8.01,0.01,1.48
+India,Mizoram,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Mizoram,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Mizoram,2022-10-01,Hydro,43.85,99.4,60.0,1.05,98.8
+India,Mizoram,2022-10-01,Hydro,43.85,99.4,101.47,1.05,98.8
 India,Mizoram,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Mizoram,2022-10-01,Solar,0.27,0.6,,0.01,1.2
-India,Mizoram,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Mizoram,2022-10-01,Solar,0.27,0.6,8.01,0.01,1.2
+India,Mizoram,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Mizoram,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -10700,24 +10700,24 @@ India,Nagaland,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-08-01,Solar,0.0,0.0,3.04,0.0,0.0
 India,Nagaland,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Nagaland,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Nagaland,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Nagaland,2022-09-01,Hydro,44.06,100.0,75.0,1.06,100.0
+India,Nagaland,2022-09-01,Hydro,44.06,100.0,106.67,1.06,100.0
 India,Nagaland,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Nagaland,2022-09-01,Solar,0.0,0.0,,0.0,0.0
-India,Nagaland,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Nagaland,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Nagaland,2022-09-01,Solar,0.0,0.0,3.04,0.0,0.0
+India,Nagaland,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Nagaland,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Nagaland,2022-10-01,Hydro,36.38,100.0,75.0,0.87,100.0
+India,Nagaland,2022-10-01,Hydro,36.38,100.0,106.67,0.87,100.0
 India,Nagaland,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Nagaland,2022-10-01,Solar,0.0,0.0,,0.0,0.0
-India,Nagaland,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Nagaland,2022-10-01,Solar,0.0,0.0,3.04,0.0,0.0
+India,Nagaland,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Nagaland,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -11123,24 +11123,24 @@ India,Odisha,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-08-01,Solar,47.45,0.8,452.64,2.28,0.05
 India,Odisha,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Odisha,2022-09-01,Bioenergy,0.39,0.01,,0.09,0.0
+India,Odisha,2022-09-01,Bioenergy,0.39,0.01,59.22,0.09,0.0
 India,Odisha,2022-09-01,Coal,5075.14,83.8,9540.0,4161.61,99.4
 India,Odisha,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Odisha,2022-09-01,Hydro,926.81,15.3,2154.55,22.24,0.53
+India,Odisha,2022-09-01,Hydro,926.81,15.3,2270.18,22.24,0.53
 India,Odisha,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Odisha,2022-09-01,Solar,54.08,0.89,,2.6,0.06
-India,Odisha,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Odisha,2022-10-01,Bioenergy,7.93,0.12,,1.82,0.04
+India,Odisha,2022-09-01,Solar,54.08,0.89,452.67,2.6,0.06
+India,Odisha,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Odisha,2022-10-01,Bioenergy,7.93,0.12,59.22,1.82,0.04
 India,Odisha,2022-10-01,Coal,5553.57,85.82,9540.0,4553.93,99.45
 India,Odisha,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Odisha,2022-10-01,Hydro,850.74,13.15,2154.55,20.42,0.45
+India,Odisha,2022-10-01,Hydro,850.74,13.15,2270.18,20.42,0.45
 India,Odisha,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Odisha,2022-10-01,Solar,59.25,0.92,,2.84,0.06
-India,Odisha,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Odisha,2022-10-01,Solar,59.25,0.92,452.67,2.84,0.06
+India,Odisha,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-11-01,Bioenergy,7.21,0.13,59.22,1.66,0.04
 India,Odisha,2022-11-01,Coal,5057.48,90.52,9540.0,4147.13,99.62
 India,Odisha,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -11148,7 +11148,7 @@ India,Odisha,2022-11-01,Hydro,460.34,8.24,2270.18,11.05,0.27
 India,Odisha,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Odisha,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Odisha,2022-11-01,Solar,61.95,1.11,452.67,2.97,0.07
+India,Odisha,2022-11-01,Solar,61.95,1.11,452.72,2.97,0.07
 India,Odisha,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Others,2019-01-01,Bioenergy,0.0,,,0.0,
 India,Others,2019-01-01,Coal,0.0,,,0.0,
@@ -11942,24 +11942,24 @@ India,Puducherry,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-08-01,Solar,1.02,4.78,35.53,0.05,0.49
 India,Puducherry,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Puducherry,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Puducherry,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-09-01,Gas,19.91,95.13,32.5,9.76,99.5
 India,Puducherry,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Puducherry,2022-09-01,Solar,1.02,4.87,,0.05,0.5
-India,Puducherry,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Puducherry,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Puducherry,2022-09-01,Solar,1.02,4.87,35.53,0.05,0.5
+India,Puducherry,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Puducherry,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-10-01,Gas,21.66,95.5,32.5,10.61,99.54
 India,Puducherry,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Puducherry,2022-10-01,Solar,1.02,4.5,,0.05,0.46
-India,Puducherry,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Puducherry,2022-10-01,Solar,1.02,4.5,35.53,0.05,0.46
+India,Puducherry,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Puducherry,2022-11-01,Gas,21.01,95.37,32.5,10.29,99.53
@@ -12365,24 +12365,24 @@ India,Punjab,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-08-01,Solar,181.94,4.68,1124.53,8.73,0.35
 India,Punjab,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Punjab,2022-09-01,Bioenergy,13.28,0.41,,3.05,0.15
+India,Punjab,2022-09-01,Bioenergy,13.28,0.41,498.94,3.05,0.15
 India,Punjab,2022-09-01,Coal,2462.97,76.07,5680.0,2019.64,98.7
 India,Punjab,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Punjab,2022-09-01,Hydro,541.7,16.73,1096.3,13.0,0.64
+India,Punjab,2022-09-01,Hydro,541.7,16.73,1272.4,13.0,0.64
 India,Punjab,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Punjab,2022-09-01,Solar,219.73,6.79,,10.55,0.52
-India,Punjab,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Punjab,2022-10-01,Bioenergy,37.29,1.38,,8.58,0.52
+India,Punjab,2022-09-01,Solar,219.73,6.79,1127.07,10.55,0.52
+India,Punjab,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Punjab,2022-10-01,Bioenergy,37.29,1.38,498.94,8.58,0.52
 India,Punjab,2022-10-01,Coal,1956.17,72.61,5680.0,1604.06,98.03
 India,Punjab,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Punjab,2022-10-01,Hydro,416.98,15.48,1096.3,10.01,0.61
+India,Punjab,2022-10-01,Hydro,416.98,15.48,1272.4,10.01,0.61
 India,Punjab,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Punjab,2022-10-01,Solar,283.48,10.52,,13.61,0.83
-India,Punjab,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Punjab,2022-10-01,Solar,283.48,10.52,1127.07,13.61,0.83
+India,Punjab,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-11-01,Bioenergy,37.29,1.25,498.94,8.58,0.45
 India,Punjab,2022-11-01,Coal,2270.65,76.4,5680.0,1861.93,98.35
 India,Punjab,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -12390,7 +12390,7 @@ India,Punjab,2022-11-01,Hydro,380.82,12.81,1272.4,9.14,0.48
 India,Punjab,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Punjab,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Punjab,2022-11-01,Solar,283.48,9.54,1127.07,13.61,0.72
+India,Punjab,2022-11-01,Solar,283.48,9.54,1143.41,13.61,0.72
 India,Punjab,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2019-01-01,Bioenergy,31.43,0.49,,7.23,0.18
 India,Rajasthan,2019-01-01,Coal,4648.33,71.99,,3811.63,96.86
@@ -12788,24 +12788,24 @@ India,Rajasthan,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022-08-01,Solar,2555.92,31.5,14826.28,122.68,3.44
 India,Rajasthan,2022-08-01,Wind,548.23,6.76,4537.02,6.03,0.17
-India,Rajasthan,2022-09-01,Bioenergy,34.13,0.39,,7.85,0.2
+India,Rajasthan,2022-09-01,Bioenergy,34.13,0.39,125.08,7.85,0.2
 India,Rajasthan,2022-09-01,Coal,4497.43,50.82,10480.0,3687.89,94.04
 India,Rajasthan,2022-09-01,Gas,132.61,1.5,1022.83,64.98,1.66
-India,Rajasthan,2022-09-01,Hydro,95.99,1.08,411.0,2.3,0.06
+India,Rajasthan,2022-09-01,Hydro,95.99,1.08,434.85,2.3,0.06
 India,Rajasthan,2022-09-01,Nuclear,551.31,6.23,1180.0,6.62,0.17
 India,Rajasthan,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Rajasthan,2022-09-01,Solar,3049.9,34.46,,146.4,3.73
-India,Rajasthan,2022-09-01,Wind,488.82,5.52,,5.38,0.14
-India,Rajasthan,2022-10-01,Bioenergy,34.56,0.4,,7.95,0.21
+India,Rajasthan,2022-09-01,Solar,3049.9,34.46,15283.66,146.4,3.73
+India,Rajasthan,2022-09-01,Wind,488.82,5.52,4576.82,5.38,0.14
+India,Rajasthan,2022-10-01,Bioenergy,34.56,0.4,125.08,7.95,0.21
 India,Rajasthan,2022-10-01,Coal,4294.77,50.13,10480.0,3521.71,93.84
 India,Rajasthan,2022-10-01,Gas,119.83,1.4,1022.83,58.72,1.56
-India,Rajasthan,2022-10-01,Hydro,89.64,1.05,411.0,2.15,0.06
+India,Rajasthan,2022-10-01,Hydro,89.64,1.05,434.85,2.15,0.06
 India,Rajasthan,2022-10-01,Nuclear,615.14,7.18,1180.0,7.38,0.2
 India,Rajasthan,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Rajasthan,2022-10-01,Solar,3170.3,37.0,,152.17,4.05
-India,Rajasthan,2022-10-01,Wind,243.51,2.84,,2.68,0.07
+India,Rajasthan,2022-10-01,Solar,3170.3,37.0,15283.66,152.17,4.05
+India,Rajasthan,2022-10-01,Wind,243.51,2.84,4576.82,2.68,0.07
 India,Rajasthan,2022-11-01,Bioenergy,34.07,0.41,125.08,7.84,0.2
 India,Rajasthan,2022-11-01,Coal,4589.27,55.06,10480.0,3763.2,94.69
 India,Rajasthan,2022-11-01,Gas,122.73,1.47,1022.83,60.14,1.51
@@ -12813,8 +12813,8 @@ India,Rajasthan,2022-11-01,Hydro,126.03,1.51,434.85,3.02,0.08
 India,Rajasthan,2022-11-01,Nuclear,475.1,5.7,1180.0,5.7,0.14
 India,Rajasthan,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Rajasthan,2022-11-01,Solar,2739.45,32.87,15283.66,131.49,3.31
-India,Rajasthan,2022-11-01,Wind,248.47,2.98,4576.82,2.73,0.07
+India,Rajasthan,2022-11-01,Solar,2739.45,32.87,15626.04,131.49,3.31
+India,Rajasthan,2022-11-01,Wind,248.47,2.98,4681.82,2.73,0.07
 India,Sikkim,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Sikkim,2019-01-01,Coal,0.0,0.0,,0.0,0.0
 India,Sikkim,2019-01-01,Gas,0.0,0.0,,0.0,0.0
@@ -13211,24 +13211,24 @@ India,Sikkim,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-08-01,Solar,0.0,0.0,4.69,0.0,0.0
 India,Sikkim,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Sikkim,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Sikkim,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Sikkim,2022-09-01,Hydro,1655.13,100.0,2282.0,39.72,100.0
+India,Sikkim,2022-09-01,Hydro,1655.13,100.0,2337.11,39.72,100.0
 India,Sikkim,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Sikkim,2022-09-01,Solar,0.0,0.0,,0.0,0.0
-India,Sikkim,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Sikkim,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Sikkim,2022-09-01,Solar,0.0,0.0,4.68,0.0,0.0
+India,Sikkim,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Sikkim,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Sikkim,2022-10-01,Hydro,1351.59,100.0,2282.0,32.44,100.0
+India,Sikkim,2022-10-01,Hydro,1351.59,100.0,2337.11,32.44,100.0
 India,Sikkim,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Sikkim,2022-10-01,Solar,0.0,0.0,,0.0,0.0
-India,Sikkim,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Sikkim,2022-10-01,Solar,0.0,0.0,4.68,0.0,0.0
+India,Sikkim,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -13634,24 +13634,24 @@ India,Tamil Nadu,2022-08-01,Other Fossil,0.0,0.0,211.7,0.0,0.0
 India,Tamil Nadu,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Tamil Nadu,2022-08-01,Solar,760.95,7.34,5852.43,36.53,0.83
 India,Tamil Nadu,2022-08-01,Wind,2552.87,24.62,9873.92,28.08,0.64
-India,Tamil Nadu,2022-09-01,Bioenergy,72.3,0.71,,16.63,0.39
+India,Tamil Nadu,2022-09-01,Bioenergy,72.3,0.71,1042.7,16.63,0.39
 India,Tamil Nadu,2022-09-01,Coal,5026.29,49.42,13685.0,4121.56,95.71
 India,Tamil Nadu,2022-09-01,Gas,147.21,1.45,1017.18,72.13,1.68
-India,Tamil Nadu,2022-09-01,Hydro,754.82,7.42,2178.2,18.12,0.42
+India,Tamil Nadu,2022-09-01,Hydro,754.82,7.42,2301.25,18.12,0.42
 India,Tamil Nadu,2022-09-01,Nuclear,983.68,9.67,2440.0,11.8,0.27
 India,Tamil Nadu,2022-09-01,Other Fossil,0.0,0.0,211.7,0.0,0.0
 India,Tamil Nadu,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tamil Nadu,2022-09-01,Solar,839.18,8.25,,40.28,0.94
-India,Tamil Nadu,2022-09-01,Wind,2346.68,23.07,,25.81,0.6
-India,Tamil Nadu,2022-10-01,Bioenergy,51.96,0.58,,11.95,0.28
+India,Tamil Nadu,2022-09-01,Solar,839.18,8.25,6233.36,40.28,0.94
+India,Tamil Nadu,2022-09-01,Wind,2346.68,23.07,9873.92,25.81,0.6
+India,Tamil Nadu,2022-10-01,Bioenergy,51.96,0.58,1042.7,11.95,0.28
 India,Tamil Nadu,2022-10-01,Coal,4907.78,54.31,13685.0,4024.38,95.83
 India,Tamil Nadu,2022-10-01,Gas,169.21,1.87,1017.18,82.91,1.97
-India,Tamil Nadu,2022-10-01,Hydro,610.58,6.76,2178.2,14.65,0.35
+India,Tamil Nadu,2022-10-01,Hydro,610.58,6.76,2301.25,14.65,0.35
 India,Tamil Nadu,2022-10-01,Nuclear,1618.67,17.91,2440.0,19.42,0.46
 India,Tamil Nadu,2022-10-01,Other Fossil,0.0,0.0,211.7,0.0,0.0
 India,Tamil Nadu,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tamil Nadu,2022-10-01,Solar,754.98,8.36,,36.24,0.86
-India,Tamil Nadu,2022-10-01,Wind,923.09,10.22,,10.15,0.24
+India,Tamil Nadu,2022-10-01,Solar,754.98,8.36,6233.36,36.24,0.86
+India,Tamil Nadu,2022-10-01,Wind,923.09,10.22,9873.92,10.15,0.24
 India,Tamil Nadu,2022-11-01,Bioenergy,52.94,0.64,1042.7,12.18,0.29
 India,Tamil Nadu,2022-11-01,Coal,4950.24,60.11,13685.0,4059.2,96.72
 India,Tamil Nadu,2022-11-01,Gas,115.0,1.4,1017.18,56.35,1.34
@@ -13659,8 +13659,8 @@ India,Tamil Nadu,2022-11-01,Hydro,658.96,8.0,2301.25,15.82,0.38
 India,Tamil Nadu,2022-11-01,Nuclear,1557.5,18.91,2440.0,18.69,0.45
 India,Tamil Nadu,2022-11-01,Other Fossil,0.0,0.0,211.7,0.0,0.0
 India,Tamil Nadu,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tamil Nadu,2022-11-01,Solar,663.17,8.05,6233.36,31.83,0.76
-India,Tamil Nadu,2022-11-01,Wind,237.39,2.88,9873.92,2.61,0.06
+India,Tamil Nadu,2022-11-01,Solar,663.17,8.05,6333.46,31.83,0.76
+India,Tamil Nadu,2022-11-01,Wind,237.39,2.88,9936.02,2.61,0.06
 India,Telangana,2019-01-01,Bioenergy,43.3,0.89,,9.96,0.29
 India,Telangana,2019-01-01,Coal,4159.77,85.59,,3411.01,98.87
 India,Telangana,2019-01-01,Gas,0.0,0.0,,0.0,0.0
@@ -14057,24 +14057,24 @@ India,Telangana,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-08-01,Other Renewables,11.89,0.22,0.0,0.45,0.02
 India,Telangana,2022-08-01,Solar,500.5,9.19,4630.1,24.02,0.81
 India,Telangana,2022-08-01,Wind,34.54,0.63,128.1,0.38,0.01
-India,Telangana,2022-09-01,Bioenergy,2.16,0.04,,0.5,0.02
+India,Telangana,2022-09-01,Bioenergy,2.16,0.04,219.74,0.5,0.02
 India,Telangana,2022-09-01,Coal,3934.6,67.74,7842.5,3226.37,98.27
 India,Telangana,2022-09-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Telangana,2022-09-01,Hydro,1364.68,23.49,2405.6,32.75,1.0
+India,Telangana,2022-09-01,Hydro,1364.68,23.49,2496.47,32.75,1.0
 India,Telangana,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-09-01,Other Renewables,6.81,0.12,,0.26,0.01
-India,Telangana,2022-09-01,Solar,478.56,8.24,,22.97,0.7
-India,Telangana,2022-09-01,Wind,21.65,0.37,,0.24,0.01
-India,Telangana,2022-10-01,Bioenergy,0.32,0.01,,0.07,0.0
+India,Telangana,2022-09-01,Solar,478.56,8.24,4637.39,22.97,0.7
+India,Telangana,2022-09-01,Wind,21.65,0.37,128.1,0.24,0.01
+India,Telangana,2022-10-01,Bioenergy,0.32,0.01,219.74,0.07,0.0
 India,Telangana,2022-10-01,Coal,4095.61,66.78,7842.5,3358.4,98.19
 India,Telangana,2022-10-01,Gas,0.0,0.0,0.0,0.0,0.0
-India,Telangana,2022-10-01,Hydro,1466.31,23.91,2405.6,35.19,1.03
+India,Telangana,2022-10-01,Hydro,1466.31,23.91,2496.47,35.19,1.03
 India,Telangana,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-10-01,Other Renewables,15.1,0.25,,0.57,0.02
-India,Telangana,2022-10-01,Solar,540.86,8.82,,25.96,0.76
-India,Telangana,2022-10-01,Wind,14.71,0.24,,0.16,0.0
+India,Telangana,2022-10-01,Solar,540.86,8.82,4637.39,25.96,0.76
+India,Telangana,2022-10-01,Wind,14.71,0.24,128.1,0.16,0.0
 India,Telangana,2022-11-01,Bioenergy,17.75,0.34,219.74,4.08,0.12
 India,Telangana,2022-11-01,Coal,4050.74,77.19,7842.5,3321.61,98.64
 India,Telangana,2022-11-01,Gas,0.0,0.0,0.0,0.0,0.0
@@ -14082,7 +14082,7 @@ India,Telangana,2022-11-01,Hydro,594.3,11.32,2496.47,14.26,0.42
 India,Telangana,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2022-11-01,Other Renewables,11.76,0.22,,0.45,0.01
-India,Telangana,2022-11-01,Solar,555.29,10.58,4637.39,26.65,0.79
+India,Telangana,2022-11-01,Solar,555.29,10.58,4640.02,26.65,0.79
 India,Telangana,2022-11-01,Wind,18.18,0.35,128.1,0.2,0.01
 India,Tripura,2019-01-01,Bioenergy,0.0,0.0,,0.0,0.0
 India,Tripura,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -14480,24 +14480,24 @@ India,Tripura,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-08-01,Solar,0.56,0.09,16.15,0.03,0.01
 India,Tripura,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Tripura,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Tripura,2022-09-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-09-01,Gas,607.38,99.92,1067.6,297.62,99.99
-India,Tripura,2022-09-01,Hydro,0.0,0.0,0.0,0.0,0.0
+India,Tripura,2022-09-01,Hydro,0.0,0.0,16.01,0.0,0.0
 India,Tripura,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tripura,2022-09-01,Solar,0.51,0.08,,0.02,0.01
-India,Tripura,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Tripura,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,Tripura,2022-09-01,Solar,0.51,0.08,16.26,0.02,0.01
+India,Tripura,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Tripura,2022-10-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-10-01,Gas,609.36,99.89,1067.6,298.59,99.99
-India,Tripura,2022-10-01,Hydro,0.0,0.0,0.0,0.0,0.0
+India,Tripura,2022-10-01,Hydro,0.0,0.0,16.01,0.0,0.0
 India,Tripura,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tripura,2022-10-01,Solar,0.64,0.11,,0.03,0.01
-India,Tripura,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Tripura,2022-10-01,Solar,0.64,0.11,16.26,0.03,0.01
+India,Tripura,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-11-01,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-11-01,Gas,604.23,99.89,1067.6,296.07,99.99
@@ -14505,7 +14505,7 @@ India,Tripura,2022-11-01,Hydro,0.0,0.0,16.01,0.0,0.0
 India,Tripura,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2022-11-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Tripura,2022-11-01,Solar,0.64,0.11,16.26,0.03,0.01
+India,Tripura,2022-11-01,Solar,0.64,0.11,16.3,0.03,0.01
 India,Tripura,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2019-01-01,Bioenergy,684.85,6.38,,157.52,1.96
 India,Uttar Pradesh,2019-01-01,Coal,9580.54,89.3,,7856.04,97.61
@@ -14903,24 +14903,24 @@ India,Uttar Pradesh,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2022-08-01,Other Renewables,7.53,0.05,0.0,0.29,0.0
 India,Uttar Pradesh,2022-08-01,Solar,276.98,1.95,2244.78,13.3,0.12
 India,Uttar Pradesh,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Uttar Pradesh,2022-09-01,Bioenergy,3.74,0.03,,0.86,0.01
+India,Uttar Pradesh,2022-09-01,Bioenergy,3.74,0.03,2192.89,0.86,0.01
 India,Uttar Pradesh,2022-09-01,Coal,12445.83,94.61,24389.0,10205.58,99.63
 India,Uttar Pradesh,2022-09-01,Gas,36.64,0.28,1493.14,17.95,0.18
-India,Uttar Pradesh,2022-09-01,Hydro,127.71,0.97,501.6,3.07,0.03
+India,Uttar Pradesh,2022-09-01,Hydro,127.71,0.97,550.7,3.07,0.03
 India,Uttar Pradesh,2022-09-01,Nuclear,261.69,1.99,440.0,3.14,0.03
 India,Uttar Pradesh,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2022-09-01,Other Renewables,5.59,0.04,,0.21,0.0
-India,Uttar Pradesh,2022-09-01,Solar,273.12,2.08,,13.11,0.13
-India,Uttar Pradesh,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Uttar Pradesh,2022-10-01,Bioenergy,14.95,0.12,,3.44,0.04
+India,Uttar Pradesh,2022-09-01,Solar,273.12,2.08,2264.78,13.11,0.13
+India,Uttar Pradesh,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Uttar Pradesh,2022-10-01,Bioenergy,14.95,0.12,2192.89,3.44,0.04
 India,Uttar Pradesh,2022-10-01,Coal,11188.06,93.5,24389.0,9174.21,99.53
 India,Uttar Pradesh,2022-10-01,Gas,38.68,0.32,1493.14,18.95,0.21
-India,Uttar Pradesh,2022-10-01,Hydro,115.43,0.96,501.6,2.77,0.03
+India,Uttar Pradesh,2022-10-01,Hydro,115.43,0.96,550.7,2.77,0.03
 India,Uttar Pradesh,2022-10-01,Nuclear,300.22,2.51,440.0,3.6,0.04
 India,Uttar Pradesh,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2022-10-01,Other Renewables,3.07,0.03,,0.12,0.0
-India,Uttar Pradesh,2022-10-01,Solar,305.79,2.56,,14.68,0.16
-India,Uttar Pradesh,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Uttar Pradesh,2022-10-01,Solar,305.79,2.56,2264.78,14.68,0.16
+India,Uttar Pradesh,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2022-11-01,Bioenergy,363.31,3.03,2192.89,83.56,0.92
 India,Uttar Pradesh,2022-11-01,Coal,10932.7,91.08,24295.0,8964.81,98.6
 India,Uttar Pradesh,2022-11-01,Gas,50.12,0.42,1493.14,24.56,0.27
@@ -14928,7 +14928,7 @@ India,Uttar Pradesh,2022-11-01,Hydro,53.15,0.44,550.7,1.28,0.01
 India,Uttar Pradesh,2022-11-01,Nuclear,308.06,2.57,440.0,3.7,0.04
 India,Uttar Pradesh,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttar Pradesh,2022-11-01,Other Renewables,4.78,0.04,,0.18,0.0
-India,Uttar Pradesh,2022-11-01,Solar,291.58,2.43,2264.78,14.0,0.15
+India,Uttar Pradesh,2022-11-01,Solar,291.58,2.43,2467.78,14.0,0.15
 India,Uttar Pradesh,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2019-01-01,Bioenergy,24.32,2.43,,5.59,5.97
 India,Uttarakhand,2019-01-01,Coal,0.0,0.0,,0.0,0.0
@@ -15326,24 +15326,24 @@ India,Uttarakhand,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-08-01,Other Renewables,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-08-01,Solar,27.65,1.22,575.43,1.33,2.24
 India,Uttarakhand,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,Uttarakhand,2022-09-01,Bioenergy,20.71,0.92,,4.76,8.05
+India,Uttarakhand,2022-09-01,Bioenergy,20.71,0.92,139.44,4.76,8.05
 India,Uttarakhand,2022-09-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-09-01,Gas,0.0,0.0,450.0,0.0,0.0
-India,Uttarakhand,2022-09-01,Hydro,2212.81,97.86,3975.35,53.11,89.71
+India,Uttarakhand,2022-09-01,Hydro,2212.81,97.86,4194.17,53.11,89.71
 India,Uttarakhand,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-09-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Uttarakhand,2022-09-01,Solar,27.65,1.22,,1.33,2.24
-India,Uttarakhand,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,Uttarakhand,2022-10-01,Bioenergy,20.71,1.33,,4.76,11.3
+India,Uttarakhand,2022-09-01,Solar,27.65,1.22,575.45,1.33,2.24
+India,Uttarakhand,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,Uttarakhand,2022-10-01,Bioenergy,20.71,1.33,139.44,4.76,11.3
 India,Uttarakhand,2022-10-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-10-01,Gas,0.0,0.0,450.0,0.0,0.0
-India,Uttarakhand,2022-10-01,Hydro,1503.11,96.88,3975.35,36.07,85.56
+India,Uttarakhand,2022-10-01,Hydro,1503.11,96.88,4194.17,36.07,85.56
 India,Uttarakhand,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-10-01,Other Renewables,0.0,0.0,,0.0,0.0
-India,Uttarakhand,2022-10-01,Solar,27.65,1.78,,1.33,3.15
-India,Uttarakhand,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,Uttarakhand,2022-10-01,Solar,27.65,1.78,575.45,1.33,3.15
+India,Uttarakhand,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-11-01,Bioenergy,20.71,2.2,139.44,4.76,17.31
 India,Uttarakhand,2022-11-01,Coal,0.0,0.0,0.0,0.0,0.0
 India,Uttarakhand,2022-11-01,Gas,0.0,0.0,450.0,0.0,0.0
@@ -15749,24 +15749,24 @@ India,West Bengal,2022-08-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-08-01,Other Renewables,137.38,1.85,0.0,5.22,0.09
 India,West Bengal,2022-08-01,Solar,9.21,0.12,176.02,0.44,0.01
 India,West Bengal,2022-08-01,Wind,0.0,0.0,0.0,0.0,0.0
-India,West Bengal,2022-09-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,West Bengal,2022-09-01,Bioenergy,0.0,0.0,323.7,0.0,0.0
 India,West Bengal,2022-09-01,Coal,6682.66,92.22,13697.0,5479.78,99.71
 India,West Bengal,2022-09-01,Gas,0.0,0.0,80.0,0.0,0.0
-India,West Bengal,2022-09-01,Hydro,418.07,5.77,1341.2,10.03,0.18
+India,West Bengal,2022-09-01,Hydro,418.07,5.77,1439.7,10.03,0.18
 India,West Bengal,2022-09-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-09-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-09-01,Other Renewables,136.7,1.89,,5.19,0.09
-India,West Bengal,2022-09-01,Solar,9.13,0.13,,0.44,0.01
-India,West Bengal,2022-09-01,Wind,0.0,0.0,,0.0,0.0
-India,West Bengal,2022-10-01,Bioenergy,0.0,0.0,,0.0,0.0
+India,West Bengal,2022-09-01,Solar,9.13,0.13,176.03,0.44,0.01
+India,West Bengal,2022-09-01,Wind,0.0,0.0,0.0,0.0,0.0
+India,West Bengal,2022-10-01,Bioenergy,0.0,0.0,323.7,0.0,0.0
 India,West Bengal,2022-10-01,Coal,6999.45,92.59,13697.0,5739.55,99.73
 India,West Bengal,2022-10-01,Gas,0.0,0.0,80.0,0.0,0.0
-India,West Bengal,2022-10-01,Hydro,400.96,5.3,1341.2,9.62,0.17
+India,West Bengal,2022-10-01,Hydro,400.96,5.3,1439.7,9.62,0.17
 India,West Bengal,2022-10-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-10-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-10-01,Other Renewables,148.16,1.96,,5.63,0.1
-India,West Bengal,2022-10-01,Solar,10.87,0.14,,0.52,0.01
-India,West Bengal,2022-10-01,Wind,0.0,0.0,,0.0,0.0
+India,West Bengal,2022-10-01,Solar,10.87,0.14,176.03,0.52,0.01
+India,West Bengal,2022-10-01,Wind,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-11-01,Bioenergy,0.0,0.0,323.7,0.0,0.0
 India,West Bengal,2022-11-01,Coal,7023.65,94.61,13697.0,5759.39,99.8
 India,West Bengal,2022-11-01,Gas,0.0,0.0,80.0,0.0,0.0
@@ -15774,5 +15774,5 @@ India,West Bengal,2022-11-01,Hydro,250.86,3.38,1439.7,6.02,0.1
 India,West Bengal,2022-11-01,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-11-01,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,West Bengal,2022-11-01,Other Renewables,137.86,1.86,,5.24,0.09
-India,West Bengal,2022-11-01,Solar,11.22,0.15,176.03,0.54,0.01
+India,West Bengal,2022-11-01,Solar,11.22,0.15,179.83,0.54,0.01
 India,West Bengal,2022-11-01,Wind,0.0,0.0,0.0,0.0,0.0
