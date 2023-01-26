@@ -146,14 +146,14 @@ United States,Alabama,2020,Nuclear,43550.65,31.66,522.61,1.12
 United States,Alabama,2020,Other Fossil,13.22,0.01,9.25,0.02
 United States,Alabama,2020,Other Renewables,0.0,0.0,0.0,0.0
 United States,Alabama,2020,Solar,383.58,0.28,18.41,0.04
-United States,Alabama,2021,Bioenergy,3185.48,2.23,732.66,1.46
-United States,Alabama,2021,Coal,26906.98,18.82,22063.72,44.09
-United States,Alabama,2021,Gas,53786.7,37.62,26355.48,52.66
-United States,Alabama,2021,Hydro,12517.7,8.76,300.42,0.6
-United States,Alabama,2021,Nuclear,46036.49,32.2,552.44,1.1
-United States,Alabama,2021,Other Fossil,25.21,0.02,17.65,0.04
+United States,Alabama,2021,Bioenergy,3311.25,2.32,761.59,1.51
+United States,Alabama,2021,Coal,26900.91,18.84,22058.75,43.79
+United States,Alabama,2021,Gas,54447.88,38.14,26679.46,52.97
+United States,Alabama,2021,Hydro,11520.81,8.07,276.5,0.55
+United States,Alabama,2021,Nuclear,46036.49,32.25,552.44,1.1
+United States,Alabama,2021,Other Fossil,22.01,0.02,15.41,0.03
 United States,Alabama,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,Alabama,2021,Solar,512.49,0.36,24.6,0.05
+United States,Alabama,2021,Solar,512.63,0.36,24.61,0.05
 United States,Alaska,2001,Coal,564.59,8.37,462.97,15.13
 United States,Alaska,2001,Gas,3895.57,57.77,1908.83,62.38
 United States,Alaska,2001,Hydro,1345.67,19.95,32.3,1.06
@@ -295,14 +295,14 @@ United States,Alaska,2020,Other Fossil,982.35,15.63,687.64,26.18
 United States,Alaska,2020,Other Renewables,0.12,0.0,0.0,0.0
 United States,Alaska,2020,Solar,6.72,0.11,0.32,0.01
 United States,Alaska,2020,Wind,128.53,2.05,1.41,0.05
-United States,Alaska,2021,Bioenergy,38.19,0.64,8.78,0.35
-United States,Alaska,2021,Coal,812.44,13.64,666.2,26.34
-United States,Alaska,2021,Gas,2438.64,40.95,1194.93,47.25
-United States,Alaska,2021,Hydro,1645.18,27.63,39.48,1.56
-United States,Alaska,2021,Other Fossil,882.02,14.81,617.41,24.42
+United States,Alaska,2021,Bioenergy,38.07,0.58,8.76,0.31
+United States,Alaska,2021,Coal,752.89,11.39,617.37,21.98
+United States,Alaska,2021,Gas,3085.4,46.69,1511.84,53.81
+United States,Alaska,2021,Hydro,1688.9,25.56,40.53,1.44
+United States,Alaska,2021,Other Fossil,898.34,13.59,628.84,22.38
 United States,Alaska,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,Alaska,2021,Solar,11.72,0.2,0.56,0.02
-United States,Alaska,2021,Wind,127.07,2.13,1.4,0.06
+United States,Alaska,2021,Solar,12.25,0.19,0.59,0.02
+United States,Alaska,2021,Wind,132.21,2.0,1.45,0.05
 United States,Arizona,2001,Bioenergy,38.95,0.04,8.96,0.02
 United States,Arizona,2001,Coal,40061.49,44.55,32850.42,82.29
 United States,Arizona,2001,Gas,12872.2,14.32,6307.38,15.8
@@ -469,13 +469,13 @@ United States,Arizona,2020,Nuclear,31552.43,28.12,378.63,1.02
 United States,Arizona,2020,Other Fossil,37.51,0.03,26.26,0.07
 United States,Arizona,2020,Solar,8749.49,7.8,419.98,1.13
 United States,Arizona,2020,Wind,644.16,0.57,7.09,0.02
-United States,Arizona,2021,Bioenergy,260.65,0.23,59.95,0.16
-United States,Arizona,2021,Coal,14300.57,12.77,11726.47,32.18
-United States,Arizona,2021,Gas,48186.47,43.04,23611.37,64.79
-United States,Arizona,2021,Hydro,5908.34,5.28,141.8,0.39
+United States,Arizona,2021,Bioenergy,210.12,0.19,48.33,0.13
+United States,Arizona,2021,Coal,14300.57,12.77,11726.47,32.24
+United States,Arizona,2021,Gas,48053.13,42.91,23546.04,64.74
+United States,Arizona,2021,Hydro,6063.75,5.42,145.53,0.4
 United States,Arizona,2021,Nuclear,31629.86,28.25,379.56,1.04
-United States,Arizona,2021,Other Fossil,36.29,0.03,25.41,0.07
-United States,Arizona,2021,Solar,10041.76,8.97,482.0,1.32
+United States,Arizona,2021,Other Fossil,35.99,0.03,25.19,0.07
+United States,Arizona,2021,Solar,10081.49,9.0,483.91,1.33
 United States,Arizona,2021,Wind,1600.32,1.43,17.6,0.05
 United States,Arkansas,2001,Bioenergy,1512.0,3.2,347.76,1.52
 United States,Arkansas,2001,Coal,24764.47,52.47,20306.87,88.93
@@ -624,14 +624,14 @@ United States,Arkansas,2020,Nuclear,15063.05,27.52,180.76,0.82
 United States,Arkansas,2020,Other Fossil,48.6,0.09,34.02,0.15
 United States,Arkansas,2020,Other Renewables,16.97,0.03,0.64,0.0
 United States,Arkansas,2020,Solar,358.39,0.65,17.2,0.08
-United States,Arkansas,2021,Bioenergy,991.68,1.64,228.09,0.83
-United States,Arkansas,2021,Coal,21418.88,35.47,17563.48,63.62
-United States,Arkansas,2021,Gas,19341.56,32.03,9477.37,34.33
-United States,Arkansas,2021,Hydro,4401.42,7.29,105.63,0.38
-United States,Arkansas,2021,Nuclear,13555.68,22.45,162.67,0.59
-United States,Arkansas,2021,Other Fossil,58.36,0.1,40.85,0.15
-United States,Arkansas,2021,Other Renewables,28.63,0.05,1.09,0.0
-United States,Arkansas,2021,Solar,593.44,0.98,28.48,0.1
+United States,Arkansas,2021,Bioenergy,858.6,1.4,197.48,0.7
+United States,Arkansas,2021,Coal,21418.88,34.96,17563.48,62.27
+United States,Arkansas,2021,Gas,20629.13,33.67,10108.28,35.84
+United States,Arkansas,2021,Hydro,4112.38,6.71,98.7,0.35
+United States,Arkansas,2021,Nuclear,13555.68,22.12,162.67,0.58
+United States,Arkansas,2021,Other Fossil,63.1,0.1,44.17,0.16
+United States,Arkansas,2021,Other Renewables,4.47,0.01,0.17,0.0
+United States,Arkansas,2021,Solar,631.06,1.03,30.29,0.11
 United States,California,2001,Bioenergy,5406.31,2.75,1243.45,2.04
 United States,California,2001,Coal,2232.85,1.14,1830.94,3.0
 United States,California,2001,Gas,111932.27,57.01,54846.81,89.87
@@ -810,15 +810,15 @@ United States,California,2020,Other Fossil,2276.55,1.08,1593.59,3.07
 United States,California,2020,Other Renewables,12130.06,5.74,460.94,0.89
 United States,California,2020,Solar,47679.88,22.57,2288.63,4.41
 United States,California,2020,Wind,13583.09,6.43,149.41,0.29
-United States,California,2021,Bioenergy,5798.69,2.67,1333.7,2.47
-United States,California,2021,Coal,294.15,0.14,241.21,0.45
-United States,California,2021,Gas,96490.05,44.41,47280.12,87.41
-United States,California,2021,Hydro,14241.98,6.55,341.81,0.63
-United States,California,2021,Nuclear,16477.37,7.58,197.73,0.37
-United States,California,2021,Other Fossil,2093.5,0.96,1465.45,2.71
-United States,California,2021,Other Renewables,12161.78,5.6,462.15,0.85
-United States,California,2021,Solar,54087.21,24.89,2596.19,4.8
-United States,California,2021,Wind,15625.51,7.19,171.88,0.32
+United States,California,2021,Bioenergy,5416.06,2.49,1245.69,2.29
+United States,California,2021,Coal,294.15,0.14,241.21,0.44
+United States,California,2021,Gas,97427.09,44.73,47739.28,87.71
+United States,California,2021,Hydro,14360.15,6.59,344.64,0.63
+United States,California,2021,Nuclear,16477.37,7.57,197.73,0.36
+United States,California,2021,Other Fossil,2021.81,0.93,1415.27,2.6
+United States,California,2021,Other Renewables,11918.52,5.47,452.9,0.83
+United States,California,2021,Solar,54712.48,25.12,2626.2,4.82
+United States,California,2021,Wind,15177.01,6.97,166.95,0.31
 United States,Colorado,2001,Bioenergy,64.2,0.14,14.77,0.04
 United States,Colorado,2001,Coal,35951.03,76.59,29479.84,86.07
 United States,Colorado,2001,Gas,9391.79,20.01,4601.98,13.44
@@ -973,14 +973,14 @@ United States,Colorado,2020,Other Fossil,-108.31,-0.2,-75.81,-0.3
 United States,Colorado,2020,Other Renewables,33.01,0.06,1.25,0.0
 United States,Colorado,2020,Solar,2204.38,4.02,105.81,0.42
 United States,Colorado,2020,Wind,13386.23,24.41,147.25,0.59
-United States,Colorado,2021,Bioenergy,174.91,0.3,40.23,0.15
-United States,Colorado,2021,Coal,23602.04,40.83,19353.67,71.98
-United States,Colorado,2021,Gas,14469.5,25.03,7090.06,26.37
-United States,Colorado,2021,Hydro,1614.21,2.79,38.74,0.14
-United States,Colorado,2021,Other Fossil,92.29,0.16,64.61,0.24
+United States,Colorado,2021,Bioenergy,169.08,0.29,38.89,0.14
+United States,Colorado,2021,Coal,23602.04,40.74,19353.67,71.87
+United States,Colorado,2021,Gas,14559.77,25.13,7134.29,26.49
+United States,Colorado,2021,Hydro,1562.81,2.7,37.51,0.14
+United States,Colorado,2021,Other Fossil,89.12,0.15,62.38,0.23
 United States,Colorado,2021,Other Renewables,35.98,0.06,1.37,0.01
-United States,Colorado,2021,Solar,2789.89,4.83,133.91,0.5
-United States,Colorado,2021,Wind,15029.26,26.0,165.32,0.61
+United States,Colorado,2021,Solar,2786.11,4.81,133.73,0.5
+United States,Colorado,2021,Wind,15125.7,26.11,166.38,0.62
 United States,Connecticut,2001,Bioenergy,908.92,2.98,209.05,2.16
 United States,Connecticut,2001,Coal,3735.78,12.25,3063.34,31.59
 United States,Connecticut,2001,Gas,4088.23,13.41,2003.23,20.66
@@ -1126,14 +1126,14 @@ United States,Connecticut,2020,Other Fossil,623.09,1.49,436.17,3.52
 United States,Connecticut,2020,Other Renewables,0.71,0.0,0.03,0.0
 United States,Connecticut,2020,Solar,948.84,2.26,45.54,0.37
 United States,Connecticut,2020,Wind,12.18,0.03,0.13,0.0
-United States,Connecticut,2021,Bioenergy,823.98,1.83,189.52,1.44
+United States,Connecticut,2021,Bioenergy,756.85,1.68,174.08,1.33
 United States,Connecticut,2021,Coal,244.65,0.54,200.61,1.53
-United States,Connecticut,2021,Gas,24545.16,54.56,12027.13,91.44
-United States,Connecticut,2021,Hydro,324.13,0.72,7.78,0.06
-United States,Connecticut,2021,Nuclear,17216.51,38.27,206.6,1.57
-United States,Connecticut,2021,Other Fossil,666.76,1.48,466.73,3.55
-United States,Connecticut,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,Connecticut,2021,Solar,1149.53,2.56,55.18,0.42
+United States,Connecticut,2021,Gas,24488.9,54.49,11999.56,91.75
+United States,Connecticut,2021,Hydro,478.0,1.06,11.47,0.09
+United States,Connecticut,2021,Nuclear,17216.51,38.31,206.6,1.58
+United States,Connecticut,2021,Other Fossil,617.08,1.37,431.96,3.3
+United States,Connecticut,2021,Other Renewables,0.53,0.0,0.02,0.0
+United States,Connecticut,2021,Solar,1128.64,2.51,54.17,0.41
 United States,Connecticut,2021,Wind,12.76,0.03,0.14,0.0
 United States,Delaware,2001,Coal,3368.51,49.66,2762.18,57.29
 United States,Delaware,2001,Gas,1575.49,23.23,771.99,16.01
@@ -1238,12 +1238,12 @@ United States,Delaware,2020,Gas,4818.09,90.33,2360.87,91.59
 United States,Delaware,2020,Other Fossil,153.61,2.88,107.53,4.17
 United States,Delaware,2020,Solar,182.61,3.42,8.77,0.34
 United States,Delaware,2020,Wind,5.18,0.1,0.06,0.0
-United States,Delaware,2021,Bioenergy,71.04,1.7,16.34,0.79
-United States,Delaware,2021,Coal,276.73,6.62,226.92,11.0
-United States,Delaware,2021,Gas,3464.85,82.89,1697.77,82.28
-United States,Delaware,2021,Other Fossil,160.99,3.85,112.69,5.46
-United States,Delaware,2021,Solar,201.77,4.83,9.68,0.47
-United States,Delaware,2021,Wind,4.85,0.12,0.05,0.0
+United States,Delaware,2021,Bioenergy,73.65,1.66,16.94,0.77
+United States,Delaware,2021,Coal,276.73,6.23,226.92,10.34
+United States,Delaware,2021,Gas,3734.2,84.03,1829.76,83.4
+United States,Delaware,2021,Other Fossil,158.57,3.57,111.0,5.06
+United States,Delaware,2021,Solar,195.92,4.41,9.4,0.43
+United States,Delaware,2021,Wind,4.85,0.11,0.05,0.0
 United States,Florida,2001,Bioenergy,3789.76,2.01,871.64,0.81
 United States,Florida,2001,Coal,68227.73,36.25,55946.74,52.26
 United States,Florida,2001,Gas,43569.8,23.15,21349.2,19.94
@@ -1396,14 +1396,14 @@ United States,Florida,2020,Nuclear,29419.35,11.73,353.03,0.32
 United States,Florida,2020,Other Fossil,3153.03,1.26,2207.12,2.0
 United States,Florida,2020,Other Renewables,321.7,0.13,12.22,0.01
 United States,Florida,2020,Solar,7626.98,3.04,366.1,0.33
-United States,Florida,2021,Bioenergy,4205.96,1.71,967.37,0.9
-United States,Florida,2021,Coal,18383.15,7.49,15074.18,14.02
-United States,Florida,2021,Gas,180602.17,73.54,88495.06,82.28
-United States,Florida,2021,Hydro,220.79,0.09,5.3,0.0
-United States,Florida,2021,Nuclear,28058.29,11.42,336.7,0.31
-United States,Florida,2021,Other Fossil,3067.12,1.25,2146.98,2.0
-United States,Florida,2021,Other Renewables,329.47,0.13,12.52,0.01
-United States,Florida,2021,Solar,10724.89,4.37,514.79,0.48
+United States,Florida,2021,Bioenergy,4227.88,1.71,972.41,0.9
+United States,Florida,2021,Coal,18384.8,7.42,15075.54,13.89
+United States,Florida,2021,Gas,182619.84,73.73,89483.72,82.44
+United States,Florida,2021,Hydro,251.61,0.1,6.04,0.01
+United States,Florida,2021,Nuclear,28058.29,11.33,336.7,0.31
+United States,Florida,2021,Other Fossil,3050.59,1.23,2135.41,1.97
+United States,Florida,2021,Other Renewables,331.41,0.13,12.59,0.01
+United States,Florida,2021,Solar,10753.72,4.34,516.18,0.48
 United States,Georgia,2001,Bioenergy,3002.75,2.55,690.63,1.07
 United States,Georgia,2001,Coal,74561.18,63.24,61140.17,94.47
 United States,Georgia,2001,Gas,3865.87,3.28,1894.28,2.93
@@ -1553,14 +1553,14 @@ United States,Georgia,2020,Nuclear,32825.7,27.27,393.91,0.93
 United States,Georgia,2020,Other Fossil,150.1,0.12,105.07,0.25
 United States,Georgia,2020,Other Renewables,36.28,0.03,1.38,0.0
 United States,Georgia,2020,Solar,4109.27,3.41,197.24,0.46
-United States,Georgia,2021,Bioenergy,5680.08,4.48,1306.42,2.81
-United States,Georgia,2021,Coal,19092.05,15.06,15655.48,33.63
-United States,Georgia,2021,Gas,58564.62,46.21,28696.66,61.64
-United States,Georgia,2021,Hydro,4034.31,3.18,96.82,0.21
-United States,Georgia,2021,Nuclear,33951.98,26.79,407.42,0.88
-United States,Georgia,2021,Other Fossil,208.82,0.16,146.18,0.31
-United States,Georgia,2021,Other Renewables,34.27,0.03,1.3,0.0
-United States,Georgia,2021,Solar,5181.42,4.09,248.71,0.53
+United States,Georgia,2021,Bioenergy,5845.58,4.69,1344.48,2.95
+United States,Georgia,2021,Coal,19076.18,15.32,15642.47,34.29
+United States,Georgia,2021,Gas,56673.11,45.52,27769.83,60.88
+United States,Georgia,2021,Hydro,3527.31,2.83,84.66,0.19
+United States,Georgia,2021,Nuclear,33951.98,27.27,407.42,0.89
+United States,Georgia,2021,Other Fossil,160.1,0.13,112.07,0.25
+United States,Georgia,2021,Other Renewables,37.81,0.03,1.44,0.0
+United States,Georgia,2021,Solar,5240.62,4.21,251.55,0.55
 United States,Hawaii,2001,Bioenergy,287.71,2.69,66.17,0.91
 United States,Hawaii,2001,Coal,1604.76,15.01,1315.91,18.04
 United States,Hawaii,2001,Gas,0.0,0.0,0.0,0.0
@@ -1698,13 +1698,13 @@ United States,Hawaii,2020,Other Fossil,6472.92,62.34,4531.05,80.34
 United States,Hawaii,2020,Other Renewables,103.18,0.99,3.92,0.07
 United States,Hawaii,2020,Solar,1694.74,16.32,81.35,1.44
 United States,Hawaii,2020,Wind,592.24,5.7,6.51,0.12
-United States,Hawaii,2021,Bioenergy,286.82,2.71,65.97,1.2
-United States,Hawaii,2021,Coal,1084.56,10.25,889.34,16.15
-United States,Hawaii,2021,Hydro,108.71,1.03,2.61,0.05
-United States,Hawaii,2021,Other Fossil,6348.7,59.98,4444.09,80.71
-United States,Hawaii,2021,Other Renewables,290.08,2.74,11.02,0.2
-United States,Hawaii,2021,Solar,1792.07,16.93,86.02,1.56
-United States,Hawaii,2021,Wind,674.36,6.37,7.42,0.13
+United States,Hawaii,2021,Bioenergy,282.64,2.68,65.01,1.18
+United States,Hawaii,2021,Coal,1084.56,10.28,889.34,16.15
+United States,Hawaii,2021,Hydro,114.97,1.09,2.76,0.05
+United States,Hawaii,2021,Other Fossil,6351.15,60.18,4445.81,80.74
+United States,Hawaii,2021,Other Renewables,303.63,2.88,11.54,0.21
+United States,Hawaii,2021,Solar,1758.03,16.66,84.39,1.53
+United States,Hawaii,2021,Wind,657.89,6.23,7.24,0.13
 United States,Idaho,2001,Bioenergy,533.34,5.71,122.67,10.92
 United States,Idaho,2001,Coal,72.28,0.77,59.27,5.28
 United States,Idaho,2001,Gas,1405.29,15.03,688.59,61.32
@@ -1840,14 +1840,14 @@ United States,Idaho,2020,Other Fossil,52.84,0.3,36.99,1.48
 United States,Idaho,2020,Other Renewables,132.93,0.75,5.05,0.2
 United States,Idaho,2020,Solar,652.73,3.66,31.33,1.25
 United States,Idaho,2020,Wind,2770.57,15.55,30.48,1.22
-United States,Idaho,2021,Bioenergy,501.77,2.93,115.41,4.42
-United States,Idaho,2021,Coal,20.62,0.12,16.91,0.65
-United States,Idaho,2021,Gas,4410.85,25.79,2161.32,82.77
-United States,Idaho,2021,Hydro,8650.09,50.58,207.6,7.95
-United States,Idaho,2021,Other Fossil,62.06,0.36,43.44,1.66
-United States,Idaho,2021,Other Renewables,115.27,0.67,4.38,0.17
-United States,Idaho,2021,Solar,684.0,4.0,32.83,1.26
-United States,Idaho,2021,Wind,2657.25,15.54,29.23,1.12
+United States,Idaho,2021,Bioenergy,489.61,2.88,112.61,3.96
+United States,Idaho,2021,Coal,16.12,0.09,13.21,0.46
+United States,Idaho,2021,Gas,4935.45,29.06,2418.37,84.96
+United States,Idaho,2021,Hydro,7995.22,47.08,191.89,6.74
+United States,Idaho,2021,Other Fossil,62.06,0.37,43.44,1.53
+United States,Idaho,2021,Other Renewables,119.43,0.7,4.54,0.16
+United States,Idaho,2021,Solar,684.11,4.03,32.84,1.15
+United States,Idaho,2021,Wind,2680.21,15.78,29.48,1.04
 United States,Illinois,2001,Bioenergy,678.57,0.38,156.07,0.22
 United States,Illinois,2001,Coal,79550.64,44.37,65231.53,93.07
 United States,Illinois,2001,Gas,4606.29,2.57,2257.08,3.22
@@ -2018,15 +2018,15 @@ United States,Illinois,2020,Other Fossil,563.57,0.32,394.5,1.0
 United States,Illinois,2020,Other Renewables,8.45,0.0,0.32,0.0
 United States,Illinois,2020,Solar,506.0,0.29,24.29,0.06
 United States,Illinois,2020,Wind,16225.94,9.33,178.49,0.45
-United States,Illinois,2021,Bioenergy,396.57,0.22,91.21,0.19
-United States,Illinois,2021,Coal,43513.98,23.81,35681.47,74.47
-United States,Illinois,2021,Gas,21076.73,11.53,10327.6,21.55
-United States,Illinois,2021,Hydro,129.03,0.07,3.1,0.01
-United States,Illinois,2021,Nuclear,96994.46,53.07,1163.93,2.43
-United States,Illinois,2021,Other Fossil,530.48,0.29,371.34,0.78
+United States,Illinois,2021,Bioenergy,364.45,0.2,83.82,0.18
+United States,Illinois,2021,Coal,43184.6,23.67,35411.37,74.63
+United States,Illinois,2021,Gas,20664.71,11.33,10125.71,21.34
+United States,Illinois,2021,Hydro,128.57,0.07,3.09,0.01
+United States,Illinois,2021,Nuclear,96994.46,53.16,1163.93,2.45
+United States,Illinois,2021,Other Fossil,541.47,0.3,379.03,0.8
 United States,Illinois,2021,Other Renewables,4.82,0.0,0.18,0.0
-United States,Illinois,2021,Solar,1447.73,0.79,69.49,0.15
-United States,Illinois,2021,Wind,18690.28,10.23,205.59,0.43
+United States,Illinois,2021,Solar,1437.89,0.79,69.02,0.15
+United States,Illinois,2021,Wind,19133.09,10.49,210.46,0.44
 United States,Indiana,2001,Bioenergy,114.58,0.09,26.35,0.03
 United States,Indiana,2001,Coal,116066.52,94.82,95174.54,96.45
 United States,Indiana,2001,Gas,2331.66,1.9,1142.51,1.16
@@ -2164,14 +2164,14 @@ United States,Indiana,2020,Other Fossil,2850.97,3.16,1995.68,3.5
 United States,Indiana,2020,Other Renewables,64.21,0.07,2.44,0.0
 United States,Indiana,2020,Solar,525.98,0.58,25.25,0.04
 United States,Indiana,2020,Wind,6287.55,6.96,69.16,0.12
-United States,Indiana,2021,Bioenergy,451.99,0.48,103.96,0.17
-United States,Indiana,2021,Coal,54540.95,57.5,44723.58,73.77
-United States,Indiana,2021,Gas,27913.43,29.43,13677.58,22.56
-United States,Indiana,2021,Hydro,256.85,0.27,6.16,0.01
-United States,Indiana,2021,Other Fossil,2830.24,2.98,1981.17,3.27
-United States,Indiana,2021,Other Renewables,61.85,0.07,2.35,0.0
-United States,Indiana,2021,Solar,889.05,0.94,42.67,0.07
-United States,Indiana,2021,Wind,7903.05,8.33,86.93,0.14
+United States,Indiana,2021,Bioenergy,429.0,0.45,98.67,0.16
+United States,Indiana,2021,Coal,54447.94,57.65,44647.31,73.9
+United States,Indiana,2021,Gas,27599.55,29.22,13523.78,22.38
+United States,Indiana,2021,Hydro,387.03,0.41,9.29,0.02
+United States,Indiana,2021,Other Fossil,2871.53,3.04,2010.07,3.33
+United States,Indiana,2021,Other Renewables,59.84,0.06,2.27,0.0
+United States,Indiana,2021,Solar,791.02,0.84,37.97,0.06
+United States,Indiana,2021,Wind,7856.98,8.32,86.43,0.14
 United States,Iowa,2001,Bioenergy,103.75,0.26,23.86,0.08
 United States,Iowa,2001,Coal,34665.09,85.24,28425.38,98.4
 United States,Iowa,2001,Gas,592.85,1.46,290.5,1.01
@@ -2339,14 +2339,14 @@ United States,Iowa,2020,Other Fossil,36.83,0.06,25.78,0.17
 United States,Iowa,2020,Other Renewables,93.03,0.16,3.53,0.02
 United States,Iowa,2020,Solar,231.91,0.39,11.13,0.07
 United States,Iowa,2020,Wind,34182.3,57.1,376.01,2.41
-United States,Iowa,2021,Bioenergy,199.6,0.3,45.91,0.21
-United States,Iowa,2021,Coal,22121.02,33.3,18139.23,84.0
-United States,Iowa,2021,Gas,5949.25,8.95,2915.13,13.5
-United States,Iowa,2021,Hydro,955.38,1.44,22.93,0.11
-United States,Iowa,2021,Other Fossil,61.27,0.09,42.89,0.2
-United States,Iowa,2021,Other Renewables,97.99,0.15,3.72,0.02
-United States,Iowa,2021,Solar,475.44,0.72,22.82,0.11
-United States,Iowa,2021,Wind,36577.5,55.06,402.35,1.86
+United States,Iowa,2021,Bioenergy,201.48,0.3,46.34,0.21
+United States,Iowa,2021,Coal,22106.59,32.74,18127.41,82.88
+United States,Iowa,2021,Gas,6463.64,9.57,3167.19,14.48
+United States,Iowa,2021,Hydro,980.07,1.45,23.52,0.11
+United States,Iowa,2021,Other Fossil,102.59,0.15,71.82,0.33
+United States,Iowa,2021,Other Renewables,100.48,0.15,3.82,0.02
+United States,Iowa,2021,Solar,471.55,0.7,22.63,0.1
+United States,Iowa,2021,Wind,37098.27,54.94,408.08,1.87
 United States,Kansas,2001,Coal,31768.0,70.99,26049.76,94.51
 United States,Kansas,2001,Gas,1951.3,4.36,956.14,3.47
 United States,Kansas,2001,Hydro,25.56,0.06,0.61,0.0
@@ -2496,14 +2496,14 @@ United States,Kansas,2020,Nuclear,10582.48,19.39,126.99,0.81
 United States,Kansas,2020,Other Fossil,79.83,0.15,55.88,0.35
 United States,Kansas,2020,Solar,105.55,0.19,5.07,0.03
 United States,Kansas,2020,Wind,23963.74,43.9,263.6,1.67
-United States,Kansas,2021,Bioenergy,64.04,0.11,14.73,0.08
-United States,Kansas,2021,Coal,19396.17,34.14,15904.86,89.36
-United States,Kansas,2021,Gas,2897.23,5.1,1419.64,7.98
+United States,Kansas,2021,Bioenergy,58.72,0.1,13.5,0.08
+United States,Kansas,2021,Coal,19396.17,34.21,15904.86,89.74
+United States,Kansas,2021,Gas,2662.21,4.7,1304.48,7.36
 United States,Kansas,2021,Hydro,29.95,0.05,0.72,0.0
-United States,Kansas,2021,Nuclear,8574.73,15.09,102.9,0.58
-United States,Kansas,2021,Other Fossil,96.64,0.17,67.65,0.38
-United States,Kansas,2021,Solar,123.82,0.22,5.94,0.03
-United States,Kansas,2021,Wind,25625.41,45.11,281.88,1.58
+United States,Kansas,2021,Nuclear,8574.73,15.13,102.9,0.58
+United States,Kansas,2021,Other Fossil,154.18,0.27,107.93,0.61
+United States,Kansas,2021,Solar,121.7,0.21,5.84,0.03
+United States,Kansas,2021,Wind,25693.7,45.32,282.63,1.59
 United States,Kentucky,2001,Bioenergy,9.55,0.01,2.2,0.0
 United States,Kentucky,2001,Coal,90798.58,95.16,74454.83,99.35
 United States,Kentucky,2001,Gas,630.43,0.66,308.91,0.41
@@ -2625,12 +2625,12 @@ United States,Kentucky,2020,Gas,14384.5,22.62,7048.4,16.35
 United States,Kentucky,2020,Hydro,5005.49,7.87,120.13,0.28
 United States,Kentucky,2020,Other Fossil,121.38,0.19,84.97,0.2
 United States,Kentucky,2020,Solar,93.73,0.15,4.5,0.01
-United States,Kentucky,2021,Bioenergy,362.08,0.51,83.28,0.17
-United States,Kentucky,2021,Coal,49862.73,70.61,40887.44,84.31
-United States,Kentucky,2021,Gas,14844.79,21.02,7273.95,15.0
-United States,Kentucky,2021,Hydro,5268.38,7.46,126.44,0.26
-United States,Kentucky,2021,Other Fossil,172.87,0.24,121.01,0.25
-United States,Kentucky,2021,Solar,109.37,0.15,5.25,0.01
+United States,Kentucky,2021,Bioenergy,414.74,0.59,95.39,0.2
+United States,Kentucky,2021,Coal,49862.73,71.26,40887.44,84.58
+United States,Kentucky,2021,Gas,14571.98,20.82,7140.27,14.77
+United States,Kentucky,2021,Hydro,4876.46,6.97,117.03,0.24
+United States,Kentucky,2021,Other Fossil,136.52,0.2,95.56,0.2
+United States,Kentucky,2021,Solar,115.4,0.16,5.54,0.01
 United States,Louisiana,2001,Bioenergy,2704.29,3.13,621.99,1.52
 United States,Louisiana,2001,Coal,21968.15,25.46,18013.88,44.12
 United States,Louisiana,2001,Gas,40372.75,46.79,19782.65,48.45
@@ -2778,14 +2778,14 @@ United States,Louisiana,2020,Nuclear,16949.59,17.35,203.4,0.51
 United States,Louisiana,2020,Other Fossil,2343.36,2.4,1640.36,4.07
 United States,Louisiana,2020,Other Renewables,56.72,0.06,2.16,0.01
 United States,Louisiana,2020,Solar,296.36,0.3,14.23,0.04
-United States,Louisiana,2021,Bioenergy,2114.44,2.24,486.32,1.22
-United States,Louisiana,2021,Coal,7872.95,8.33,6455.82,16.23
-United States,Louisiana,2021,Gas,63573.93,67.28,31151.22,78.31
-United States,Louisiana,2021,Hydro,1158.91,1.23,27.81,0.07
-United States,Louisiana,2021,Nuclear,17248.67,18.25,206.98,0.52
-United States,Louisiana,2021,Other Fossil,2038.47,2.16,1426.93,3.59
-United States,Louisiana,2021,Other Renewables,59.22,0.06,2.25,0.01
-United States,Louisiana,2021,Solar,430.43,0.46,20.66,0.05
+United States,Louisiana,2021,Bioenergy,2140.07,2.25,492.22,1.22
+United States,Louisiana,2021,Coal,7872.95,8.27,6455.82,16.06
+United States,Louisiana,2021,Gas,63961.18,67.2,31340.98,77.97
+United States,Louisiana,2021,Hydro,1109.18,1.17,26.62,0.07
+United States,Louisiana,2021,Nuclear,17248.67,18.12,206.98,0.51
+United States,Louisiana,2021,Other Fossil,2354.8,2.47,1648.36,4.1
+United States,Louisiana,2021,Other Renewables,83.62,0.09,3.18,0.01
+United States,Louisiana,2021,Solar,407.1,0.43,19.54,0.05
 United States,Maine,2001,Bioenergy,3825.72,19.49,879.92,10.91
 United States,Maine,2001,Coal,528.41,2.69,433.3,5.37
 United States,Maine,2001,Gas,10052.95,51.21,4925.95,61.09
@@ -2927,14 +2927,14 @@ United States,Maine,2020,Other Fossil,367.23,3.63,257.06,14.08
 United States,Maine,2020,Other Renewables,12.08,0.12,0.46,0.03
 United States,Maine,2020,Solar,116.76,1.16,5.6,0.31
 United States,Maine,2020,Wind,2395.14,23.71,26.35,1.44
-United States,Maine,2021,Bioenergy,2175.3,19.59,500.32,22.63
-United States,Maine,2021,Coal,66.62,0.6,54.63,2.47
-United States,Maine,2021,Gas,2707.21,24.39,1326.53,60.0
-United States,Maine,2021,Hydro,2969.12,26.75,71.26,3.22
-United States,Maine,2021,Other Fossil,306.44,2.76,214.51,9.7
+United States,Maine,2021,Bioenergy,1968.79,17.81,452.82,18.51
+United States,Maine,2021,Coal,50.0,0.45,41.0,1.68
+United States,Maine,2021,Gas,3347.67,30.28,1640.36,67.04
+United States,Maine,2021,Hydro,2540.91,22.98,60.98,2.49
+United States,Maine,2021,Other Fossil,299.02,2.7,209.31,8.55
 United States,Maine,2021,Other Renewables,12.81,0.12,0.49,0.02
-United States,Maine,2021,Solar,313.53,2.82,15.05,0.68
-United States,Maine,2021,Wind,2550.35,22.97,28.05,1.27
+United States,Maine,2021,Solar,293.15,2.65,14.07,0.58
+United States,Maine,2021,Wind,2544.2,23.01,27.99,1.14
 United States,Maryland,2001,Bioenergy,373.02,0.76,85.79,0.32
 United States,Maryland,2001,Coal,28379.41,57.84,23271.11,86.16
 United States,Maryland,2001,Gas,1760.81,3.59,862.8,3.19
@@ -3092,15 +3092,15 @@ United States,Maryland,2020,Other Fossil,390.22,1.05,273.16,2.65
 United States,Maryland,2020,Other Renewables,1.89,0.01,0.07,0.0
 United States,Maryland,2020,Solar,1521.63,4.11,73.04,0.71
 United States,Maryland,2020,Wind,545.68,1.47,6.0,0.06
-United States,Maryland,2021,Bioenergy,380.03,0.93,87.41,0.69
-United States,Maryland,2021,Coal,5838.72,14.33,4787.75,37.58
-United States,Maryland,2021,Gas,14746.41,36.18,7225.74,56.71
-United States,Maryland,2021,Hydro,2120.0,5.2,50.88,0.4
-United States,Maryland,2021,Nuclear,14993.63,36.79,179.92,1.41
-United States,Maryland,2021,Other Fossil,459.99,1.13,321.99,2.53
+United States,Maryland,2021,Bioenergy,374.84,0.95,86.21,0.73
+United States,Maryland,2021,Coal,5173.98,13.18,4242.66,35.93
+United States,Maryland,2021,Gas,13977.75,35.6,6849.1,58.0
+United States,Maryland,2021,Hydro,2117.15,5.39,50.81,0.43
+United States,Maryland,2021,Nuclear,14993.63,38.19,179.92,1.52
+United States,Maryland,2021,Other Fossil,448.89,1.14,314.22,2.66
 United States,Maryland,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,Maryland,2021,Solar,1698.98,4.17,81.55,0.64
-United States,Maryland,2021,Wind,517.43,1.27,5.69,0.04
+United States,Maryland,2021,Solar,1656.97,4.22,79.53,0.67
+United States,Maryland,2021,Wind,517.43,1.32,5.69,0.05
 United States,Massachusets,2001,Bioenergy,1312.79,3.41,301.94,1.39
 United States,Massachusets,2001,Coal,11051.33,28.7,9062.09,41.85
 United States,Massachusets,2001,Gas,11697.0,30.38,5731.53,26.47
@@ -3268,14 +3268,14 @@ United States,Massachusets,2020,Other Fossil,947.04,4.61,662.93,8.25
 United States,Massachusets,2020,Other Renewables,24.92,0.12,0.95,0.01
 United States,Massachusets,2020,Solar,3726.1,18.12,178.85,2.23
 United States,Massachusets,2020,Wind,238.27,1.16,2.62,0.03
-United States,Massachusets,2021,Bioenergy,1065.77,4.86,245.13,2.89
+United States,Massachusets,2021,Bioenergy,972.91,4.42,223.77,2.63
 United States,Massachusets,2021,Coal,0.0,0.0,0.0,0.0
-United States,Massachusets,2021,Gas,14901.55,67.98,7301.76,86.16
-United States,Massachusets,2021,Hydro,394.26,1.8,9.46,0.11
-United States,Massachusets,2021,Other Fossil,1012.09,4.62,708.46,8.36
+United States,Massachusets,2021,Gas,15009.93,68.12,7354.87,86.53
+United States,Massachusets,2021,Hydro,693.27,3.15,16.64,0.2
+United States,Massachusets,2021,Other Fossil,1005.21,4.56,703.64,8.28
 United States,Massachusets,2021,Other Renewables,25.69,0.12,0.98,0.01
-United States,Massachusets,2021,Solar,4305.06,19.64,206.64,2.44
-United States,Massachusets,2021,Wind,217.14,0.99,2.39,0.03
+United States,Massachusets,2021,Solar,4120.16,18.7,197.77,2.33
+United States,Massachusets,2021,Wind,208.63,0.95,2.29,0.03
 United States,Michigan,2001,Bioenergy,2361.38,2.11,543.12,0.85
 United States,Michigan,2001,Coal,68263.16,61.02,55975.79,87.55
 United States,Michigan,2001,Gas,13173.51,11.78,6455.02,10.1
@@ -3443,15 +3443,15 @@ United States,Michigan,2020,Other Fossil,1190.7,1.12,833.49,1.96
 United States,Michigan,2020,Other Renewables,26.63,0.03,1.01,0.0
 United States,Michigan,2020,Solar,310.07,0.29,14.88,0.03
 United States,Michigan,2020,Wind,6735.09,6.36,74.09,0.17
-United States,Michigan,2021,Bioenergy,2270.37,1.97,522.18,1.1
-United States,Michigan,2021,Coal,37030.97,32.13,30365.4,63.84
-United States,Michigan,2021,Gas,30826.39,26.75,15104.93,31.76
-United States,Michigan,2021,Hydro,818.21,0.71,19.64,0.04
-United States,Michigan,2021,Nuclear,34338.32,29.8,412.06,0.87
-United States,Michigan,2021,Other Fossil,1461.74,1.27,1023.21,2.15
-United States,Michigan,2021,Other Renewables,25.16,0.02,0.96,0.0
-United States,Michigan,2021,Solar,655.52,0.57,31.47,0.07
-United States,Michigan,2021,Wind,7809.14,6.78,85.9,0.18
+United States,Michigan,2021,Bioenergy,2368.6,2.07,544.78,1.15
+United States,Michigan,2021,Coal,37053.9,32.31,30384.2,64.04
+United States,Michigan,2021,Gas,30512.72,26.6,14951.23,31.51
+United States,Michigan,2021,Hydro,624.62,0.54,14.99,0.03
+United States,Michigan,2021,Nuclear,34338.32,29.94,412.06,0.87
+United States,Michigan,2021,Other Fossil,1462.11,1.27,1023.48,2.16
+United States,Michigan,2021,Other Renewables,23.94,0.02,0.91,0.0
+United States,Michigan,2021,Solar,616.15,0.54,29.57,0.06
+United States,Michigan,2021,Wind,7696.89,6.71,84.67,0.18
 United States,Minnesota,2001,Bioenergy,1080.09,2.25,248.42,0.91
 United States,Minnesota,2001,Coal,31819.16,66.25,26091.71,95.29
 United States,Minnesota,2001,Gas,1199.58,2.5,587.79,2.15
@@ -3621,15 +3621,15 @@ United States,Minnesota,2020,Other Fossil,357.58,0.63,250.31,1.37
 United States,Minnesota,2020,Other Renewables,61.6,0.11,2.34,0.01
 United States,Minnesota,2020,Solar,1773.38,3.13,85.12,0.47
 United States,Minnesota,2020,Wind,11831.14,20.86,130.14,0.71
-United States,Minnesota,2021,Bioenergy,1318.25,2.2,303.2,1.52
-United States,Minnesota,2021,Coal,15818.18,26.41,12970.91,64.98
-United States,Minnesota,2021,Gas,12261.12,20.47,6007.95,30.1
-United States,Minnesota,2021,Hydro,897.91,1.5,21.55,0.11
-United States,Minnesota,2021,Nuclear,14122.77,23.58,169.47,0.85
-United States,Minnesota,2021,Other Fossil,346.9,0.58,242.83,1.22
-United States,Minnesota,2021,Other Renewables,76.52,0.13,2.91,0.01
-United States,Minnesota,2021,Solar,2101.61,3.51,100.88,0.51
-United States,Minnesota,2021,Wind,12940.71,21.61,142.35,0.71
+United States,Minnesota,2021,Bioenergy,1255.84,2.11,288.84,1.43
+United States,Minnesota,2021,Coal,15764.27,26.52,12926.71,64.0
+United States,Minnesota,2021,Gas,12790.63,21.52,6267.41,31.03
+United States,Minnesota,2021,Hydro,679.12,1.14,16.3,0.08
+United States,Minnesota,2021,Nuclear,14122.77,23.76,169.47,0.84
+United States,Minnesota,2021,Other Fossil,418.34,0.7,292.84,1.45
+United States,Minnesota,2021,Other Renewables,59.14,0.1,2.25,0.01
+United States,Minnesota,2021,Solar,2076.75,3.49,99.68,0.49
+United States,Minnesota,2021,Wind,12271.31,20.65,134.98,0.67
 United States,Mississippi,2001,Bioenergy,1432.12,2.68,329.39,1.16
 United States,Mississippi,2001,Coal,19196.06,35.92,15740.77,55.25
 United States,Mississippi,2001,Gas,17750.55,33.21,8697.77,30.53
@@ -3757,13 +3757,13 @@ United States,Mississippi,2020,Nuclear,6470.93,9.72,77.65,0.25
 United States,Mississippi,2020,Other Fossil,8.4,0.01,5.88,0.02
 United States,Mississippi,2020,Other Renewables,4.51,0.01,0.17,0.0
 United States,Mississippi,2020,Solar,445.08,0.67,21.36,0.07
-United States,Mississippi,2021,Bioenergy,1429.15,2.08,328.7,1.12
-United States,Mississippi,2021,Coal,5530.69,8.05,4535.16,15.47
-United States,Mississippi,2021,Gas,49539.38,72.08,24274.3,82.83
-United States,Mississippi,2021,Nuclear,11772.06,17.13,141.26,0.48
-United States,Mississippi,2021,Other Fossil,9.26,0.01,6.48,0.02
+United States,Mississippi,2021,Bioenergy,1366.55,2.02,314.31,1.09
+United States,Mississippi,2021,Coal,5530.69,8.16,4535.16,15.72
+United States,Mississippi,2021,Gas,48621.02,71.77,23824.3,82.6
+United States,Mississippi,2021,Nuclear,11772.06,17.38,141.26,0.49
+United States,Mississippi,2021,Other Fossil,8.25,0.01,5.77,0.02
 United States,Mississippi,2021,Other Renewables,1.62,0.0,0.06,0.0
-United States,Mississippi,2021,Solar,449.58,0.65,21.58,0.07
+United States,Mississippi,2021,Solar,441.27,0.65,21.18,0.07
 United States,Missouri,2001,Bioenergy,8.8,0.01,2.02,0.0
 United States,Missouri,2001,Coal,65748.68,83.18,53913.92,96.17
 United States,Missouri,2001,Gas,3873.56,4.9,1898.05,3.39
@@ -3924,15 +3924,15 @@ United States,Missouri,2020,Other Fossil,80.87,0.11,56.61,0.12
 United States,Missouri,2020,Other Renewables,2.52,0.0,0.1,0.0
 United States,Missouri,2020,Solar,460.96,0.63,22.13,0.05
 United States,Missouri,2020,Wind,3345.1,4.59,36.8,0.08
-United States,Missouri,2021,Bioenergy,121.46,0.16,27.94,0.05
-United States,Missouri,2021,Coal,57858.27,73.94,47443.78,92.81
-United States,Missouri,2021,Gas,6789.51,8.68,3326.86,6.51
-United States,Missouri,2021,Hydro,1851.68,2.37,44.44,0.09
-United States,Missouri,2021,Nuclear,4292.43,5.49,51.51,0.1
-United States,Missouri,2021,Other Fossil,176.07,0.23,123.25,0.24
+United States,Missouri,2021,Bioenergy,123.73,0.16,28.46,0.06
+United States,Missouri,2021,Coal,57858.27,74.77,47443.78,93.37
+United States,Missouri,2021,Gas,6058.97,7.83,2968.89,5.84
+United States,Missouri,2021,Hydro,1698.93,2.2,40.77,0.08
+United States,Missouri,2021,Nuclear,4292.43,5.55,51.51,0.1
+United States,Missouri,2021,Other Fossil,258.7,0.33,181.09,0.36
 United States,Missouri,2021,Other Renewables,2.77,0.0,0.11,0.0
-United States,Missouri,2021,Solar,546.74,0.7,26.24,0.05
-United States,Missouri,2021,Wind,6606.8,8.44,72.67,0.14
+United States,Missouri,2021,Solar,549.06,0.71,26.35,0.05
+United States,Missouri,2021,Wind,6534.35,8.44,71.88,0.14
 United States,Montana,2001,Bioenergy,65.43,0.28,15.05,0.11
 United States,Montana,2001,Coal,17035.88,71.77,13969.42,98.7
 United States,Montana,2001,Gas,20.09,0.08,9.84,0.07
@@ -4053,13 +4053,13 @@ United States,Montana,2020,Hydro,10747.54,46.85,257.94,3.4
 United States,Montana,2020,Other Fossil,252.77,1.1,176.94,2.33
 United States,Montana,2020,Solar,66.54,0.29,3.19,0.04
 United States,Montana,2020,Wind,3058.58,13.33,33.64,0.44
-United States,Montana,2021,Bioenergy,32.38,0.13,7.45,0.08
-United States,Montana,2021,Coal,10564.15,43.89,8662.6,92.21
-United States,Montana,2021,Gas,493.87,2.05,242.0,2.58
-United States,Montana,2021,Hydro,9774.49,40.61,234.59,2.5
-United States,Montana,2021,Other Fossil,304.22,1.26,212.95,2.27
-United States,Montana,2021,Solar,76.38,0.32,3.67,0.04
-United States,Montana,2021,Wind,2822.41,11.73,31.05,0.33
+United States,Montana,2021,Bioenergy,32.28,0.13,7.42,0.08
+United States,Montana,2021,Coal,10876.45,44.31,8918.69,92.3
+United States,Montana,2021,Gas,528.3,2.15,258.87,2.68
+United States,Montana,2021,Hydro,9258.37,37.71,222.2,2.3
+United States,Montana,2021,Other Fossil,304.75,1.24,213.32,2.21
+United States,Montana,2021,Solar,76.13,0.31,3.65,0.04
+United States,Montana,2021,Wind,3472.65,14.15,38.2,0.4
 United States,Nebraska,2001,Bioenergy,16.66,0.05,3.83,0.02
 United States,Nebraska,2001,Coal,20238.71,66.35,16595.74,98.07
 United States,Nebraska,2001,Gas,348.73,1.14,170.88,1.01
@@ -4227,15 +4227,15 @@ United States,Nebraska,2020,Other Fossil,14.03,0.04,9.82,0.06
 United States,Nebraska,2020,Other Renewables,11.96,0.03,0.45,0.0
 United States,Nebraska,2020,Solar,73.99,0.2,3.55,0.02
 United States,Nebraska,2020,Wind,9115.34,24.72,100.27,0.62
-United States,Nebraska,2021,Bioenergy,89.66,0.23,20.62,0.12
-United States,Nebraska,2021,Coal,18997.89,49.14,15578.27,93.8
-United States,Nebraska,2021,Gas,1600.36,4.14,784.18,4.72
-United States,Nebraska,2021,Hydro,1276.74,3.3,30.64,0.18
-United States,Nebraska,2021,Nuclear,6880.62,17.8,82.57,0.5
-United States,Nebraska,2021,Other Fossil,0.0,0.0,0.0,0.0
+United States,Nebraska,2021,Bioenergy,92.47,0.24,21.27,0.13
+United States,Nebraska,2021,Coal,18933.62,49.89,15525.57,94.78
+United States,Nebraska,2021,Gas,1173.37,3.09,574.95,3.51
+United States,Nebraska,2021,Hydro,1123.16,2.96,26.96,0.16
+United States,Nebraska,2021,Nuclear,6880.62,18.13,82.57,0.5
+United States,Nebraska,2021,Other Fossil,55.1,0.15,38.57,0.24
 United States,Nebraska,2021,Other Renewables,15.32,0.04,0.58,0.0
-United States,Nebraska,2021,Solar,81.15,0.21,3.9,0.02
-United States,Nebraska,2021,Wind,9720.03,25.14,106.92,0.64
+United States,Nebraska,2021,Solar,85.55,0.23,4.11,0.03
+United States,Nebraska,2021,Wind,9592.04,25.27,105.51,0.64
 United States,Nevada,2001,Coal,17736.97,52.36,14544.32,69.49
 United States,Nevada,2001,Gas,11513.77,33.99,5641.75,26.96
 United States,Nevada,2001,Hydro,2513.72,7.42,60.33,0.29
@@ -4371,13 +4371,13 @@ United States,Nevada,2020,Other Fossil,32.07,0.08,22.45,0.15
 United States,Nevada,2020,Other Renewables,3800.92,9.2,144.43,0.95
 United States,Nevada,2020,Solar,6407.16,15.51,307.54,2.01
 United States,Nevada,2020,Wind,324.8,0.79,3.57,0.02
-United States,Nevada,2021,Bioenergy,60.94,0.14,14.02,0.09
-United States,Nevada,2021,Coal,2752.47,6.41,2257.03,14.39
-United States,Nevada,2021,Gas,26163.6,60.92,12820.16,81.73
-United States,Nevada,2021,Hydro,1951.74,4.54,46.84,0.3
+United States,Nevada,2021,Bioenergy,49.96,0.12,11.49,0.07
+United States,Nevada,2021,Coal,2752.47,6.43,2257.03,14.41
+United States,Nevada,2021,Gas,26129.92,61.02,12803.66,81.74
+United States,Nevada,2021,Hydro,1944.29,4.54,46.66,0.3
 United States,Nevada,2021,Other Fossil,35.37,0.08,24.76,0.16
-United States,Nevada,2021,Other Renewables,3927.76,9.15,149.26,0.95
-United States,Nevada,2021,Solar,7717.61,17.97,370.45,2.36
+United States,Nevada,2021,Other Renewables,3917.45,9.15,148.86,0.95
+United States,Nevada,2021,Solar,7655.8,17.88,367.48,2.35
 United States,Nevada,2021,Wind,339.94,0.79,3.74,0.02
 United States,New Hampshire,2001,Bioenergy,1025.62,6.8,235.89,6.14
 United States,New Hampshire,2001,Coal,3706.4,24.59,3039.25,79.15
@@ -4530,15 +4530,15 @@ United States,New Hampshire,2020,Other Fossil,97.27,0.59,68.09,2.94
 United States,New Hampshire,2020,Other Renewables,0.0,0.0,0.0,0.0
 United States,New Hampshire,2020,Solar,160.78,0.97,7.72,0.33
 United States,New Hampshire,2020,Wind,524.87,3.18,5.77,0.25
-United States,New Hampshire,2021,Bioenergy,1026.4,5.82,236.07,8.12
-United States,New Hampshire,2021,Coal,284.16,1.61,233.01,8.01
-United States,New Hampshire,2021,Gas,4466.08,25.34,2188.38,75.26
-United States,New Hampshire,2021,Hydro,1166.94,6.62,28.01,0.96
-United States,New Hampshire,2021,Nuclear,9856.12,55.91,118.27,4.07
-United States,New Hampshire,2021,Other Fossil,127.11,0.72,88.97,3.06
+United States,New Hampshire,2021,Bioenergy,928.69,5.34,213.6,7.42
+United States,New Hampshire,2021,Coal,284.16,1.63,233.01,8.09
+United States,New Hampshire,2021,Gas,4466.08,25.69,2188.38,75.97
+United States,New Hampshire,2021,Hydro,1025.01,5.9,24.6,0.85
+United States,New Hampshire,2021,Nuclear,9856.12,56.69,118.27,4.11
+United States,New Hampshire,2021,Other Fossil,125.29,0.72,87.7,3.04
 United States,New Hampshire,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,New Hampshire,2021,Solar,196.8,1.12,9.45,0.32
-United States,New Hampshire,2021,Wind,504.23,2.86,5.55,0.19
+United States,New Hampshire,2021,Solar,196.8,1.13,9.45,0.33
+United States,New Hampshire,2021,Wind,504.23,2.9,5.55,0.19
 United States,New Jersey,2001,Bioenergy,843.63,1.42,194.04,1.08
 United States,New Jersey,2001,Coal,9319.04,15.68,7641.61,42.62
 United States,New Jersey,2001,Gas,16708.2,28.11,8187.02,45.66
@@ -4707,15 +4707,15 @@ United States,New Jersey,2020,Other Fossil,811.11,1.28,567.77,3.34
 United States,New Jersey,2020,Other Renewables,5.74,0.01,0.22,0.0
 United States,New Jersey,2020,Solar,3808.94,5.99,182.83,1.08
 United States,New Jersey,2020,Wind,20.01,0.03,0.22,0.0
-United States,New Jersey,2021,Bioenergy,721.67,1.13,165.99,1.01
-United States,New Jersey,2021,Coal,1026.29,1.6,841.56,5.12
-United States,New Jersey,2021,Gas,29327.39,45.76,14370.42,87.48
+United States,New Jersey,2021,Bioenergy,707.76,1.1,162.79,0.99
+United States,New Jersey,2021,Coal,1026.29,1.6,841.56,5.1
+United States,New Jersey,2021,Gas,29542.81,46.09,14475.98,87.66
 United States,New Jersey,2021,Hydro,-101.85,-0.16,-2.44,-0.01
-United States,New Jersey,2021,Nuclear,28142.1,43.91,337.71,2.06
-United States,New Jersey,2021,Other Fossil,730.28,1.14,511.2,3.11
+United States,New Jersey,2021,Nuclear,28142.1,43.9,337.71,2.05
+United States,New Jersey,2021,Other Fossil,719.09,1.12,503.37,3.05
 United States,New Jersey,2021,Other Renewables,4.5,0.01,0.17,0.0
-United States,New Jersey,2021,Solar,4213.83,6.58,202.26,1.23
-United States,New Jersey,2021,Wind,20.27,0.03,0.22,0.0
+United States,New Jersey,2021,Solar,4042.64,6.31,194.05,1.18
+United States,New Jersey,2021,Wind,19.73,0.03,0.22,0.0
 United States,New Mexico,2001,Bioenergy,18.65,0.06,4.29,0.02
 United States,New Mexico,2001,Coal,28402.19,84.45,23289.79,90.48
 United States,New Mexico,2001,Gas,4887.27,14.53,2394.76,9.3
@@ -4865,14 +4865,14 @@ United States,New Mexico,2020,Other Fossil,31.75,0.09,22.23,0.13
 United States,New Mexico,2020,Other Renewables,59.33,0.17,2.25,0.01
 United States,New Mexico,2020,Solar,2113.81,6.14,101.46,0.61
 United States,New Mexico,2020,Wind,7224.18,20.97,79.47,0.48
-United States,New Mexico,2021,Bioenergy,27.69,0.08,6.37,0.04
-United States,New Mexico,2021,Coal,12536.32,35.08,10279.78,66.53
-United States,New Mexico,2021,Gas,10034.02,28.07,4916.67,31.82
-United States,New Mexico,2021,Hydro,187.08,0.52,4.49,0.03
-United States,New Mexico,2021,Other Fossil,24.13,0.07,16.89,0.11
-United States,New Mexico,2021,Other Renewables,58.93,0.16,2.24,0.01
-United States,New Mexico,2021,Solar,2224.6,6.22,106.78,0.69
-United States,New Mexico,2021,Wind,10648.27,29.79,117.13,0.76
+United States,New Mexico,2021,Bioenergy,25.68,0.07,5.91,0.04
+United States,New Mexico,2021,Coal,12536.32,35.15,10279.78,66.4
+United States,New Mexico,2021,Gas,10093.19,28.3,4945.66,31.94
+United States,New Mexico,2021,Hydro,122.86,0.34,2.95,0.02
+United States,New Mexico,2021,Other Fossil,32.83,0.09,22.98,0.15
+United States,New Mexico,2021,Other Renewables,58.93,0.17,2.24,0.01
+United States,New Mexico,2021,Solar,2212.3,6.2,106.19,0.69
+United States,New Mexico,2021,Wind,10580.74,29.67,116.39,0.75
 United States,New York,2001,Bioenergy,1780.53,1.24,409.52,0.79
 United States,New York,2001,Coal,23431.92,16.28,19214.18,37.1
 United States,New York,2001,Gas,38697.21,26.89,18961.64,36.61
@@ -5037,15 +5037,15 @@ United States,New York,2020,Other Fossil,1346.79,1.02,942.75,3.27
 United States,New York,2020,Other Renewables,0.0,0.0,0.0,0.0
 United States,New York,2020,Solar,3130.39,2.38,150.26,0.52
 United States,New York,2020,Wind,4521.73,3.43,49.74,0.17
-United States,New York,2021,Bioenergy,1921.1,1.5,441.85,1.43
+United States,New York,2021,Bioenergy,1903.31,1.49,437.76,1.43
 United States,New York,2021,Coal,0.0,0.0,0.0,0.0
-United States,New York,2021,Gas,57055.18,44.6,27957.04,90.19
-United States,New York,2021,Hydro,27591.58,21.57,662.2,2.14
-United States,New York,2021,Nuclear,31140.38,24.34,373.68,1.21
-United States,New York,2021,Other Fossil,1895.09,1.48,1326.56,4.28
-United States,New York,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,New York,2021,Solar,3925.58,3.07,188.43,0.61
-United States,New York,2021,Wind,4386.88,3.43,48.26,0.16
+United States,New York,2021,Gas,56512.72,44.27,27691.23,90.58
+United States,New York,2021,Hydro,28383.94,22.24,681.21,2.23
+United States,New York,2021,Nuclear,31176.58,24.42,374.12,1.22
+United States,New York,2021,Other Fossil,1653.08,1.3,1157.16,3.78
+United States,New York,2021,Other Renewables,0.34,0.0,0.01,0.0
+United States,New York,2021,Solar,3861.3,3.02,185.34,0.61
+United States,New York,2021,Wind,4156.37,3.26,45.72,0.15
 United States,North Carolina,2001,Bioenergy,1751.29,1.49,402.8,0.65
 United States,North Carolina,2001,Coal,72957.77,62.09,59825.37,96.32
 United States,North Carolina,2001,Gas,1534.35,1.31,751.83,1.21
@@ -5204,15 +5204,15 @@ United States,North Carolina,2020,Other Fossil,601.47,0.48,421.03,1.07
 United States,North Carolina,2020,Other Renewables,108.93,0.09,4.14,0.01
 United States,North Carolina,2020,Solar,8633.4,6.92,414.4,1.05
 United States,North Carolina,2020,Wind,546.27,0.44,6.01,0.02
-United States,North Carolina,2021,Bioenergy,2134.01,1.62,490.82,1.17
-United States,North Carolina,2021,Coal,20404.58,15.47,16731.76,39.99
-United States,North Carolina,2021,Gas,47115.6,35.73,23086.64,55.17
-United States,North Carolina,2021,Hydro,7596.43,5.76,182.31,0.44
-United States,North Carolina,2021,Nuclear,43117.71,32.7,517.41,1.24
-United States,North Carolina,2021,Other Fossil,467.14,0.35,327.0,0.78
-United States,North Carolina,2021,Other Renewables,142.06,0.11,5.4,0.01
-United States,North Carolina,2021,Solar,10373.27,7.87,497.92,1.19
-United States,North Carolina,2021,Wind,505.16,0.38,5.56,0.01
+United States,North Carolina,2021,Bioenergy,2022.5,1.55,465.18,1.11
+United States,North Carolina,2021,Coal,20404.64,15.64,16731.8,39.88
+United States,North Carolina,2021,Gas,47444.63,36.36,23247.87,55.41
+United States,North Carolina,2021,Hydro,5812.76,4.45,139.51,0.33
+United States,North Carolina,2021,Nuclear,43117.71,33.04,517.41,1.23
+United States,North Carolina,2021,Other Fossil,483.26,0.37,338.28,0.81
+United States,North Carolina,2021,Other Renewables,108.24,0.08,4.11,0.01
+United States,North Carolina,2021,Solar,10578.5,8.11,507.77,1.21
+United States,North Carolina,2021,Wind,514.7,0.39,5.66,0.01
 United States,North Dakota,2001,Bioenergy,7.66,0.03,1.76,0.01
 United States,North Dakota,2001,Coal,28877.18,95.18,23679.28,99.52
 United States,North Dakota,2001,Gas,2.54,0.01,1.24,0.01
@@ -5358,14 +5358,14 @@ United States,North Dakota,2020,Other Fossil,106.42,0.25,74.49,0.35
 United States,North Dakota,2020,Other Renewables,0.52,0.0,0.02,0.0
 United States,North Dakota,2020,Solar,0.82,0.0,0.04,0.0
 United States,North Dakota,2020,Wind,13633.85,32.32,149.97,0.71
-United States,North Dakota,2021,Bioenergy,1.33,0.0,0.31,0.0
-United States,North Dakota,2021,Coal,24389.23,57.11,19999.17,95.24
-United States,North Dakota,2021,Gas,1445.32,3.38,708.21,3.37
-United States,North Dakota,2021,Hydro,2218.47,5.19,53.24,0.25
-United States,North Dakota,2021,Other Fossil,109.58,0.26,76.71,0.37
-United States,North Dakota,2021,Other Renewables,1.33,0.0,0.05,0.0
+United States,North Dakota,2021,Bioenergy,1.76,0.0,0.41,0.0
+United States,North Dakota,2021,Coal,24402.79,56.7,20010.29,94.91
+United States,North Dakota,2021,Gas,1577.73,3.67,773.09,3.67
+United States,North Dakota,2021,Hydro,1989.05,4.62,47.74,0.23
+United States,North Dakota,2021,Other Fossil,125.84,0.29,88.09,0.42
+United States,North Dakota,2021,Other Renewables,1.76,0.0,0.07,0.0
 United States,North Dakota,2021,Solar,1.23,0.0,0.06,0.0
-United States,North Dakota,2021,Wind,14541.3,34.05,159.95,0.76
+United States,North Dakota,2021,Wind,14935.2,34.7,164.29,0.78
 United States,Ohio,2001,Bioenergy,430.96,0.3,99.12,0.1
 United States,Ohio,2001,Coal,124213.23,87.31,101854.85,98.78
 United States,Ohio,2001,Gas,924.42,0.65,452.96,0.44
@@ -5533,15 +5533,15 @@ United States,Ohio,2020,Other Fossil,825.86,0.69,578.11,0.91
 United States,Ohio,2020,Other Renewables,11.69,0.01,0.44,0.0
 United States,Ohio,2020,Solar,400.47,0.33,19.22,0.03
 United States,Ohio,2020,Wind,2289.14,1.9,25.18,0.04
-United States,Ohio,2021,Bioenergy,642.12,0.52,147.69,0.23
-United States,Ohio,2021,Coal,45765.86,37.27,37528.01,57.66
-United States,Ohio,2021,Gas,54156.45,44.11,26536.66,40.77
-United States,Ohio,2021,Hydro,356.73,0.29,8.56,0.01
-United States,Ohio,2021,Nuclear,17483.01,14.24,209.8,0.32
-United States,Ohio,2021,Other Fossil,834.58,0.68,584.21,0.9
-United States,Ohio,2021,Other Renewables,12.1,0.01,0.46,0.0
-United States,Ohio,2021,Solar,934.53,0.76,44.86,0.07
-United States,Ohio,2021,Wind,2596.91,2.12,28.57,0.04
+United States,Ohio,2021,Bioenergy,642.82,0.51,147.85,0.22
+United States,Ohio,2021,Coal,45662.05,36.45,37442.88,56.56
+United States,Ohio,2021,Gas,56381.28,45.01,27626.83,41.74
+United States,Ohio,2021,Hydro,578.29,0.46,13.88,0.02
+United States,Ohio,2021,Nuclear,17483.01,13.96,209.8,0.32
+United States,Ohio,2021,Other Fossil,970.23,0.77,679.16,1.03
+United States,Ohio,2021,Other Renewables,10.85,0.01,0.41,0.0
+United States,Ohio,2021,Solar,950.2,0.76,45.61,0.07
+United States,Ohio,2021,Wind,2586.76,2.07,28.45,0.04
 United States,Oklahoma,2001,Bioenergy,230.7,0.42,53.06,0.14
 United States,Oklahoma,2001,Coal,34615.77,62.65,28384.93,75.79
 United States,Oklahoma,2001,Gas,17943.81,32.48,8792.47,23.48
@@ -5680,14 +5680,14 @@ United States,Oklahoma,2020,Other Fossil,31.71,0.04,22.2,0.08
 United States,Oklahoma,2020,Other Renewables,53.51,0.06,2.03,0.01
 United States,Oklahoma,2020,Solar,92.97,0.11,4.46,0.02
 United States,Oklahoma,2020,Wind,29416.98,35.71,323.59,1.21
-United States,Oklahoma,2021,Bioenergy,318.62,0.39,73.28,0.28
-United States,Oklahoma,2021,Coal,11242.92,13.94,9219.19,35.65
-United States,Oklahoma,2021,Gas,32871.82,40.74,16107.19,62.28
-United States,Oklahoma,2021,Hydro,2622.4,3.25,62.94,0.24
-United States,Oklahoma,2021,Other Fossil,34.4,0.04,24.08,0.09
+United States,Oklahoma,2021,Bioenergy,318.29,0.39,73.21,0.28
+United States,Oklahoma,2021,Coal,11246.01,13.91,9221.73,35.01
+United States,Oklahoma,2021,Gas,33857.24,41.87,16590.05,62.98
+United States,Oklahoma,2021,Hydro,2679.24,3.31,64.3,0.24
+United States,Oklahoma,2021,Other Fossil,36.89,0.05,25.82,0.1
 United States,Oklahoma,2021,Other Renewables,66.17,0.08,2.51,0.01
-United States,Oklahoma,2021,Solar,134.28,0.17,6.45,0.02
-United States,Oklahoma,2021,Wind,33388.38,41.38,367.27,1.42
+United States,Oklahoma,2021,Solar,128.19,0.16,6.15,0.02
+United States,Oklahoma,2021,Wind,32540.31,40.24,357.94,1.36
 United States,Oregon,2001,Bioenergy,750.94,1.67,172.72,1.73
 United States,Oregon,2001,Coal,4445.05,9.87,3644.94,36.5
 United States,Oregon,2001,Gas,10982.96,24.38,5381.65,53.89
@@ -5834,13 +5834,13 @@ United States,Oregon,2020,Other Fossil,46.26,0.07,32.38,0.27
 United States,Oregon,2020,Other Renewables,233.33,0.37,8.87,0.07
 United States,Oregon,2020,Solar,1335.23,2.09,64.09,0.54
 United States,Oregon,2020,Wind,8777.25,13.73,96.55,0.82
-United States,Oregon,2021,Bioenergy,1021.78,1.66,235.01,2.11
-United States,Oregon,2021,Gas,20357.38,33.15,9975.12,89.73
-United States,Oregon,2021,Hydro,28361.18,46.18,680.67,6.12
-United States,Oregon,2021,Other Fossil,35.47,0.06,24.83,0.22
-United States,Oregon,2021,Other Renewables,236.1,0.38,8.97,0.08
-United States,Oregon,2021,Solar,1812.0,2.95,86.98,0.78
-United States,Oregon,2021,Wind,9593.27,15.62,105.53,0.95
+United States,Oregon,2021,Bioenergy,1005.13,1.64,231.18,2.0
+United States,Oregon,2021,Gas,21296.63,34.71,10435.35,90.34
+United States,Oregon,2021,Hydro,27659.57,45.08,663.83,5.75
+United States,Oregon,2021,Other Fossil,35.89,0.06,25.12,0.22
+United States,Oregon,2021,Other Renewables,221.12,0.36,8.4,0.07
+United States,Oregon,2021,Solar,1766.02,2.88,84.77,0.73
+United States,Oregon,2021,Wind,9375.75,15.28,103.13,0.89
 United States,Pennsylvania,2001,Bioenergy,1885.02,0.96,433.55,0.44
 United States,Pennsylvania,2001,Coal,111900.45,56.98,91758.37,93.69
 United States,Pennsylvania,2001,Gas,3036.3,1.55,1487.79,1.52
@@ -6014,15 +6014,15 @@ United States,Pennsylvania,2020,Other Fossil,1519.8,0.66,1063.86,1.31
 United States,Pennsylvania,2020,Other Renewables,30.01,0.01,1.14,0.0
 United States,Pennsylvania,2020,Solar,729.03,0.32,34.99,0.04
 United States,Pennsylvania,2020,Wind,3748.21,1.62,41.23,0.05
-United States,Pennsylvania,2021,Bioenergy,1837.86,0.76,422.71,0.48
-United States,Pennsylvania,2021,Coal,29284.05,12.08,24012.92,26.99
-United States,Pennsylvania,2021,Gas,127345.97,52.54,62399.52,70.12
-United States,Pennsylvania,2021,Hydro,1888.72,0.78,45.33,0.05
-United States,Pennsylvania,2021,Nuclear,75902.23,31.32,910.83,1.02
-United States,Pennsylvania,2021,Other Fossil,1582.28,0.65,1107.6,1.24
-United States,Pennsylvania,2021,Other Renewables,27.82,0.01,1.06,0.0
-United States,Pennsylvania,2021,Solar,965.08,0.4,46.32,0.05
-United States,Pennsylvania,2021,Wind,3535.14,1.46,38.89,0.04
+United States,Pennsylvania,2021,Bioenergy,1765.78,0.73,406.13,0.46
+United States,Pennsylvania,2021,Coal,29297.31,12.11,24023.79,27.1
+United States,Pennsylvania,2021,Gas,126664.88,52.34,62065.79,70.01
+United States,Pennsylvania,2021,Hydro,2443.41,1.01,58.64,0.07
+United States,Pennsylvania,2021,Nuclear,75902.52,31.36,910.83,1.03
+United States,Pennsylvania,2021,Other Fossil,1578.88,0.65,1105.21,1.25
+United States,Pennsylvania,2021,Other Renewables,27.43,0.01,1.04,0.0
+United States,Pennsylvania,2021,Solar,881.58,0.36,42.32,0.05
+United States,Pennsylvania,2021,Wind,3455.17,1.43,38.01,0.04
 United States,Puerto Rico,2016,Bioenergy,0.0,,0.0,
 United States,Puerto Rico,2016,Coal,0.0,,0.0,
 United States,Puerto Rico,2016,Gas,0.0,,0.0,
@@ -6059,12 +6059,12 @@ United States,Puerto Rico,2020,Other Fossil,9093.92,49.92,6365.74,54.63
 United States,Puerto Rico,2020,Solar,286.76,1.57,13.76,0.12
 United States,Puerto Rico,2020,Wind,142.23,0.78,1.56,0.01
 United States,Puerto Rico,2021,Bioenergy,0.0,0.0,0.0,0.0
-United States,Puerto Rico,2021,Coal,3257.27,17.72,2670.96,23.58
-United States,Puerto Rico,2021,Gas,7944.4,43.22,3892.75,34.37
+United States,Puerto Rico,2021,Coal,3257.27,17.53,2670.96,23.4
+United States,Puerto Rico,2021,Gas,7944.4,42.76,3892.75,34.1
 United States,Puerto Rico,2021,Hydro,0.0,0.0,0.0,0.0
-United States,Puerto Rico,2021,Other Fossil,6784.94,36.91,4749.46,41.93
-United States,Puerto Rico,2021,Solar,230.89,1.26,11.08,0.1
-United States,Puerto Rico,2021,Wind,165.73,0.9,1.82,0.02
+United States,Puerto Rico,2021,Other Fossil,6905.7,37.17,4833.99,42.35
+United States,Puerto Rico,2021,Solar,305.86,1.65,14.68,0.13
+United States,Puerto Rico,2021,Wind,165.73,0.89,1.82,0.02
 United States,Rhode Island,2001,Bioenergy,103.62,1.38,23.83,0.65
 United States,Rhode Island,2001,Gas,7325.13,97.64,3589.31,98.01
 United States,Rhode Island,2001,Hydro,3.14,0.04,0.08,0.0
@@ -6175,14 +6175,14 @@ United States,Rhode Island,2020,Other Fossil,4.48,0.05,3.14,0.08
 United States,Rhode Island,2020,Other Renewables,-2.53,-0.03,-0.1,0.0
 United States,Rhode Island,2020,Solar,493.85,5.37,23.7,0.57
 United States,Rhode Island,2020,Wind,214.74,2.34,2.36,0.06
-United States,Rhode Island,2021,Bioenergy,204.36,2.43,47.0,1.28
+United States,Rhode Island,2021,Bioenergy,208.27,2.14,47.9,1.11
 United States,Rhode Island,2021,Coal,0.0,0.0,0.0,0.0
-United States,Rhode Island,2021,Gas,7307.63,86.89,3580.74,97.72
+United States,Rhode Island,2021,Gas,8640.99,88.96,4234.08,97.89
 United States,Rhode Island,2021,Hydro,4.45,0.05,0.11,0.0
-United States,Rhode Island,2021,Other Fossil,0.0,0.0,0.0,0.0
-United States,Rhode Island,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,Rhode Island,2021,Solar,719.82,8.56,34.55,0.94
-United States,Rhode Island,2021,Wind,173.68,2.07,1.91,0.05
+United States,Rhode Island,2021,Other Fossil,12.56,0.13,8.8,0.2
+United States,Rhode Island,2021,Other Renewables,4.07,0.04,0.15,0.0
+United States,Rhode Island,2021,Solar,670.65,6.9,32.19,0.74
+United States,Rhode Island,2021,Wind,172.16,1.77,1.89,0.04
 United States,South Carolina,2001,Bioenergy,894.15,1.0,205.66,0.65
 United States,South Carolina,2001,Coal,36699.0,41.16,30093.18,94.9
 United States,South Carolina,2001,Gas,1176.11,1.32,576.3,1.82
@@ -6317,13 +6317,13 @@ United States,South Carolina,2020,Hydro,3184.21,3.22,76.42,0.33
 United States,South Carolina,2020,Nuclear,54751.09,55.36,657.01,2.8
 United States,South Carolina,2020,Other Fossil,109.85,0.11,76.9,0.33
 United States,South Carolina,2020,Solar,2092.47,2.12,100.44,0.43
-United States,South Carolina,2021,Bioenergy,2310.76,2.3,531.47,2.1
-United States,South Carolina,2021,Coal,15187.88,15.13,12454.06,49.14
-United States,South Carolina,2021,Gas,23271.02,23.19,11402.8,45.0
-United States,South Carolina,2021,Hydro,2952.47,2.94,70.86,0.28
-United States,South Carolina,2021,Nuclear,53771.43,53.58,645.26,2.55
-United States,South Carolina,2021,Other Fossil,153.75,0.15,107.63,0.42
-United States,South Carolina,2021,Solar,2704.64,2.7,129.82,0.51
+United States,South Carolina,2021,Bioenergy,2004.67,2.03,461.08,1.83
+United States,South Carolina,2021,Coal,15188.4,15.37,12454.49,49.4
+United States,South Carolina,2021,Gas,23242.3,23.52,11388.73,45.17
+United States,South Carolina,2021,Hydro,1775.68,1.8,42.62,0.17
+United States,South Carolina,2021,Nuclear,53771.43,54.41,645.26,2.56
+United States,South Carolina,2021,Other Fossil,128.31,0.13,89.82,0.36
+United States,South Carolina,2021,Solar,2707.44,2.74,129.96,0.52
 United States,South Dakota,2001,Coal,3611.68,48.8,2961.58,91.71
 United States,South Dakota,2001,Gas,304.8,4.12,149.35,4.62
 United States,South Dakota,2001,Hydro,3431.86,46.37,82.36,2.55
@@ -6459,14 +6459,14 @@ United States,South Dakota,2020,Other Fossil,7.39,0.05,5.18,0.25
 United States,South Dakota,2020,Other Renewables,0.0,0.0,0.0,0.0
 United States,South Dakota,2020,Solar,3.67,0.03,0.18,0.01
 United States,South Dakota,2020,Wind,5544.17,39.19,60.99,2.9
-United States,South Dakota,2021,Bioenergy,12.42,0.07,2.86,0.12
-United States,South Dakota,2021,Coal,1638.39,9.19,1343.48,57.55
-United States,South Dakota,2021,Gas,1547.93,8.69,758.49,32.49
-United States,South Dakota,2021,Hydro,5295.2,29.72,127.08,5.44
-United States,South Dakota,2021,Other Fossil,0.0,0.0,0.0,0.0
+United States,South Dakota,2021,Bioenergy,22.8,0.13,5.24,0.23
+United States,South Dakota,2021,Coal,1638.39,9.46,1343.48,59.96
+United States,South Dakota,2021,Gas,1311.85,7.57,642.81,28.69
+United States,South Dakota,2021,Hydro,4982.55,28.76,119.58,5.34
+United States,South Dakota,2021,Other Fossil,38.19,0.22,26.73,1.19
 United States,South Dakota,2021,Other Renewables,0.0,0.0,0.0,0.0
-United States,South Dakota,2021,Solar,3.93,0.02,0.19,0.01
-United States,South Dakota,2021,Wind,9321.81,52.31,102.54,4.39
+United States,South Dakota,2021,Solar,3.89,0.02,0.19,0.01
+United States,South Dakota,2021,Wind,9326.62,53.84,102.59,4.58
 United States,Tennessee,2001,Bioenergy,822.03,0.85,189.07,0.38
 United States,Tennessee,2001,Coal,59730.03,62.08,48978.63,97.6
 United States,Tennessee,2001,Gas,455.5,0.47,223.2,0.44
@@ -6635,15 +6635,15 @@ United States,Tennessee,2020,Other Fossil,128.95,0.16,90.27,0.44
 United States,Tennessee,2020,Other Renewables,8.2,0.01,0.31,0.0
 United States,Tennessee,2020,Solar,413.39,0.51,19.84,0.1
 United States,Tennessee,2020,Wind,39.19,0.05,0.43,0.0
-United States,Tennessee,2021,Bioenergy,651.8,0.8,149.91,0.65
-United States,Tennessee,2021,Coal,18259.8,22.38,14973.03,65.0
-United States,Tennessee,2021,Gas,14465.95,17.73,7088.31,30.77
-United States,Tennessee,2021,Hydro,12272.9,15.04,294.55,1.28
-United States,Tennessee,2021,Nuclear,35330.41,43.31,423.96,1.84
-United States,Tennessee,2021,Other Fossil,121.18,0.15,84.83,0.37
-United States,Tennessee,2021,Other Renewables,11.71,0.01,0.45,0.0
-United States,Tennessee,2021,Solar,424.01,0.52,20.35,0.09
-United States,Tennessee,2021,Wind,40.83,0.05,0.45,0.0
+United States,Tennessee,2021,Bioenergy,699.69,0.88,160.93,0.71
+United States,Tennessee,2021,Coal,18259.8,23.07,14973.03,65.78
+United States,Tennessee,2021,Gas,13986.01,17.67,6853.14,30.11
+United States,Tennessee,2021,Hydro,10294.19,13.0,247.06,1.09
+United States,Tennessee,2021,Nuclear,35330.41,44.63,423.96,1.86
+United States,Tennessee,2021,Other Fossil,120.36,0.15,84.25,0.37
+United States,Tennessee,2021,Other Renewables,10.79,0.01,0.41,0.0
+United States,Tennessee,2021,Solar,427.29,0.54,20.51,0.09
+United States,Tennessee,2021,Wind,28.19,0.04,0.31,0.0
 United States,Texas,2001,Bioenergy,993.44,0.27,228.49,0.11
 United States,Texas,2001,Coal,135099.92,36.35,110781.94,53.23
 United States,Texas,2001,Gas,190110.98,51.14,93154.38,44.76
@@ -6815,15 +6815,15 @@ United States,Texas,2020,Other Fossil,3095.47,0.65,2166.83,1.14
 United States,Texas,2020,Other Renewables,95.69,0.02,3.64,0.0
 United States,Texas,2020,Solar,10151.12,2.14,487.25,0.26
 United States,Texas,2020,Wind,92441.0,19.46,1016.85,0.54
-United States,Texas,2021,Bioenergy,1399.96,0.29,321.99,0.17
-United States,Texas,2021,Coal,88781.59,18.28,72800.91,37.79
-United States,Texas,2021,Gas,234941.94,48.36,115121.55,59.77
-United States,Texas,2021,Hydro,1117.11,0.23,26.81,0.01
-United States,Texas,2021,Nuclear,40211.26,8.28,482.54,0.25
-United States,Texas,2021,Other Fossil,2825.17,0.58,1977.62,1.03
-United States,Texas,2021,Other Renewables,95.41,0.02,3.63,0.0
-United States,Texas,2021,Solar,16364.01,3.37,785.47,0.41
-United States,Texas,2021,Wind,100049.28,20.6,1100.54,0.57
+United States,Texas,2021,Bioenergy,1281.41,0.26,294.72,0.15
+United States,Texas,2021,Coal,88818.14,18.35,72830.88,37.98
+United States,Texas,2021,Gas,233120.83,48.15,114229.21,59.56
+United States,Texas,2021,Hydro,1082.47,0.22,25.98,0.01
+United States,Texas,2021,Nuclear,40211.26,8.31,482.54,0.25
+United States,Texas,2021,Other Fossil,2840.73,0.59,1988.51,1.04
+United States,Texas,2021,Other Renewables,89.21,0.02,3.39,0.0
+United States,Texas,2021,Solar,17205.3,3.55,825.85,0.43
+United States,Texas,2021,Wind,99474.22,20.55,1094.22,0.57
 United States,US Total,2001,Bioenergy,49748.06,1.33,11442.05,0.57
 United States,US Total,2001,Coal,1903956.0,51.09,1561243.92,78.23
 United States,US Total,2001,Gas,639129.13,17.15,313173.27,15.69
@@ -7002,15 +7002,15 @@ United States,US Total,2020,Other Fossil,34335.36,0.85,24034.75,1.61
 United States,US Total,2020,Other Renewables,18090.3,0.45,687.43,0.05
 United States,US Total,2020,Solar,130721.09,3.23,6274.61,0.42
 United States,US Total,2020,Wind,337938.06,8.36,3717.32,0.25
-United States,US Total,2021,Bioenergy,55479.11,1.33,12760.19,0.81
-United States,US Total,2021,Coal,898678.5,21.61,736916.37,46.82
-United States,US Total,2021,Gas,1575229.75,37.87,771862.58,49.04
-United States,US Total,2021,Hydro,255113.2,6.13,6122.72,0.39
-United States,US Total,2021,Nuclear,778151.5,18.71,9337.82,0.59
-United States,US Total,2021,Other Fossil,34737.67,0.84,24316.37,1.54
-United States,US Total,2021,Other Renewables,18490.05,0.44,702.62,0.04
-United States,US Total,2021,Solar,163702.8,3.94,7857.73,0.5
-United States,US Total,2021,Wind,379767.25,9.13,4177.44,0.27
+United States,US Total,2021,Bioenergy,54252.23,1.31,12478.01,0.79
+United States,US Total,2021,Coal,897885.25,21.62,736265.91,46.74
+United States,US Total,2021,Gas,1579361.0,38.04,773886.89,49.13
+United States,US Total,2021,Hydro,246473.16,5.94,5915.36,0.38
+United States,US Total,2021,Nuclear,778188.0,18.74,9338.26,0.59
+United States,US Total,2021,Other Fossil,35202.79,0.85,24641.95,1.56
+United States,US Total,2021,Other Renewables,18241.98,0.44,693.2,0.04
+United States,US Total,2021,Solar,164422.45,3.96,7892.28,0.5
+United States,US Total,2021,Wind,378196.78,9.11,4160.16,0.26
 United States,Utah,2001,Bioenergy,5.5,0.02,1.26,0.0
 United States,Utah,2001,Coal,33679.31,93.94,27617.03,97.28
 United States,Utah,2001,Gas,1446.08,4.03,708.58,2.5
@@ -7153,14 +7153,14 @@ United States,Utah,2020,Other Fossil,176.45,0.47,123.52,0.52
 United States,Utah,2020,Other Renewables,377.75,1.0,14.35,0.06
 United States,Utah,2020,Solar,3117.23,8.28,149.63,0.63
 United States,Utah,2020,Wind,802.62,2.13,8.83,0.04
-United States,Utah,2021,Bioenergy,78.65,0.18,18.09,0.07
-United States,Utah,2021,Coal,26375.56,60.9,21627.96,79.46
-United States,Utah,2021,Gas,10555.08,24.37,5171.99,19.0
-United States,Utah,2021,Hydro,757.84,1.75,18.19,0.07
-United States,Utah,2021,Other Fossil,228.91,0.53,160.24,0.59
-United States,Utah,2021,Other Renewables,361.04,0.83,13.72,0.05
-United States,Utah,2021,Solar,4127.16,9.53,198.1,0.73
-United States,Utah,2021,Wind,826.43,1.91,9.09,0.03
+United States,Utah,2021,Bioenergy,80.75,0.19,18.57,0.07
+United States,Utah,2021,Coal,26375.56,61.02,21627.96,79.33
+United States,Utah,2021,Gas,10686.34,24.72,5236.3,19.21
+United States,Utah,2021,Hydro,493.54,1.14,11.85,0.04
+United States,Utah,2021,Other Fossil,205.21,0.47,143.64,0.53
+United States,Utah,2021,Other Renewables,421.94,0.98,16.03,0.06
+United States,Utah,2021,Solar,4136.51,9.57,198.55,0.73
+United States,Utah,2021,Wind,825.23,1.91,9.08,0.03
 United States,Vermont,2001,Bioenergy,370.41,6.76,85.19,46.25
 United States,Vermont,2001,Gas,11.0,0.2,5.39,2.93
 United States,Vermont,2001,Hydro,884.21,16.13,21.22,11.52
@@ -7285,12 +7285,12 @@ United States,Vermont,2020,Hydro,1129.67,48.48,27.11,17.55
 United States,Vermont,2020,Other Fossil,-0.79,-0.03,-0.55,-0.36
 United States,Vermont,2020,Solar,356.74,15.31,17.12,11.08
 United States,Vermont,2020,Wind,383.59,16.46,4.22,2.73
-United States,Vermont,2021,Bioenergy,538.28,23.09,123.8,71.12
-United States,Vermont,2021,Gas,2.05,0.09,1.01,0.58
-United States,Vermont,2021,Hydro,1074.84,46.11,25.8,14.82
-United States,Vermont,2021,Other Fossil,2.51,0.11,1.75,1.01
-United States,Vermont,2021,Solar,375.04,16.09,18.0,10.34
-United States,Vermont,2021,Wind,338.19,14.51,3.72,2.14
+United States,Vermont,2021,Bioenergy,496.32,21.63,114.15,68.8
+United States,Vermont,2021,Gas,2.05,0.09,1.01,0.61
+United States,Vermont,2021,Hydro,1092.77,47.63,26.23,15.81
+United States,Vermont,2021,Other Fossil,5.07,0.22,3.55,2.14
+United States,Vermont,2021,Solar,359.72,15.68,17.27,10.41
+United States,Vermont,2021,Wind,338.19,14.74,3.72,2.24
 United States,Virginia,2001,Bioenergy,1747.07,2.36,401.83,1.06
 United States,Virginia,2001,Coal,37769.91,50.97,30971.33,81.91
 United States,Virginia,2001,Gas,4196.07,5.66,2056.07,5.44
@@ -7438,14 +7438,14 @@ United States,Virginia,2020,Nuclear,30140.05,29.18,361.68,1.02
 United States,Virginia,2020,Other Fossil,788.15,0.76,551.71,1.55
 United States,Virginia,2020,Other Renewables,18.06,0.02,0.69,0.0
 United States,Virginia,2020,Solar,1584.77,1.53,76.07,0.21
-United States,Virginia,2021,Bioenergy,3452.47,3.65,794.07,2.56
-United States,Virginia,2021,Coal,3129.95,3.31,2566.56,8.28
-United States,Virginia,2021,Gas,54106.48,57.17,26512.17,85.49
-United States,Virginia,2021,Hydro,776.89,0.82,18.65,0.06
-United States,Virginia,2021,Nuclear,28571.52,30.19,342.86,1.11
-United States,Virginia,2021,Other Fossil,857.39,0.91,600.18,1.94
-United States,Virginia,2021,Other Renewables,17.38,0.02,0.66,0.0
-United States,Virginia,2021,Solar,3675.1,3.88,176.4,0.57
+United States,Virginia,2021,Bioenergy,3594.44,3.83,826.72,2.68
+United States,Virginia,2021,Coal,3248.47,3.46,2663.75,8.62
+United States,Virginia,2021,Gas,53611.27,57.15,26269.52,85.04
+United States,Virginia,2021,Hydro,267.02,0.28,6.41,0.02
+United States,Virginia,2021,Nuclear,28571.52,30.45,342.86,1.11
+United States,Virginia,2021,Other Fossil,868.38,0.93,607.86,1.97
+United States,Virginia,2021,Other Renewables,17.29,0.02,0.66,0.0
+United States,Virginia,2021,Solar,3587.75,3.82,172.21,0.56
 United States,Virginia,2021,Wind,49.58,0.05,0.55,0.0
 United States,Washington,2001,Bioenergy,1221.33,1.47,280.91,2.01
 United States,Washington,2001,Coal,9082.36,10.93,7447.53,53.17
@@ -7620,15 +7620,15 @@ United States,Washington,2020,Other Fossil,379.81,0.33,265.87,1.93
 United States,Washington,2020,Other Renewables,24.95,0.02,0.95,0.01
 United States,Washington,2020,Solar,295.81,0.25,14.2,0.1
 United States,Washington,2020,Wind,9265.6,7.96,101.92,0.74
-United States,Washington,2021,Bioenergy,1436.29,1.31,330.35,2.59
-United States,Washington,2021,Coal,3132.52,2.86,2568.67,20.16
-United States,Washington,2021,Gas,15713.76,14.36,7699.74,60.43
-United States,Washington,2021,Hydro,70443.8,64.36,1690.65,13.27
-United States,Washington,2021,Nuclear,8511.29,7.78,102.14,0.8
-United States,Washington,2021,Other Fossil,325.58,0.3,227.91,1.79
-United States,Washington,2021,Other Renewables,26.05,0.02,0.99,0.01
-United States,Washington,2021,Solar,361.94,0.33,17.37,0.14
-United States,Washington,2021,Wind,9508.3,8.69,104.59,0.82
+United States,Washington,2021,Bioenergy,1510.78,1.36,347.48,2.63
+United States,Washington,2021,Coal,3132.52,2.82,2568.67,19.44
+United States,Washington,2021,Gas,16589.25,14.93,8128.73,61.51
+United States,Washington,2021,Hydro,71381.34,64.23,1713.15,12.96
+United States,Washington,2021,Nuclear,8511.29,7.66,102.14,0.77
+United States,Washington,2021,Other Fossil,335.25,0.3,234.68,1.78
+United States,Washington,2021,Other Renewables,21.66,0.02,0.82,0.01
+United States,Washington,2021,Solar,358.6,0.32,17.21,0.13
+United States,Washington,2021,Wind,9297.76,8.37,102.28,0.77
 United States,"Washington, D.C.",2001,Other Fossil,123.24,100.0,86.27,100.0
 United States,"Washington, D.C.",2002,Other Fossil,261.98,100.0,183.39,100.0
 United States,"Washington, D.C.",2003,Other Fossil,74.14,100.0,51.9,100.0
@@ -7678,11 +7678,11 @@ United States,"Washington, D.C.",2020,Gas,133.54,35.66,65.43,75.69
 United States,"Washington, D.C.",2020,Other Fossil,0.02,0.01,0.01,0.02
 United States,"Washington, D.C.",2020,Other Renewables,54.85,14.65,2.08,2.41
 United States,"Washington, D.C.",2020,Solar,131.21,35.04,6.3,7.29
-United States,"Washington, D.C.",2021,Bioenergy,55.72,13.21,12.82,14.22
-United States,"Washington, D.C.",2021,Gas,136.5,32.37,66.89,74.19
-United States,"Washington, D.C.",2021,Other Fossil,0.0,0.0,0.0,0.0
-United States,"Washington, D.C.",2021,Other Renewables,55.72,13.21,2.12,2.35
-United States,"Washington, D.C.",2021,Solar,173.71,41.2,8.34,9.25
+United States,"Washington, D.C.",2021,Bioenergy,55.72,13.44,12.82,14.23
+United States,"Washington, D.C.",2021,Gas,137.04,33.06,67.15,74.54
+United States,"Washington, D.C.",2021,Other Fossil,0.04,0.01,0.03,0.03
+United States,"Washington, D.C.",2021,Other Renewables,55.72,13.44,2.12,2.35
+United States,"Washington, D.C.",2021,Solar,166.06,40.05,7.97,8.85
 United States,West Virginia,2001,Bioenergy,15.53,0.02,3.57,0.01
 United States,West Virginia,2001,Coal,80214.41,98.02,65775.81,99.36
 United States,West Virginia,2001,Gas,275.86,0.34,135.17,0.2
@@ -7817,10 +7817,10 @@ United States,West Virginia,2020,Hydro,1592.03,2.81,38.21,0.09
 United States,West Virginia,2020,Other Fossil,172.18,0.3,120.52,0.28
 United States,West Virginia,2020,Solar,15.37,0.03,0.74,0.0
 United States,West Virginia,2020,Wind,1897.8,3.35,20.88,0.05
-United States,West Virginia,2021,Bioenergy,6.34,0.01,1.46,0.0
-United States,West Virginia,2021,Coal,59612.82,90.8,48882.52,97.01
-United States,West Virginia,2021,Gas,2667.15,4.06,1306.9,2.59
-United States,West Virginia,2021,Hydro,1516.18,2.31,36.39,0.07
+United States,West Virginia,2021,Bioenergy,10.17,0.02,2.34,0.0
+United States,West Virginia,2021,Coal,59667.59,90.6,48927.42,97.04
+United States,West Virginia,2021,Gas,2625.67,3.99,1286.58,2.55
+United States,West Virginia,2021,Hydro,1704.56,2.59,40.91,0.08
 United States,West Virginia,2021,Other Fossil,203.93,0.31,142.75,0.28
 United States,West Virginia,2021,Solar,22.04,0.03,1.06,0.0
 United States,West Virginia,2021,Wind,1624.14,2.47,17.87,0.04
@@ -7991,15 +7991,15 @@ United States,Wisconsin,2020,Other Fossil,48.35,0.08,33.84,0.11
 United States,Wisconsin,2020,Other Renewables,65.87,0.11,2.5,0.01
 United States,Wisconsin,2020,Solar,222.51,0.36,10.68,0.03
 United States,Wisconsin,2020,Wind,1763.38,2.86,19.4,0.06
-United States,Wisconsin,2021,Bioenergy,1128.2,1.72,259.49,0.77
-United States,Wisconsin,2021,Coal,27439.12,41.84,22500.08,66.34
-United States,Wisconsin,2021,Gas,22211.29,33.87,10883.53,32.09
-United States,Wisconsin,2021,Hydro,2504.33,3.82,60.1,0.18
-United States,Wisconsin,2021,Nuclear,9970.19,15.2,119.64,0.35
-United States,Wisconsin,2021,Other Fossil,64.14,0.1,44.9,0.13
-United States,Wisconsin,2021,Other Renewables,63.36,0.1,2.41,0.01
-United States,Wisconsin,2021,Solar,581.15,0.89,27.9,0.08
-United States,Wisconsin,2021,Wind,1614.97,2.46,17.76,0.05
+United States,Wisconsin,2021,Bioenergy,1071.65,1.66,246.48,0.73
+United States,Wisconsin,2021,Coal,27441.59,42.63,22502.1,67.05
+United States,Wisconsin,2021,Gas,21342.0,33.16,10457.58,31.16
+United States,Wisconsin,2021,Hydro,2144.88,3.33,51.48,0.15
+United States,Wisconsin,2021,Nuclear,9970.19,15.49,119.64,0.36
+United States,Wisconsin,2021,Other Fossil,192.17,0.3,134.52,0.4
+United States,Wisconsin,2021,Other Renewables,62.68,0.1,2.38,0.01
+United States,Wisconsin,2021,Solar,548.85,0.85,26.35,0.08
+United States,Wisconsin,2021,Wind,1593.48,2.48,17.53,0.05
 United States,Wyoming,2001,Coal,42789.31,95.56,35087.23,98.81
 United States,Wyoming,2001,Gas,591.84,1.32,290.0,0.82
 United States,Wyoming,2001,Hydro,879.11,1.96,21.1,0.06
@@ -8107,9 +8107,9 @@ United States,Wyoming,2020,Hydro,1086.0,2.58,26.06,0.09
 United States,Wyoming,2020,Other Fossil,514.19,1.22,359.93,1.26
 United States,Wyoming,2020,Solar,178.32,0.42,8.56,0.03
 United States,Wyoming,2020,Wind,5512.63,13.12,60.64,0.21
-United States,Wyoming,2021,Coal,31984.89,73.24,26227.61,95.5
-United States,Wyoming,2021,Gas,1542.47,3.53,755.81,2.75
-United States,Wyoming,2021,Hydro,989.99,2.27,23.76,0.09
-United States,Wyoming,2021,Other Fossil,505.59,1.16,353.91,1.29
-United States,Wyoming,2021,Solar,196.88,0.45,9.45,0.03
-United States,Wyoming,2021,Wind,8448.65,19.35,92.94,0.34
+United States,Wyoming,2021,Coal,32038.13,73.69,26271.27,95.6
+United States,Wyoming,2021,Gas,1500.7,3.45,735.34,2.68
+United States,Wyoming,2021,Hydro,790.45,1.82,18.97,0.07
+United States,Wyoming,2021,Other Fossil,504.54,1.16,353.18,1.29
+United States,Wyoming,2021,Solar,196.89,0.45,9.45,0.03
+United States,Wyoming,2021,Wind,8447.86,19.43,92.93,0.34
