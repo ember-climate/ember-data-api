@@ -136,16 +136,16 @@ INSERT INTO
         GROUP BY
             country_or_region
     ),
-    latest_selected_month as(
-        SELECT
-            country_or_region,
-            CASE
-                WHEN year(max_monthly_actual_generation_date) <= {api_year} THEN str_to_date(concat('01-12-', '{api_year}'), '%%d-%%m-%%Y')
-                ELSE max_monthly_actual_generation_date
-            END as max_selected_generation_date
-        FROM
-            latest_actual_month
-    ),
+    -- latest_selected_month as(
+    --     SELECT
+    --         country_or_region,
+    --         CASE
+    --             WHEN year(max_monthly_actual_generation_date) <= {api_year} THEN str_to_date(concat('01-12-', '{api_year}'), '%%d-%%m-%%Y')
+    --             ELSE max_monthly_actual_generation_date
+    --         END as max_selected_generation_date
+    --     FROM
+    --         latest_actual_month
+    -- ),
     expanded_table as(
         SELECT
             country_or_region,
@@ -221,12 +221,10 @@ FROM
     LEFT JOIN dim_country country ON generation.country_or_region = country.country_name
     LEFT JOIN oecd_demand_rank ON generation.country_or_region = oecd_demand_rank.country_name
     LEFT JOIN eu_demand_rank ON generation.country_or_region = eu_demand_rank.country_name
-    LEFT JOIN latest_selected_month ON generation.country_or_region = latest_selected_month.country_or_region
+    LEFT JOIN latest_actual_month ON generation.country_or_region = latest_actual_month.country_or_region
 WHERE
-    generation_date BETWEEN '2000-01-01' AND latest_selected_month.max_selected_generation_date
+    generation_date BETWEEN '2000-01-01' AND latest_actual_month.max_monthly_actual_generation_date
     AND generation.country_or_region IS NOT NULL
-    AND (generation.country_or_region, generation.generation_date) != ('EU', '2022-12-01')
-    AND (generation.country_or_region, generation.generation_date) != ('Europe', '2022-12-01')
 ORDER BY
     country_or_region,
     generation_date,

@@ -10,7 +10,7 @@ from utils.handle_db_connections import handle_db_connections
 
 
 # Set the max year for the api. Needs to be changed once new year data will be read in
-API_YEAR = 2021
+API_YEAR = 2022
 
 # Lay out the tables we use and how we process them
 SQL_DATASET_LIST = [

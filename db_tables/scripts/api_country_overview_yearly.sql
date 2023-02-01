@@ -101,5 +101,16 @@ LEFT JOIN eu_demand_rank
 WHERE "year" BETWEEN 2000 AND {api_year}
     AND overview.country_or_region IS NOT NULL 
 	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
-	AND (overview.country_or_region, "year") != ('Middle East', 2021)  
-AND overview.country_or_region IS NOT NULL
+	AND (overview.country_or_region, overview.year) != ('Middle East', 2022)
+    AND (overview.country_or_region, overview.year) != ('Middle East', 2022)
+    AND (country.eu_member_flag, CASE WHEN overview.country_code IS NULL THEN 'region' ELSE 'country' END, overview.year) != (0, 'country', 2022)
+    AND (overview.country_or_region, overview.year) != ('North America', 2022)
+    AND (overview.country_or_region, overview.year) != ('Africa', 2022)
+    AND (overview.country_or_region, overview.year) != ('Latin America and Caribbean', 2022)
+    AND (overview.country_or_region, overview.year) != ('Oceania', 2022)
+    AND (overview.country_or_region, overview.year) != ('Asia', 2022)
+    AND (overview.country_or_region, overview.year) != ('G20', 2022)
+    AND (overview.country_or_region, overview.year) != ('G7', 2022)
+    AND (overview.country_or_region, overview.year) != ('OECD', 2022)
+    AND (overview.country_or_region, overview.year) != ('World', 2022)  
+    AND overview.country_or_region IS NOT NULL
