@@ -98,6 +98,7 @@ INSERT INTO
             share_of_generation_pct,
             emissions_mtco2,
             fossil_flag,
+            wind_solar_flag,
             projected_estimate_flag
         FROM
             published.mart_generation_monthly_global generation
@@ -111,6 +112,7 @@ INSERT INTO
             share_of_generation_pct,
             emissions_mtco2,
             fossil_flag,
+            wind_solar_flag,
             0 as projected_estimate_flag
         FROM
             published.mart_generation_monthly_region gen
@@ -176,6 +178,22 @@ INSERT INTO
             country_code,
             generation_date,
             fossil_flag
+        UNION
+        SELECT
+            country_or_region,
+            country_code,
+            generation_date,
+            'Wind and solar' as variable,
+            SUM(generation_twh) as generation_twh,
+            SUM(share_of_generation_pct) as share_of_generation_pct,
+            SUM(emissions_mtco2) as emissions_mtco2
+        FROM
+            combined_gen
+        WHERE wind_solar_flag
+        GROUP BY
+            country_or_region,
+            country_code,
+            generation_date
     ),
     latest_year as(
         SELECT
