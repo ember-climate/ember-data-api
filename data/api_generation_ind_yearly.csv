@@ -705,7 +705,7 @@ India,India Total,2021,Solar,68305.89,4.65,49430.11,3278.68,0.36
 India,India Total,2021,Wind,68094.26,4.63,40067.27,749.04,0.08
 India,India Total,2021,Wind and solar,136400.15,9.28,89497.38,4027.72,0.44
 India,India Total,2022,Bioenergy,16349.01,1.03,10725.84,3760.27,0.38
-India,India Total,2022,Clean,404759.55,25.39,174442.46,13936.1,1.43
+India,India Total,2022,Clean,404759.55,25.39,174442.51,13936.1,1.43
 India,India Total,2022,Coal,1164741.5,73.03,210632.33,955088.03,97.31
 India,India Total,2022,Fossil,1190074.64,74.62,236008.91,967538.5,98.58
 India,India Total,2022,Gas,25155.85,1.58,24814.21,12326.37,1.26
@@ -713,10 +713,10 @@ India,India Total,2022,Hydro,174506.78,10.94,51738.82,4188.16,0.43
 India,India Total,2022,Nuclear,46194.68,2.9,6780.0,554.34,0.06
 India,India Total,2022,Other Fossil,177.29,0.01,562.37,124.1,0.01
 India,India Total,2022,Other Renewables,2503.62,0.16,,95.14,0.01
-India,India Total,2022,Renewables,358564.87,22.49,167662.46,13381.76,1.37
-India,India Total,2022,Solar,95160.3,5.97,63302.52,4567.69,0.47
+India,India Total,2022,Renewables,358564.87,22.49,167662.51,13381.76,1.37
+India,India Total,2022,Solar,95160.3,5.97,63302.57,4567.69,0.47
 India,India Total,2022,Wind,70045.16,4.39,41895.28,770.5,0.08
-India,India Total,2022,Wind and solar,165205.46,10.36,105197.8,5338.19,0.55
+India,India Total,2022,Wind and solar,165205.46,10.36,105197.85,5338.19,0.55
 India,Jammu and Kashmir,2019,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2019,Clean,18508.58,100.0,3648.78,444.21,100.0
 India,Jammu and Kashmir,2019,Coal,0.0,0.0,0.0,0.0,0.0
@@ -1550,7 +1550,7 @@ India,Rajasthan,2021,Solar,13635.36,17.55,10009.77,654.5,1.61
 India,Rajasthan,2021,Wind,6541.34,8.42,4326.82,71.95,0.18
 India,Rajasthan,2021,Wind and solar,20176.7,25.97,14336.59,726.45,1.79
 India,Rajasthan,2022,Bioenergy,392.57,0.38,125.08,90.29,0.18
-India,Rajasthan,2022,Clean,46200.94,44.37,22762.5,1773.85,3.62
+India,Rajasthan,2022,Clean,46200.94,44.37,22762.55,1773.85,3.62
 India,Rajasthan,2022,Coal,56548.3,54.31,10480.0,46369.61,94.99
 India,Rajasthan,2022,Fossil,57916.81,55.62,11502.83,47040.18,96.36
 India,Rajasthan,2022,Gas,1368.51,1.31,1022.83,670.57,1.37
@@ -1558,10 +1558,10 @@ India,Rajasthan,2022,Hydro,910.86,0.87,434.85,21.86,0.04
 India,Rajasthan,2022,Nuclear,7488.23,7.19,1180.0,89.86,0.18
 India,Rajasthan,2022,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Rajasthan,2022,Other Renewables,0.0,0.0,,0.0,0.0
-India,Rajasthan,2022,Renewables,38712.71,37.18,21582.5,1683.99,3.44
-India,Rajasthan,2022,Solar,31360.45,30.12,16340.75,1505.3,3.08
+India,Rajasthan,2022,Renewables,38712.71,37.18,21582.55,1683.99,3.44
+India,Rajasthan,2022,Solar,31360.45,30.12,16340.8,1505.3,3.08
 India,Rajasthan,2022,Wind,6048.83,5.81,4681.82,66.54,0.14
-India,Rajasthan,2022,Wind and solar,37409.28,35.93,21022.57,1571.84,3.22
+India,Rajasthan,2022,Wind and solar,37409.28,35.93,21022.62,1571.84,3.22
 India,Sikkim,2019,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Sikkim,2019,Clean,11099.39,100.0,2221.18,266.39,100.0
 India,Sikkim,2019,Coal,0.0,0.0,0.0,0.0,0.0
