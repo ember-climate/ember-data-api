@@ -243,8 +243,6 @@ FROM
 WHERE
     generation_date BETWEEN '2000-01-01' AND latest_actual_month.max_monthly_actual_generation_date
     AND generation.country_or_region IS NOT NULL
-    AND (country.generation.country_or_region, generation.generation_date) != ('United Kingdom', '2022-12-01')
-    AND (country.generation.country_or_region, year(generation.generation_date)) != ('United Kingdom', 2023)
 ORDER BY
     country_or_region,
     generation_date,
