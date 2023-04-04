@@ -29,7 +29,7 @@ SQL_DATASET_LIST = [
 
 ]
 PY_DATASET_LIST = ['api_day_ahead_price']
-NO_DB_TABLE_LIST = ['euromod_2022']
+NO_DB_TABLE_LIST = ['euromod_2022', 'generation_tur_monthly']
 
 
 @handle_db_connections
