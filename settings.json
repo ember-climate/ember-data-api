@@ -1,3 +1,4 @@
 {
-    "max_returned_rows": 5000
+    "max_returned_rows": 10000,
+    "sql_time_limit_ms": 3500
 }
