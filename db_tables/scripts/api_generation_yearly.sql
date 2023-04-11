@@ -241,16 +241,6 @@ WHERE
         'Timor-Leste'
     )
     AND (generation.country_or_region, generation.year) != ('Middle East', 2022)
-    AND (country.eu_member_flag, CASE WHEN generation.country_code IS NULL THEN 'region' ELSE 'country' END, generation.year) != (0, 'country', 2022)
-    AND (generation.country_or_region, generation.year) != ('North America', 2022)
-    AND (generation.country_or_region, generation.year) != ('Africa', 2022)
-    AND (generation.country_or_region, generation.year) != ('Latin America and Caribbean', 2022)
-    AND (generation.country_or_region, generation.year) != ('Oceania', 2022)
-    AND (generation.country_or_region, generation.year) != ('Asia', 2022)
-    AND (generation.country_or_region, generation.year) != ('G20', 2022)
-    AND (generation.country_or_region, generation.year) != ('G7', 2022)
-    AND (generation.country_or_region, generation.year) != ('OECD', 2022)
-    AND (generation.country_or_region, generation.year) != ('World', 2022)
 ORDER BY
     generation.country_or_region,
     generation."year",
