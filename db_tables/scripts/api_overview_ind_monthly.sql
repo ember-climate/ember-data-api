@@ -18,5 +18,3 @@ SELECT
 FROM published.mart_overview_monthly_ind_states states
 LEFT JOIN published.dim_country country
     ON country.country_code = states.country_code
-
-
