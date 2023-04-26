@@ -44,6 +44,12 @@
                     "license_url": "https://creativecommons.org/licenses/by/4.0/",
                     "size": "max"
                 },
+                "overview_tur_monthly": {
+                    "description_html": "Subnational monthly electricity overview for Türkiye",
+                    "license": "CC BY 4.0",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "size": "max"
+                },
                 "day_ahead_price_monthly": {
                     "description_html": "Monthly Electricity Prices by Country",
                     "license": "CC BY 4.0",
