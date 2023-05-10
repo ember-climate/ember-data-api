@@ -116,7 +116,8 @@ INSERT INTO
             0 as projected_estimate_flag
         FROM
             published.mart_generation_monthly_region gen
-            LEFT JOIN published.dim_region reg ON gen.region = reg.region
+            LEFT JOIN published.dim_region reg 
+            ON gen.region = reg.region
         WHERE
             reg.include_monthly
             AND generation_date BETWEEN reg.monthly_start_date
