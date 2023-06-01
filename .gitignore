@@ -111,3 +111,4 @@ venv.bak/
 .Rproj
 config.ini
 .DS_Store
+.vscode/settings.json
