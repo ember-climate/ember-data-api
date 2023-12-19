@@ -102,4 +102,5 @@ WHERE "year" BETWEEN 2000 AND {api_year}
     AND overview.country_or_region IS NOT NULL 
 	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
 	AND (overview.country_or_region, overview.year) != ('Middle East', 2022)
+	AND (overview.country_or_region, overview.year) != ('Africa', 2022)
     AND overview.country_or_region IS NOT NULL

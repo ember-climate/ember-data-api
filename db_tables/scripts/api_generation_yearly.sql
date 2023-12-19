@@ -241,6 +241,7 @@ WHERE
         'Timor-Leste'
     )
     AND (generation.country_or_region, generation.year) != ('Middle East', 2022)
+    AND (generation.country_or_region, generation.year) != ('Africa', 2022)
 ORDER BY
     generation.country_or_region,
     generation."year",
