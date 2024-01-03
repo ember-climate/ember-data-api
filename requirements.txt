@@ -1,5 +1,5 @@
 datasette
 sqlite-utils
-SQLAlchemy
-pandas
+SQLAlchemy==1.4.36
+pandas==1.5.3
 pymysql

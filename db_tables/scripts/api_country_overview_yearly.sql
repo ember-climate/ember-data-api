@@ -46,6 +46,7 @@ WITH region_demand_rank as(
         demand_mwh_per_capita,
         emissions_intensity_gco2_per_kwh
     FROM published.mart_overview_yearly_global
+    WHERE projected_from_yearly_flag = 0
     UNION
     SELECT 
         region as country_or_region,

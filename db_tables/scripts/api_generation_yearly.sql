@@ -116,6 +116,7 @@ INSERT INTO
             wind_solar_flag
         FROM
             published.mart_generation_yearly_global generation
+            WHERE projected_from_yearly_flag = 0
         UNION
         SELECT
             region as country_or_region,
