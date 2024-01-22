@@ -55,11 +55,11 @@ def _combine_prices(country_df: pd.DataFrame, maxmin_df: pd.DataFrame) -> pd.Dat
 
 
 def _add_popup_date_column(source_df: pd.DataFrame, grain: str) -> pd.DataFrame:
-    match grain.split(' ')[0]:
-        case 'daily':
-            source_df['popup_date'] = pd.to_datetime(source_df['Date']).dt.strftime('%d %b %y (%a)')
-        case 'monthly':
-            source_df['popup_date'] = pd.to_datetime(source_df['Date']).dt.strftime('%b %y')
+    time_grain = grain.split(' ')[0]
+    if time_grain == 'daily':
+        source_df['popup_date'] = pd.to_datetime(source_df['Date']).dt.strftime('%d %b %y (%a)')
+    elif time_grain == 'monthly':
+        source_df['popup_date'] = pd.to_datetime(source_df['Date']).dt.strftime('%b %y')
     return source_df
 
 
