@@ -99,9 +99,23 @@ LEFT JOIN oecd_demand_rank
     ON overview.country_or_region = oecd_demand_rank.country_name
 LEFT JOIN eu_demand_rank
     ON overview.country_or_region = eu_demand_rank.country_name
-WHERE "year" BETWEEN 2000 AND {api_year}
-    AND overview.country_or_region IS NOT NULL 
-	AND overview.country_or_region NOT IN ('Bermuda', 'Western Sahara', 'Gibraltar', 'Niue', 'Saint Helena, Ascension and Tristan da Cunha', 'Timor-Leste')
-	AND (overview.country_or_region, overview.year) != ('Middle East', 2022)
-	AND (overview.country_or_region, overview.year) != ('Africa', 2022)
+WHERE
+    ("year" BETWEEN 2000
+    AND {api_year}
     AND overview.country_or_region IS NOT NULL
+    AND overview.country_or_region NOT IN (
+        'Bermuda',
+        'Western Sahara',
+        'Gibraltar',
+        'Niue',
+        'Saint Helena, Ascension and Tristan da Cunha',
+        'Timor-Leste'
+    )
+    AND (overview.country_or_region, overview.year) != ('Middle East', 2022)
+    AND (overview.country_or_region, overview.year) != ('Africa', 2022))
+    OR (
+        "Year" = 2023
+        AND (overview.country_code IN (
+            SELECT DISTINCT country_code 
+            FROM published.mart_generation_yearly_analysis_europe
+        ) OR overview.country_or_region = 'EU'))
