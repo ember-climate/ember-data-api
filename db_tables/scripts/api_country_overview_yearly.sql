@@ -118,4 +118,6 @@ WHERE
         AND (overview.country_code IN (
             SELECT DISTINCT country_code 
             FROM published.mart_generation_yearly_analysis_europe
+            WHERE
+                country_code != 'UKR'
         ) OR overview.country_or_region = 'EU'))
