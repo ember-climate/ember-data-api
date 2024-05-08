@@ -230,7 +230,7 @@ FROM
     LEFT JOIN oecd_demand_rank ON generation.country_or_region = oecd_demand_rank.country_name
     LEFT JOIN eu_demand_rank ON generation.country_or_region = eu_demand_rank.country_name
 WHERE
-    ("year" BETWEEN 2000
+    "year" BETWEEN 2000
     AND {api_year}
     AND generation.country_or_region IS NOT NULL
     AND generation.country_or_region NOT IN (
@@ -241,16 +241,8 @@ WHERE
         'Saint Helena, Ascension and Tristan da Cunha',
         'Timor-Leste'
     )
-    AND (generation.country_or_region, generation.year) != ('Middle East', 2022)
-    AND (generation.country_or_region, generation.year) != ('Africa', 2022))
-    OR (
-        "Year" = 2023
-        AND (generation.country_code IN (
-            SELECT DISTINCT country_code 
-            FROM published.mart_generation_yearly_analysis_europe
-            WHERE
-                country_code != 'UKR'
-        ) OR generation.country_or_region = 'EU'))
+    AND ("Year", generation.country_or_region) != (2023, 'Ukraine')
+
 ORDER BY
     generation.country_or_region,
     generation."year",
