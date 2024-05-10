@@ -107,7 +107,6 @@ LEFT JOIN oecd_demand_rank
 LEFT JOIN eu_demand_rank
     ON overview.country_or_region = eu_demand_rank.country_name
 WHERE generation_date > '2000-01-01'
-    AND generation_date < '2024-04-01'
     AND overview.country_or_region IS NOT NULL 
 ORDER BY
     country_or_region,
