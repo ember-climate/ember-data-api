@@ -244,7 +244,6 @@ FROM
 WHERE
     generation_date BETWEEN '2000-01-01'
     AND latest_actual_month.max_monthly_actual_generation_date
-    AND generation_date < '2024-04-01'
     AND generation.country_or_region IS NOT NULL
 ORDER BY
     country_or_region,
