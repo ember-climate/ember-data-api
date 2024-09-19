@@ -491,14 +491,14 @@ India,Dadra and Nagar Haveli and Daman and Diu,2022,Renewables,53.97,100.0,46.47
 India,Dadra and Nagar Haveli and Daman and Diu,2022,Solar,47.32,87.68,46.47,2.27,59.76
 India,Dadra and Nagar Haveli and Daman and Diu,2022,Wind,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2022,Wind and solar,47.32,87.68,46.47,2.27,59.76
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Bioenergy,9.71,38.78,,2.23,75.22
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Clean,25.04,100.0,,2.97,100.0
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Hydro,0.0,0.0,,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Bioenergy,9.71,38.78,0.0,2.23,75.22
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Clean,25.04,100.0,46.47,2.97,100.0
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Dadra and Nagar Haveli and Daman and Diu,2023,Other Renewables,0.0,0.0,,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Renewables,25.04,100.0,,2.97,100.0
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Solar,15.33,61.22,,0.74,24.78
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Wind,0.0,0.0,,0.0,0.0
-India,Dadra and Nagar Haveli and Daman and Diu,2023,Wind and solar,15.33,61.22,,0.74,24.78
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Renewables,25.04,100.0,46.47,2.97,100.0
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Solar,15.33,61.22,46.47,0.74,24.78
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Wind,0.0,0.0,0.0,0.0,0.0
+India,Dadra and Nagar Haveli and Daman and Diu,2023,Wind and solar,15.33,61.22,46.47,0.74,24.78
 India,Delhi,2019,Bioenergy,0.0,0.0,52.0,0.0,0.0
 India,Delhi,2019,Clean,402.3,6.62,208.12,16.4,0.59
 India,Delhi,2019,Coal,0.0,0.0,0.0,0.0,0.0
@@ -877,7 +877,7 @@ India,India Total,2022,Solar,95160.3,5.97,63302.57,4567.69,0.47
 India,India Total,2022,Wind,70045.16,4.39,41895.28,770.5,0.08
 India,India Total,2022,Wind and solar,165205.46,10.36,105197.85,5338.19,0.55
 India,India Total,2023,Bioenergy,14929.92,0.88,10844.7,3433.88,0.32
-India,India Total,2023,Clean,410071.16,24.06,188188.91,14030.69,1.3
+India,India Total,2023,Clean,410071.16,24.06,188240.35,14030.69,1.3
 India,India Total,2023,Coal,1265172.25,74.2,214422.33,1037441.25,97.31
 India,India Total,2023,Fossil,1294908.26,75.94,240012.91,1052081.71,98.68
 India,India Total,2023,Gas,29403.52,1.72,25028.21,14407.72,1.35
@@ -885,10 +885,10 @@ India,India Total,2023,Hydro,148747.5,8.72,51860.92,3569.94,0.33
 India,India Total,2023,Nuclear,48204.43,2.83,7480.0,578.45,0.05
 India,India Total,2023,Other Fossil,332.49,0.02,562.37,232.74,0.02
 India,India Total,2023,Other Renewables,2673.58,0.16,,101.6,0.01
-India,India Total,2023,Renewables,361866.73,21.23,180708.91,13452.24,1.25
-India,India Total,2023,Solar,113409.34,6.65,73267.04,5443.65,0.51
+India,India Total,2023,Renewables,361866.73,21.23,180760.35,13452.24,1.25
+India,India Total,2023,Solar,113409.34,6.65,73318.48,5443.65,0.51
 India,India Total,2023,Wind,82106.39,4.82,44736.25,903.17,0.08
-India,India Total,2023,Wind and solar,195515.73,11.47,118003.29,6346.82,0.59
+India,India Total,2023,Wind and solar,195515.73,11.47,118054.73,6346.82,0.59
 India,Jammu and Kashmir,2019,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2019,Clean,18508.58,100.0,3648.78,444.21,100.0
 India,Jammu and Kashmir,2019,Coal,0.0,0.0,0.0,0.0,0.0
@@ -1240,8 +1240,8 @@ India,Lakshadweep,2022,Renewables,0.11,100.0,3.27,0.01,100.0
 India,Lakshadweep,2022,Solar,0.11,100.0,3.27,0.01,100.0
 India,Lakshadweep,2022,Wind,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2022,Wind and solar,0.11,100.0,3.27,0.01,100.0
-India,Lakshadweep,2023,Bioenergy,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2023,Clean,0.09,0.15,0.0,0.0,0.01
+India,Lakshadweep,2023,Bioenergy,0.0,0.0,0.0,0.0,0.0
+India,Lakshadweep,2023,Clean,0.09,0.15,4.97,0.0,0.01
 India,Lakshadweep,2023,Coal,62.82,99.85,26.83,51.51,99.99
 India,Lakshadweep,2023,Fossil,62.82,99.85,26.83,51.51,99.99
 India,Lakshadweep,2023,Gas,0.0,0.0,0.0,0.0,0.0
@@ -1249,10 +1249,10 @@ India,Lakshadweep,2023,Hydro,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2023,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2023,Other Fossil,0.0,0.0,0.0,0.0,0.0
 India,Lakshadweep,2023,Other Renewables,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2023,Renewables,0.09,0.15,0.0,0.0,0.01
-India,Lakshadweep,2023,Solar,0.09,0.15,,0.0,0.01
-India,Lakshadweep,2023,Wind,0.0,0.0,,0.0,0.0
-India,Lakshadweep,2023,Wind and solar,0.09,0.15,,0.0,0.01
+India,Lakshadweep,2023,Renewables,0.09,0.15,4.97,0.0,0.01
+India,Lakshadweep,2023,Solar,0.09,0.15,4.97,0.0,0.01
+India,Lakshadweep,2023,Wind,0.0,0.0,0.0,0.0,0.0
+India,Lakshadweep,2023,Wind and solar,0.09,0.15,4.97,0.0,0.01
 India,Madhya Pradesh,2019,Bioenergy,103.24,0.08,120.75,23.74,0.03
 India,Madhya Pradesh,2019,Clean,13925.23,10.83,7209.04,378.46,0.4
 India,Madhya Pradesh,2019,Coal,114695.01,89.17,20490.0,94049.91,99.6
