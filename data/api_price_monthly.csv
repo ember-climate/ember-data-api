@@ -116,6 +116,7 @@ Austria,AUT,2024-06-01,67.72,Europe,Europe,1,0,0,1
 Austria,AUT,2024-07-01,63.4,Europe,Europe,1,0,0,1
 Austria,AUT,2024-08-01,85.12,Europe,Europe,1,0,0,1
 Austria,AUT,2024-09-01,81.7,Europe,Europe,1,0,0,1
+Austria,AUT,2024-10-01,85.82,Europe,Europe,1,0,0,1
 Belgium,BEL,2015-01-01,43.4,Europe,Europe,1,0,0,1
 Belgium,BEL,2015-02-01,50.54,Europe,Europe,1,0,0,1
 Belgium,BEL,2015-03-01,47.05,Europe,Europe,1,0,0,1
@@ -233,6 +234,7 @@ Belgium,BEL,2024-06-01,60.92,Europe,Europe,1,0,0,1
 Belgium,BEL,2024-07-01,54.59,Europe,Europe,1,0,0,1
 Belgium,BEL,2024-08-01,65.53,Europe,Europe,1,0,0,1
 Belgium,BEL,2024-09-01,66.41,Europe,Europe,1,0,0,1
+Belgium,BEL,2024-10-01,78.13,Europe,Europe,1,0,0,1
 Bulgaria,BGR,2016-10-01,64.09,Europe,Europe,1,0,0,0
 Bulgaria,BGR,2016-11-01,38.02,Europe,Europe,1,0,0,0
 Bulgaria,BGR,2016-12-01,43.92,Europe,Europe,1,0,0,0
@@ -329,6 +331,7 @@ Bulgaria,BGR,2024-06-01,97.95,Europe,Europe,1,0,0,0
 Bulgaria,BGR,2024-07-01,136.51,Europe,Europe,1,0,0,0
 Bulgaria,BGR,2024-08-01,126.65,Europe,Europe,1,0,0,0
 Bulgaria,BGR,2024-09-01,106.69,Europe,Europe,1,0,0,0
+Bulgaria,BGR,2024-10-01,89.6,Europe,Europe,1,0,0,0
 Croatia,HRV,2017-10-01,58.27,Europe,Europe,1,0,0,0
 Croatia,HRV,2017-11-01,60.92,Europe,Europe,1,0,0,0
 Croatia,HRV,2017-12-01,42.43,Europe,Europe,1,0,0,0
@@ -413,6 +416,7 @@ Croatia,HRV,2024-06-01,96.77,Europe,Europe,1,0,0,0
 Croatia,HRV,2024-07-01,106.12,Europe,Europe,1,0,0,0
 Croatia,HRV,2024-08-01,113.61,Europe,Europe,1,0,0,0
 Croatia,HRV,2024-09-01,97.7,Europe,Europe,1,0,0,0
+Croatia,HRV,2024-10-01,89.05,Europe,Europe,1,0,0,0
 Czechia,CZE,2015-01-01,29.47,Europe,Europe,1,0,0,1
 Czechia,CZE,2015-02-01,36.12,Europe,Europe,1,0,0,1
 Czechia,CZE,2015-03-01,30.61,Europe,Europe,1,0,0,1
@@ -530,6 +534,7 @@ Czechia,CZE,2024-06-01,76.2,Europe,Europe,1,0,0,1
 Czechia,CZE,2024-07-01,69.91,Europe,Europe,1,0,0,1
 Czechia,CZE,2024-08-01,88.79,Europe,Europe,1,0,0,1
 Czechia,CZE,2024-09-01,81.62,Europe,Europe,1,0,0,1
+Czechia,CZE,2024-10-01,89.16,Europe,Europe,1,0,0,1
 Denmark,DNK,2015-01-01,27.12,Europe,Europe,1,0,0,1
 Denmark,DNK,2015-02-01,29.94,Europe,Europe,1,0,0,1
 Denmark,DNK,2015-03-01,26.88,Europe,Europe,1,0,0,1
@@ -647,6 +652,7 @@ Denmark,DNK,2024-06-01,64.9,Europe,Europe,1,0,0,1
 Denmark,DNK,2024-07-01,62.33,Europe,Europe,1,0,0,1
 Denmark,DNK,2024-08-01,72.79,Europe,Europe,1,0,0,1
 Denmark,DNK,2024-09-01,70.97,Europe,Europe,1,0,0,1
+Denmark,DNK,2024-10-01,76.68,Europe,Europe,1,0,0,1
 Estonia,EST,2015-01-01,33.84,Europe,Europe,1,0,0,1
 Estonia,EST,2015-02-01,33.42,Europe,Europe,1,0,0,1
 Estonia,EST,2015-03-01,30.31,Europe,Europe,1,0,0,1
@@ -764,6 +770,7 @@ Estonia,EST,2024-06-01,91.64,Europe,Europe,1,0,0,1
 Estonia,EST,2024-07-01,97.97,Europe,Europe,1,0,0,1
 Estonia,EST,2024-08-01,106.95,Europe,Europe,1,0,0,1
 Estonia,EST,2024-09-01,83.9,Europe,Europe,1,0,0,1
+Estonia,EST,2024-10-01,91.49,Europe,Europe,1,0,0,1
 Finland,FIN,2015-01-01,33.8,Europe,Europe,1,0,0,1
 Finland,FIN,2015-02-01,33.17,Europe,Europe,1,0,0,1
 Finland,FIN,2015-03-01,29.42,Europe,Europe,1,0,0,1
@@ -881,6 +888,7 @@ Finland,FIN,2024-06-01,36.13,Europe,Europe,1,0,0,1
 Finland,FIN,2024-07-01,16.66,Europe,Europe,1,0,0,1
 Finland,FIN,2024-08-01,12.53,Europe,Europe,1,0,0,1
 Finland,FIN,2024-09-01,56.02,Europe,Europe,1,0,0,1
+Finland,FIN,2024-10-01,40.69,Europe,Europe,1,0,0,1
 France,FRA,2015-01-01,41.95,Europe,Europe,1,1,1,1
 France,FRA,2015-02-01,50.14,Europe,Europe,1,1,1,1
 France,FRA,2015-03-01,43.79,Europe,Europe,1,1,1,1
@@ -998,6 +1006,7 @@ France,FRA,2024-06-01,37.78,Europe,Europe,1,1,1,1
 France,FRA,2024-07-01,47.09,Europe,Europe,1,1,1,1
 France,FRA,2024-08-01,54.56,Europe,Europe,1,1,1,1
 France,FRA,2024-09-01,51.61,Europe,Europe,1,1,1,1
+France,FRA,2024-10-01,62.25,Europe,Europe,1,1,1,1
 Germany,DEU,2015-01-01,31.68,Europe,Europe,1,1,1,1
 Germany,DEU,2015-02-01,36.69,Europe,Europe,1,1,1,1
 Germany,DEU,2015-03-01,31.3,Europe,Europe,1,1,1,1
@@ -1115,6 +1124,7 @@ Germany,DEU,2024-06-01,72.89,Europe,Europe,1,1,1,1
 Germany,DEU,2024-07-01,67.71,Europe,Europe,1,1,1,1
 Germany,DEU,2024-08-01,82.03,Europe,Europe,1,1,1,1
 Germany,DEU,2024-09-01,78.06,Europe,Europe,1,1,1,1
+Germany,DEU,2024-10-01,86.29,Europe,Europe,1,1,1,1
 Greece,GRC,2015-01-01,61.41,Europe,Europe,1,0,0,1
 Greece,GRC,2015-02-01,56.94,Europe,Europe,1,0,0,1
 Greece,GRC,2015-03-01,56.22,Europe,Europe,1,0,0,1
@@ -1232,6 +1242,7 @@ Greece,GRC,2024-06-01,98.91,Europe,Europe,1,0,0,1
 Greece,GRC,2024-07-01,135.23,Europe,Europe,1,0,0,1
 Greece,GRC,2024-08-01,129.81,Europe,Europe,1,0,0,1
 Greece,GRC,2024-09-01,112.34,Europe,Europe,1,0,0,1
+Greece,GRC,2024-10-01,90.04,Europe,Europe,1,0,0,1
 Hungary,HUN,2015-01-01,42.16,Europe,Europe,1,0,0,1
 Hungary,HUN,2015-02-01,41.27,Europe,Europe,1,0,0,1
 Hungary,HUN,2015-03-01,35.64,Europe,Europe,1,0,0,1
@@ -1349,6 +1360,7 @@ Hungary,HUN,2024-06-01,91.74,Europe,Europe,1,0,0,1
 Hungary,HUN,2024-07-01,135.57,Europe,Europe,1,0,0,1
 Hungary,HUN,2024-08-01,120.78,Europe,Europe,1,0,0,1
 Hungary,HUN,2024-09-01,105.85,Europe,Europe,1,0,0,1
+Hungary,HUN,2024-10-01,92.47,Europe,Europe,1,0,0,1
 Ireland,IRL,2015-01-01,50.64,Europe,Europe,1,0,0,1
 Ireland,IRL,2015-02-01,58.21,Europe,Europe,1,0,0,1
 Ireland,IRL,2015-03-01,53.75,Europe,Europe,1,0,0,1
@@ -1449,6 +1461,7 @@ Ireland,IRL,2024-06-01,107.72,Europe,Europe,1,0,0,1
 Ireland,IRL,2024-07-01,110.94,Europe,Europe,1,0,0,1
 Ireland,IRL,2024-08-01,100.87,Europe,Europe,1,0,0,1
 Ireland,IRL,2024-09-01,112.72,Europe,Europe,1,0,0,1
+Ireland,IRL,2024-10-01,123.59,Europe,Europe,1,0,0,1
 Italy,ITA,2015-01-01,51.6,Europe,Europe,1,1,1,1
 Italy,ITA,2015-02-01,54.52,Europe,Europe,1,1,1,1
 Italy,ITA,2015-03-01,49.94,Europe,Europe,1,1,1,1
@@ -1566,6 +1579,7 @@ Italy,ITA,2024-06-01,103.16,Europe,Europe,1,1,1,1
 Italy,ITA,2024-07-01,112.37,Europe,Europe,1,1,1,1
 Italy,ITA,2024-08-01,128.47,Europe,Europe,1,1,1,1
 Italy,ITA,2024-09-01,117.08,Europe,Europe,1,1,1,1
+Italy,ITA,2024-10-01,116.71,Europe,Europe,1,1,1,1
 Latvia,LVA,2015-01-01,39.78,Europe,Europe,1,0,0,1
 Latvia,LVA,2015-02-01,39.44,Europe,Europe,1,0,0,1
 Latvia,LVA,2015-03-01,32.21,Europe,Europe,1,0,0,1
@@ -1683,6 +1697,7 @@ Latvia,LVA,2024-06-01,91.64,Europe,Europe,1,0,0,1
 Latvia,LVA,2024-07-01,98.02,Europe,Europe,1,0,0,1
 Latvia,LVA,2024-08-01,106.95,Europe,Europe,1,0,0,1
 Latvia,LVA,2024-09-01,83.69,Europe,Europe,1,0,0,1
+Latvia,LVA,2024-10-01,91.5,Europe,Europe,1,0,0,1
 Lithuania,LTU,2015-01-01,39.78,Europe,Europe,1,0,0,1
 Lithuania,LTU,2015-02-01,39.44,Europe,Europe,1,0,0,1
 Lithuania,LTU,2015-03-01,32.21,Europe,Europe,1,0,0,1
@@ -1800,6 +1815,7 @@ Lithuania,LTU,2024-06-01,91.64,Europe,Europe,1,0,0,1
 Lithuania,LTU,2024-07-01,98.02,Europe,Europe,1,0,0,1
 Lithuania,LTU,2024-08-01,106.95,Europe,Europe,1,0,0,1
 Lithuania,LTU,2024-09-01,83.28,Europe,Europe,1,0,0,1
+Lithuania,LTU,2024-10-01,91.5,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2015-01-01,31.68,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2015-02-01,36.69,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2015-03-01,31.3,Europe,Europe,1,0,0,1
@@ -1917,6 +1933,7 @@ Luxembourg,LUX,2024-06-01,72.89,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2024-07-01,67.71,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2024-08-01,82.03,Europe,Europe,1,0,0,1
 Luxembourg,LUX,2024-09-01,78.06,Europe,Europe,1,0,0,1
+Luxembourg,LUX,2024-10-01,86.29,Europe,Europe,1,0,0,1
 Netherlands,NLD,2015-01-01,41.18,Europe,Europe,1,0,0,1
 Netherlands,NLD,2015-02-01,46.37,Europe,Europe,1,0,0,1
 Netherlands,NLD,2015-03-01,42.18,Europe,Europe,1,0,0,1
@@ -2034,6 +2051,7 @@ Netherlands,NLD,2024-06-01,68.06,Europe,Europe,1,0,0,1
 Netherlands,NLD,2024-07-01,65.04,Europe,Europe,1,0,0,1
 Netherlands,NLD,2024-08-01,77.1,Europe,Europe,1,0,0,1
 Netherlands,NLD,2024-09-01,77.62,Europe,Europe,1,0,0,1
+Netherlands,NLD,2024-10-01,87.8,Europe,Europe,1,0,0,1
 North Macedonia,MKD,2023-05-01,92.5,Europe,Europe,0,0,0,0
 North Macedonia,MKD,2023-06-01,82.98,Europe,Europe,0,0,0,0
 North Macedonia,MKD,2023-07-01,104.13,Europe,Europe,0,0,0,0
@@ -2051,6 +2069,7 @@ North Macedonia,MKD,2024-06-01,92.5,Europe,Europe,0,0,0,0
 North Macedonia,MKD,2024-07-01,137.06,Europe,Europe,0,0,0,0
 North Macedonia,MKD,2024-08-01,127.51,Europe,Europe,0,0,0,0
 North Macedonia,MKD,2024-09-01,106.53,Europe,Europe,0,0,0,0
+North Macedonia,MKD,2024-10-01,94.26,Europe,Europe,0,0,0,0
 Norway,NOR,2015-01-01,29.19,Europe,Europe,0,0,0,1
 Norway,NOR,2015-02-01,28.46,Europe,Europe,0,0,0,1
 Norway,NOR,2015-03-01,24.94,Europe,Europe,0,0,0,1
@@ -2168,6 +2187,7 @@ Norway,NOR,2024-06-01,31.96,Europe,Europe,0,0,0,1
 Norway,NOR,2024-07-01,27.21,Europe,Europe,0,0,0,1
 Norway,NOR,2024-08-01,19.09,Europe,Europe,0,0,0,1
 Norway,NOR,2024-09-01,21.28,Europe,Europe,0,0,0,1
+Norway,NOR,2024-10-01,28.32,Europe,Europe,0,0,0,1
 Poland,POL,2015-01-01,34.34,Europe,Europe,1,0,0,1
 Poland,POL,2015-02-01,36.23,Europe,Europe,1,0,0,1
 Poland,POL,2015-03-01,32.64,Europe,Europe,1,0,0,1
@@ -2285,6 +2305,7 @@ Poland,POL,2024-06-01,105.53,Europe,Europe,1,0,0,1
 Poland,POL,2024-07-01,109.01,Europe,Europe,1,0,0,1
 Poland,POL,2024-08-01,100.12,Europe,Europe,1,0,0,1
 Poland,POL,2024-09-01,94.99,Europe,Europe,1,0,0,1
+Poland,POL,2024-10-01,103.16,Europe,Europe,1,0,0,1
 Portugal,PRT,2015-01-01,51.77,Europe,Europe,1,0,0,1
 Portugal,PRT,2015-02-01,42.61,Europe,Europe,1,0,0,1
 Portugal,PRT,2015-03-01,43.15,Europe,Europe,1,0,0,1
@@ -2402,6 +2423,7 @@ Portugal,PRT,2024-06-01,58.29,Europe,Europe,1,0,0,1
 Portugal,PRT,2024-07-01,74.24,Europe,Europe,1,0,0,1
 Portugal,PRT,2024-08-01,91.16,Europe,Europe,1,0,0,1
 Portugal,PRT,2024-09-01,73.54,Europe,Europe,1,0,0,1
+Portugal,PRT,2024-10-01,69.36,Europe,Europe,1,0,0,1
 Romania,ROU,2015-01-01,39.49,Europe,Europe,1,0,0,0
 Romania,ROU,2015-02-01,37.12,Europe,Europe,1,0,0,0
 Romania,ROU,2015-03-01,32.26,Europe,Europe,1,0,0,0
@@ -2519,6 +2541,7 @@ Romania,ROU,2024-06-01,97.81,Europe,Europe,1,0,0,0
 Romania,ROU,2024-07-01,145.19,Europe,Europe,1,0,0,0
 Romania,ROU,2024-08-01,126.86,Europe,Europe,1,0,0,0
 Romania,ROU,2024-09-01,109.24,Europe,Europe,1,0,0,0
+Romania,ROU,2024-10-01,89.95,Europe,Europe,1,0,0,0
 Serbia,SRB,2016-12-01,54.72,Europe,Europe,0,0,0,0
 Serbia,SRB,2017-01-01,82.92,Europe,Europe,0,0,0,0
 Serbia,SRB,2017-02-01,55.44,Europe,Europe,0,0,0,0
@@ -2613,6 +2636,7 @@ Serbia,SRB,2024-06-01,98.04,Europe,Europe,0,0,0,0
 Serbia,SRB,2024-07-01,134.29,Europe,Europe,0,0,0,0
 Serbia,SRB,2024-08-01,127.12,Europe,Europe,0,0,0,0
 Serbia,SRB,2024-09-01,106.89,Europe,Europe,0,0,0,0
+Serbia,SRB,2024-10-01,89.84,Europe,Europe,0,0,0,0
 Slovakia,SVK,2015-01-01,31.26,Europe,Europe,1,0,0,1
 Slovakia,SVK,2015-02-01,36.66,Europe,Europe,1,0,0,1
 Slovakia,SVK,2015-03-01,30.96,Europe,Europe,1,0,0,1
@@ -2844,6 +2868,7 @@ Slovenia,SVN,2024-06-01,92.75,Europe,Europe,1,0,0,1
 Slovenia,SVN,2024-07-01,88.33,Europe,Europe,1,0,0,1
 Slovenia,SVN,2024-08-01,110.83,Europe,Europe,1,0,0,1
 Slovenia,SVN,2024-09-01,94.39,Europe,Europe,1,0,0,1
+Slovenia,SVN,2024-10-01,88.98,Europe,Europe,1,0,0,1
 Spain,ESP,2015-01-01,51.54,Europe,Europe,1,0,0,1
 Spain,ESP,2015-02-01,42.61,Europe,Europe,1,0,0,1
 Spain,ESP,2015-03-01,43.08,Europe,Europe,1,0,0,1
@@ -2961,6 +2986,7 @@ Spain,ESP,2024-06-01,56.26,Europe,Europe,1,0,0,1
 Spain,ESP,2024-07-01,72.43,Europe,Europe,1,0,0,1
 Spain,ESP,2024-08-01,91.1,Europe,Europe,1,0,0,1
 Spain,ESP,2024-09-01,72.54,Europe,Europe,1,0,0,1
+Spain,ESP,2024-10-01,68.49,Europe,Europe,1,0,0,1
 Sweden,SWE,2015-01-01,30.24,Europe,Europe,1,0,0,1
 Sweden,SWE,2015-02-01,29.59,Europe,Europe,1,0,0,1
 Sweden,SWE,2015-03-01,25.88,Europe,Europe,1,0,0,1
@@ -3078,6 +3104,7 @@ Sweden,SWE,2024-06-01,28.73,Europe,Europe,1,0,0,1
 Sweden,SWE,2024-07-01,21.1,Europe,Europe,1,0,0,1
 Sweden,SWE,2024-08-01,12.88,Europe,Europe,1,0,0,1
 Sweden,SWE,2024-09-01,15.49,Europe,Europe,1,0,0,1
+Sweden,SWE,2024-10-01,19.57,Europe,Europe,1,0,0,1
 Switzerland,CHE,2015-01-01,44.0,Europe,Europe,0,0,0,1
 Switzerland,CHE,2015-02-01,50.86,Europe,Europe,0,0,0,1
 Switzerland,CHE,2015-03-01,44.48,Europe,Europe,0,0,0,1
@@ -3195,3 +3222,4 @@ Switzerland,CHE,2024-06-01,48.14,Europe,Europe,0,0,0,1
 Switzerland,CHE,2024-07-01,38.68,Europe,Europe,0,0,0,1
 Switzerland,CHE,2024-08-01,58.66,Europe,Europe,0,0,0,1
 Switzerland,CHE,2024-09-01,81.07,Europe,Europe,0,0,0,1
+Switzerland,CHE,2024-10-01,83.36,Europe,Europe,0,0,0,1
