@@ -245,6 +245,9 @@ WHERE
     generation_date BETWEEN '2000-01-01'
     AND latest_actual_month.max_monthly_actual_generation_date
     AND generation.country_or_region IS NOT NULL
+    AND NOT (country.eu_member_flag = 1 AND generation_date >= '2024-12-01')
+    AND NOT (generation.country_or_region = 'EU' AND generation_date >= '2024-12-01')
+    AND NOT (generation.country_or_region = 'Europe' AND generation_date >= '2024-12-01')
 ORDER BY
     country_or_region,
     generation_date,
