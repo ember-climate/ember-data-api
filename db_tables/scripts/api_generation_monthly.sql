@@ -248,6 +248,7 @@ WHERE
     AND NOT (country.eu_member_flag = 1 AND generation_date >= '2024-12-01')
     AND NOT (generation.country_or_region = 'EU' AND generation_date >= '2024-12-01')
     AND NOT (generation.country_or_region = 'Europe' AND generation_date >= '2024-12-01')
+    AND NOT (generation.country_or_region = 'World' AND generation_date >= '2024-12-01')
 ORDER BY
     country_or_region,
     generation_date,
