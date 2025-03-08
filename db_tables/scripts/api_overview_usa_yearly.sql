@@ -18,3 +18,4 @@ SELECT
 FROM published.mart_overview_yearly_usa_states states
 LEFT JOIN published.dim_country country
     ON country.country_code = states.country_code
+WHERE states.year <= 2023

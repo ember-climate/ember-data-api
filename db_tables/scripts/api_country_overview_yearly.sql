@@ -112,4 +112,5 @@ WHERE
         'Timor-Leste'
     )
     AND ("Year", overview.country_or_region) != (2023, 'Ukraine')
+    AND ("Year", overview.country_or_region) != (2024, 'Ukraine')
     AND NOT ((country.ember_region != 'Europe' AND overview.country_or_region != 'EU' AND overview.country_or_region != 'Europe') AND "year" >= 2024)
