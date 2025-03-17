@@ -82,4 +82,4 @@ SELECT
     states.emissions_ktco2 as emissions_ktco2,
     states.share_of_emissions_pct as share_of_emissions_pct
 FROM combined as states
-WHERE states.year <= 2023
+WHERE states.year <= 2024
